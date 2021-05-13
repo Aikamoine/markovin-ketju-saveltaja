@@ -11,7 +11,7 @@ Tällä hetkellä ohjelma ei tee muuta kuin luo yksinkertaisen sävelmän, jolla
 - [Määrittelydokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/määrittelydokumentti.md)
 
 Seuraavat ovat tyhjiä, mutta alustettu
-- [Käyttöohje](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/kayttohje.md)
+- [Käyttöohje](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/käyttöohje.md)
 - [Testausdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/testausdokumentti.md)
 - [Toteutusdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/toteutusdokumentti.md)
 
@@ -21,9 +21,9 @@ Seuraavat ovat tyhjiä, mutta alustettu
 
 ## Asennus ja komentorivitoiminnot
 
-- Lataa ohjelma ja mene komentorivillä ohjelman kansioon
+Lataa ohjelma ja mene komentorivillä ohjelman kansioon
 
-- Asenna Poetryn avulla riippuvuudet komentorivillä:
+Asenna Poetryn avulla riippuvuudet komentorivillä:
 ```bash
 poetry install
 ```

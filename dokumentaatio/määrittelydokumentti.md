@@ -2,9 +2,9 @@
 
 ## Perustietoja
 
-Opinto-ohjelma: tietojenkäsittelytieteen kandidaatti
-Projektin dokumentaatiokieli: suomi
-Projektin koodikieli: python
+- Opinto-ohjelma: tietojenkäsittelytieteen kandidaatti
+- Projektin dokumentaatiokieli: suomi
+- Projektin koodikieli: python
 
 ## Sovellus
 
