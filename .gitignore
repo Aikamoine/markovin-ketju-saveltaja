@@ -3,4 +3,5 @@ __pycache__/
 /.coverage
 /htmlcov
 /dokumentaatio/viikkoraportit/raporttipohja.md
-/src/savellykset/
+/src/savellykset/*
+!/src/savellykset/__init__.py
