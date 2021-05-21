@@ -35,7 +35,7 @@ Tämä osa työstä ei ole vielä tätä kirjoittaessa vahvistunut. Määrittely
 
 Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia.
 
-Määrittelyn ulkopuolelle jätetään myös ohjelman tuottaman musiikin dynamiikan lisääminen. Mikäli aikaa jää, niin keskitytään tekemään mielenkiintoisempia aikarakenteita ja 
+Määrittelyn ulkopuolelle jätetään myös ohjelman tuottaman musiikin dynamiikan lisääminen. Mikäli aikaa jää, niin keskitytään tekemään mielenkiintoisempia aikarakenteita ja tahtikuvioita.
 
 ## Lähteet
 
