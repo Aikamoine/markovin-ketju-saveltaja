@@ -2,22 +2,26 @@
 
 ## Nykyinen toiminta
 
-Tällä hetkellä ohjelma ei tee muuta kuin luo yksinkertaisen sävelmän, jolla voi testata midi-tiedoston muodostusta. Yksikkötesteissä on vain yksi testi, eikä sekään liity ohjelman toimintaan.
+Tällä hetkellä ohjelma ei tee muuta kuin luo yksinkertaisen sävelmän muutamasta vaihtoehdosta. Sävelmässä on 4 puolen sekunnin pituista ääntä. Sävelmät voivat olla:
+- 1/3 todennäköisyydellä: A D C A
+- 1/3 todennäköisyydellä: A D F B
+- 1/3 todennäköisyydellä: B D A D
 
 ## Linkit
 
 ### Dokumentaatio
 
 - [Määrittelydokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/määrittelydokumentti.md)
+- [Testausdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/testausdokumentti.md)
 
 Seuraavat ovat tyhjiä, mutta alustettu
 - [Käyttöohje](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/käyttöohje.md)
-- [Testausdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/testausdokumentti.md)
 - [Toteutusdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/toteutusdokumentti.md)
 
 ### Viikkoraportit
 
 - [Viikko 1](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/viikkoraportit/viikko1.md)
+- [Viikko 2](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/viikkoraportit/viikko2.md)
 
 ## Asennus ja komentorivitoiminnot
 
@@ -28,10 +32,14 @@ Asenna Poetryn avulla riippuvuudet komentorivillä:
 poetry install
 ```
 
-Voit luoda testisävelmän komennolla. Sävelmä muodostuu kansioon (./src/savellykset):
+Voit käynnistää ohjelman komennolla:
 ```bash
-poetry run invoke testisavelma
+poetry run invoke main
 ```
+Ohjelma tulostaa komentoriville vaiheita suorituksesta; Trie-puun rakenteen, luodun sävelmän vaiheittain, sekä midi-tiedoston kirjoituksen.
+
+Sävelmä muodostuu kansioon (./src/savellykset):
+
 
 Testit suoritetaan komennolla:
 
@@ -39,7 +47,7 @@ Testit suoritetaan komennolla:
 poetry run invoke test
 ```
 
-Testien haaraumakattavuudesta saat luotua raportin komennolla:
+Testien haaraumakattavuudesta saat luotua raportin komennolla (tämä myös ajaa testit, eli ylempää komentoa ei tarvitse tehdä):
 
 ```bash
 poetry run invoke kattavuusraportti
@@ -49,3 +57,4 @@ Pylint-tyylitarkastukset ajetaan komennolla:
 
 ```bash
 poetry run invoke lint
+```

@@ -8,7 +8,9 @@
 
 ## Sovellus
 
-Tarkoituksena on toteuttaa ohjelma, joka Markovin ketjuja hyödyntäen osaa "säveltää" sointukulkuja malliaineiston pohjalta. Malliaineiston tiedot tallennetaan trie-tietorakenteeseen. Kun sointukulut on muodostettu, generoidaan niille satunnainen melodia, joka soveltuu sointuihin.
+Tarkoituksena on toteuttaa ohjelma, joka Markovin ketjuja hyödyntäen osaa "säveltää" malliaineiston pohjalta. Malliaineiston tiedot tallennetaan trie-tietorakenteeseen. Kun malliaineisto on muodostettu, generoidaan sen pohjalta satunnainen melodia.
+
+Jos ohjelmalle pitää määritellä jokin käyttötarkoitus, niin se olisi toimia ihmismuusikon inspiraation lähteenä. Näin ollen ensisijainen prioriteetti ei ole, että tuotetut tiedostot olisivat valmiita kappaleita, vaan että ne olisivat uniikkeja, melodisia. Tärkeämpää on äänten ja sointujen välinen vuorovaikutus kuin niiden soinnin pituuden ja voimmakkuuden vaihtelu.
 
 Määrittelyä täsmennetään, kunhan implementaatio edistyy. Tässä ollaan itselle uuden äärellä, joten kaikki täsmällisempi määrittely olisi puhdasta arvausta.
 
@@ -27,7 +29,13 @@ Muita itse implenetoitavia luokkia ja tietorakenteita:
 
 Alustava ajatus on käyttää malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä.
 
-Tämä osa työstä ei ole vielä tätä kirjoittaessa vahvistunut. Määrittely malliaineistolle on, että saadaan muodostettua tunnetun ja arvostetun säveltäjän teoksista sointukulkuja,
+Tämä osa työstä ei ole vielä tätä kirjoittaessa vahvistunut. Määrittely malliaineistolle on, että saadaan muodostettua tunnetun ja arvostetun säveltäjän teoksista sävelkulkuja.
+
+### Jatkokehitysideoita
+
+Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia.
+
+Määrittelyn ulkopuolelle jätetään myös ohjelman tuottaman musiikin dynamiikan lisääminen. Mikäli aikaa jää, niin keskitytään tekemään mielenkiintoisempia aikarakenteita ja 
 
 ## Lähteet
 

@@ -4,6 +4,11 @@ from invoke import task
 def testisavelma(ctx):
     ctx.run("python3 src/testisavelma.py")
 
+
+@task
+def main(ctx):
+    ctx.run("python3 src/main.py")
+
 @task
 def test(ctx):
     ctx.run("pytest src")
