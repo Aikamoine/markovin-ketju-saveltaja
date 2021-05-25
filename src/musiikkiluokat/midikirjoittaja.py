@@ -86,7 +86,7 @@ class Midikirjoittaja():
         raita = self.raidat[nimi]
         self.poista_raidasta(raita, 0, aika)
 
-    def kirjoita_aanet_uuteen_raitaan(self, aanet, nimi):
+    def kirjoita_aanet_uuteen_raitaan(self, soitin, aanet, nimi):
         '''
         Luo uuden raidan ja kirjoittaa kaikki annetut äänet sinne.
 
@@ -94,9 +94,10 @@ class Midikirjoittaja():
             aanet: taulukko Säveliä
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
         '''
-        self.lisaa_raita(0, nimi)
+        self.lisaa_raita(soitin, nimi)
         for aani in aanet:
             print(f"Lisätään midiin {str(aani)}")
             self.lisaa_raitaan(nimi, aani, 64)
             self.poista_raidasta(nimi, aani, 500)
+        print()
         self.kirjoita_tiedosto()

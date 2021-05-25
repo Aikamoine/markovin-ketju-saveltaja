@@ -4,7 +4,7 @@ from musiikkiluokat.savel import Savel
 
 class TrieTest(unittest.TestCase):
     def setUp(self):
-        self.trie = Trie()
+        self.trie = Trie(8)
 
         self.savel_a = Savel(69)
         self.savel_d = Savel(62)

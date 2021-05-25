@@ -36,14 +36,37 @@ class MarkovSavelma():
         Lisää olemassa olevaan sävelmään yhden äänen.
         '''
         lisattava = None
-        print(f"Markov ennen lisäystä:\n {self}")
         if len(self.savelma) == 0:
             lisattava = self._arvo_savel(self.trie.juurisolmu.lapset).savel
         else:
             seuraava = self.trie.loyda_seuraava_solmu(self.savelma)
             lisattava = self._arvo_savel(seuraava.lapset).savel
         self.savelma.append(lisattava)
-        print(f"Markov lisäyksen jälkeen:\n {self}")
+
+    def luo_savellys(self, savelten_maara):
+        for i in range(savelten_maara):
+            kaytettava_savelma = self.savelma[-7:]
+
+            while True:
+                self._tulosta_etsittava_savelma(kaytettava_savelma)
+                seuraava = self.trie.loyda_seuraava_solmu(kaytettava_savelma)
+
+                if seuraava == None or len(seuraava.lapset) == 0:
+                    kaytettava_savelma = kaytettava_savelma[1:]
+                else:
+                    break
+            
+            lisattava = self._arvo_savel(seuraava.lapset).savel
+            self.savelma.append(lisattava)
+            print(str(self))
+            print()
+
+    def _tulosta_etsittava_savelma(self, savelma):
+        printtaus = ""
+        for savel in savelma:
+            printtaus += str(savel) + ","
+
+        print(f"Etsitään seuraava ääni sävelmälle: {printtaus}")
 
     def _arvo_savel(self, vaihtoehdot):
         '''

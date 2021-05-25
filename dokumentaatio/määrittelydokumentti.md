@@ -44,3 +44,5 @@ Toistaiseksi käytössä olleita lähteitä
 - [Trie-artikkeli ja implementaatio, Gild Academy](https://medium.com/@info.gildacademy/a-simpler-way-to-implement-trie-data-structure-in-python-efa6a958a4f2)
 - [Trie-artikkeli ja implementaatio, Shubhadeep Roychowdhury](https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1)
 - [Trie-tutoriaali, GeeksforGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/)
+- [Midi-standradin kuvauksia](http://www.music.mcgill.ca/~ich/classes/mumt306/StandardMIDIfileformat.html)
+- [Mido-kirjaston dokumentaatio](https://mido.readthedocs.io/en/latest/index.html)

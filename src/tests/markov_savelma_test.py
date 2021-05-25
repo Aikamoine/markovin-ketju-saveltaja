@@ -8,7 +8,7 @@ class MarkoSavelmaTest(unittest.TestCase):
         self.markov = MarkovSavelma(self._luo_trie())
 
     def _luo_trie(self):
-        trie = Trie()
+        trie = Trie(8)
 
         savel_a = Savel(69)
         savel_d = Savel(62)

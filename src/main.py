@@ -4,6 +4,7 @@ Pääohjelma, joka ajetaan Invoken kautta
 
 from musiikkiluokat.savel import Savel
 from musiikkiluokat.midikirjoittaja import Midikirjoittaja
+from musiikkiluokat.midilukija import Midilukija
 from trie.trie import Trie
 from markov_savelma import MarkovSavelma
 
@@ -27,7 +28,7 @@ def luo_trie():
     trie.lisaa_savelma(savelma_3)
     return trie
 
-if __name__ == "__main__":
+def luo_testisavelma():
     trie = luo_trie()
     markov = MarkovSavelma(trie)
     #markov.alusta_savelma([Savel(69)]) #A
@@ -42,3 +43,20 @@ if __name__ == "__main__":
     midi = Midikirjoittaja()
     print()
     midi.kirjoita_aanet_uuteen_raitaan(markov.savelma, "uusi raita")
+
+
+
+if __name__ == "__main__":
+    #luo_testisavelma()
+    trie = Trie(5)
+    lukija = Midilukija()
+    lukija.tallenna_polku_trieen("src//musiikkidata//", trie)
+
+    trie.tulosta()
+    print()
+
+    markov = MarkovSavelma(trie)
+
+    markov.luo_savellys(16)
+    midi = Midikirjoittaja()
+    midi.kirjoita_aanet_uuteen_raitaan(0, markov.savelma, "uusi raita")

@@ -28,8 +28,6 @@ class Savel():
             return self.aani == savel.aani
         return False
 
-   # def __hash__(self):
-   #     return self.aani
 
     def __str__(self):
         '''

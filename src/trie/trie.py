@@ -1,18 +1,21 @@
 '''
 Sisältää Trie-tietorakenteen koodin
 '''
+from musiikkiluokat.savel import Savel
+
 class Trie():
     '''
     Sisältää Trie-tietorakenteen koodin
 
         juurisolmu: Solmu
     '''
-    def __init__(self):
+    def __init__(self, maksimisyvyys):
         '''
         Konstruktori.
         Alustaa juurisolmu-muuttujan Solmuksi, jolla ei ole säveltä
         '''
         self.juurisolmu = Solmu(None)
+        self.maksimisyvyys = maksimisyvyys
 
     def lisaa_savelma(self, savelma):
         '''
@@ -60,11 +63,22 @@ class Trie():
 
     def tulosta(self):
         '''
-        Tulostaa Trien siten, että jokainen solmu on sisennetty vanhempaansa nähden
+        Tulostaa Trien tiedostoon, että jokainen solmu on sisennetty vanhempaansa nähden
         '''
-        print("Trie:")
+        tiedosto = open("src//trie//trie.txt", "w")
         for solmu in self.juurisolmu.lapset:
-            solmu.tulosta("")
+            #solmu.tulosta("", tiedosto)
+            solmu.tallenna(0, tiedosto)
+
+    def lisaa_savelet_trieen(self, aanet):
+        savelet = []
+        for aani in aanet:
+            savel = Savel(aani)
+            savelet.append(savel)
+
+            if len(savelet) == self.maksimisyvyys:
+                self.lisaa_savelma(savelet)
+                savelet = []
 
 class Solmu():
     '''
@@ -83,10 +97,20 @@ class Solmu():
         self.maara = 1
         self.lapset = []
 
-    def tulosta(self, sisennys):
+    def tallenna(self, syvyys, tiedosto):
+        sisennykset = ""
+        for i in range(0, syvyys):
+            sisennykset += "| "
+        tiedosto.write(f"{sisennykset}{self.savel}, {self.maara} kpl\n")
+        for solmu in self.lapset:
+            solmu.tallenna(syvyys + 1, tiedosto)
+
+    def tulosta(self, sisennys, tiedosto):
         '''
         Tulostaa Solmun siten, että jokainen solmu on sisennetty vanhempaansa nähden
+        Huom! Vaikka tulostuksessa näkyykin sävelen korkeus, esim A>4<, niin lukumäärään
+        on kuitenkin huomioitu kaikki saman sävelen äänet, korkeudesta
         '''
-        print(f"{sisennys}{self.savel}, {self.maara} kpl:")
+        tiedosto.write(f"{sisennys}{self.savel}, {self.maara} kpl\n")
         for solmu in self.lapset:
-            solmu.tulosta(f"{sisennys}  ")
+            solmu.tulosta(f"{sisennys}  ", tiedosto)

@@ -5,3 +5,4 @@ __pycache__/
 /dokumentaatio/viikkoraportit/raporttipohja.md
 /src/savellykset/*
 !/src/savellykset/__init__.py
+.vscode/
