@@ -1,3 +1,3 @@
 [run]
 source = src
-omit = src/tests/**, src/savellykset/**
+omit = src/tests/**, src/savellykset/**, src/main.py

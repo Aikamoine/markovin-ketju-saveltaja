@@ -1,7 +1,7 @@
 '''
 Sisältää Trie-tietorakenteen koodin
 '''
-from musiikkiluokat.savel import Savel
+from musiikkiluokat.aani import Aani
 
 class Trie():
     '''
@@ -22,19 +22,20 @@ class Trie():
         Lisää Trieen kokonaisen sävelmän
 
         args:
-            savelma: taulukko Savel-olioita
+            savelma: taulukko Aani-olioita
         '''
         lahtosolmu = self.juurisolmu
-        for i in range(len(savelma)):
-            savel_loytyi = False
+
+        for savel in savelma:
+            aani_loytyi = False
             for solmu in lahtosolmu.lapset:
-                if solmu.savel == savelma[i]:
+                if solmu.aani == savel:
                     solmu.maara += 1
                     lahtosolmu = solmu
-                    savel_loytyi = True
+                    aani_loytyi = True
                     break
-            if not savel_loytyi:
-                uusi_solmu = Solmu(savelma[i])
+            if not aani_loytyi:
+                uusi_solmu = Solmu(savel)
                 lahtosolmu.lapset.append(uusi_solmu)
                 lahtosolmu = uusi_solmu
 
@@ -45,72 +46,70 @@ class Trie():
         joka kuuluu annettuun sävelmään.
 
         args:
-            savelma: taulukko Savel-olioita
+            savelma: taulukko Aani-olioita
         '''
         lahtosolmu = self.juurisolmu
-        for i in range(0, len(savelma)):
-            savel_loytyi = False
+        for savel in savelma:
+            aani_loytyi = False
             for solmu in lahtosolmu.lapset:
-                if solmu.savel == savelma[i]:
+                if solmu.aani == savel.aani:
                     lahtosolmu = solmu
-                    savel_loytyi = True
+                    aani_loytyi = True
                     break
 
-            if not savel_loytyi:
+            if not aani_loytyi:
                 return None
 
         return lahtosolmu
 
-    def tulosta(self):
+    def tallenna(self):
         '''
-        Tulostaa Trien tiedostoon, että jokainen solmu on sisennetty vanhempaansa nähden
+        Tallentaa Trien tiedostoon, että jokainen solmu on sisennetty vanhempaansa nähden
         '''
-        tiedosto = open("src//trie//trie.txt", "w")
-        for solmu in self.juurisolmu.lapset:
-            #solmu.tulosta("", tiedosto)
-            solmu.tallenna(0, tiedosto)
+        #tiedosto = open("src//trie//trie.txt", "w")
+        with open("src//trie//trie.txt", "w") as tiedosto:
+            for solmu in self.juurisolmu.lapset:
+                solmu.tallenna("", tiedosto)
 
-    def lisaa_savelet_trieen(self, aanet):
-        savelet = []
+    def lisaa_aanet_trieen(self, aanet):
+        '''
+        Lisää taulukon kaikki äänet Trieen.
+
+        args:
+            aanet: taulukko kokonaislukuja, Midi-standarin äänenkorkeuksia
+        '''
+        lisattavat = []
         for aani in aanet:
-            savel = Savel(aani)
-            savelet.append(savel)
+            lisattava = Aani(aani)
+            lisattavat.append(lisattava)
 
-            if len(savelet) == self.maksimisyvyys:
-                self.lisaa_savelma(savelet)
-                savelet = []
+            if len(lisattavat) == self.maksimisyvyys:
+                self.lisaa_savelma(lisattavat)
+                lisattavat = []
+        if len(lisattavat) > 0:
+            self.lisaa_savelma(lisattavat)
 
 class Solmu():
     '''
     Solmu-olio. Näistä koostuu Trie-puu
     '''
-    def __init__(self, savel):
+    def __init__(self, aani):
         '''
         Konstruktori.
-            savel: Savel-olio. Mitä säveltä solmu kuvastaa
+            aani: Aani-olio. Mitä ääntä solmu kuvastaa
             maara: Kuinka monta kertaa solmun kautta on kuljettu arvoja lisätessä
             lapset: taulukko Solmuja, joihin tämän Solmun kautta kuljetaan
         args:
-            savel: Savel-olio
+            aani: Aani-olio
         '''
-        self.savel = savel
+        self.aani = aani
         self.maara = 1
         self.lapset = []
 
-    def tallenna(self, syvyys, tiedosto):
-        sisennykset = ""
-        for i in range(0, syvyys):
-            sisennykset += "| "
-        tiedosto.write(f"{sisennykset}{self.savel}, {self.maara} kpl\n")
-        for solmu in self.lapset:
-            solmu.tallenna(syvyys + 1, tiedosto)
-
-    def tulosta(self, sisennys, tiedosto):
+    def tallenna(self, sisennys, tiedosto):
         '''
-        Tulostaa Solmun siten, että jokainen solmu on sisennetty vanhempaansa nähden
-        Huom! Vaikka tulostuksessa näkyykin sävelen korkeus, esim A>4<, niin lukumäärään
-        on kuitenkin huomioitu kaikki saman sävelen äänet, korkeudesta
+        Tallentaa Solmun tiedostoon siten, että jokainen solmu on sisennetty vanhempaansa nähden
         '''
-        tiedosto.write(f"{sisennys}{self.savel}, {self.maara} kpl\n")
+        tiedosto.write(f"{sisennys}{str(self.aani)}, {self.maara} kpl\n")
         for solmu in self.lapset:
-            solmu.tulosta(f"{sisennys}  ", tiedosto)
+            solmu.tallenna(f"{sisennys}| ", tiedosto)

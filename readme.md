@@ -2,10 +2,9 @@
 
 ## Nykyinen toiminta
 
-Tällä hetkellä ohjelma ei tee muuta kuin luo yksinkertaisen sävelmän muutamasta vaihtoehdosta. Sävelmässä on 4 puolen sekunnin pituista ääntä. Sävelmät voivat olla:
-- 1/3 todennäköisyydellä: A D C A
-- 1/3 todennäköisyydellä: A D F B
-- 1/3 todennäköisyydellä: B D A D
+Ohjelmassa on (mielestäni) varsin yksinkertainen käyttöliittymä komentorivillä. Käyttöohjeessa sen valintoja on hieman laajennettu, mutta en usko ohjeen olevan kovin tarpeellinen.
+
+Ohjelma luo käyttäjän antamien parametrien perusteella sävelmiä. Tällä hetkellä ne kuulostavat hieman sattumanvaraisilta, koska äänten pituuksien arvontaan ei ole vielä panostettu kovin paljon. Kuitenkin teosten pitäisi kuulostaa suhteellisen melodisilta, eikä ainakaan epävireisiltä.
 
 ## Linkit
 
@@ -13,15 +12,17 @@ Tällä hetkellä ohjelma ei tee muuta kuin luo yksinkertaisen sävelmän muutam
 
 - [Määrittelydokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/määrittelydokumentti.md)
 - [Testausdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/testausdokumentti.md)
+- [Käyttöohje](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/käyttöohje.md)
 
 Seuraavat ovat tyhjiä, mutta alustettu
-- [Käyttöohje](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/käyttöohje.md)
+
 - [Toteutusdokumentti](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/toteutusdokumentti.md)
 
 ### Viikkoraportit
 
 - [Viikko 1](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/viikkoraportit/viikko1.md)
 - [Viikko 2](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/viikkoraportit/viikko2.md)
+- [Viikko 3](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/master/dokumentaatio/viikkoraportit/viikko3.md)
 
 ## Asennus ja komentorivitoiminnot
 

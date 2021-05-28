@@ -1,4385 +1,4392 @@
-D#4, 105 kpl
-| D4, 20 kpl
-| | D#4, 4 kpl
-| | | F4, 1 kpl
-| | | | G4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F4, 1 kpl
-| | F4, 3 kpl
-| | | G4, 2 kpl
-| | | | B3, 1 kpl
-| | | | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | G4, 2 kpl
-| | | C5, 1 kpl
-| | | | D#4, 1 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | C5, 8 kpl
-| | | D5, 2 kpl
-| | | | A#4, 1 kpl
-| | | | D#5, 1 kpl
-| | | B4, 2 kpl
-| | | | C5, 2 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 3 kpl
-| | | | A4, 3 kpl
-| | G#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | F#4, 1 kpl
-| | | A5, 1 kpl
-| | | | A#4, 1 kpl
-| C5, 18 kpl
-| | D5, 3 kpl
-| | | D#5, 2 kpl
-| | | | F5, 1 kpl
-| | | | D#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | C#5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#5, 1 kpl
-| | G#5, 1 kpl
-| | | G5, 1 kpl
-| | | | G#5, 1 kpl
-| | E4, 1 kpl
-| | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | D#5, 2 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | A#4, 2 kpl
-| | | A4, 2 kpl
-| | | | G4, 1 kpl
-| | | | F5, 1 kpl
-| | F5, 2 kpl
-| | | D5, 2 kpl
-| | | | D#5, 2 kpl
-| | C5, 4 kpl
-| | | A4, 1 kpl
-| | | | D#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | D#4, 1 kpl
-| | G3, 2 kpl
-| | | D#4, 1 kpl
-| | | | C5, 1 kpl
-| | | G4, 1 kpl
-| | | | B4, 1 kpl
-| A#4, 5 kpl
-| | G#4, 2 kpl
-| | | A#4, 2 kpl
-| | | | C5, 1 kpl
-| | | | G5, 1 kpl
-| | D5, 2 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | G#4, 1 kpl
-| | C5, 1 kpl
-| | | D#5, 1 kpl
-| | | | G#5, 1 kpl
-| F#5, 7 kpl
-| | E5, 2 kpl
-| | | D#5, 2 kpl
-| | | | C#5, 2 kpl
-| | A#5, 1 kpl
-| | | A5, 1 kpl
-| | | | F#5, 1 kpl
-| | F4, 1 kpl
-| | | D#5, 1 kpl
-| | | | F4, 1 kpl
-| | G4, 1 kpl
-| | | A4, 1 kpl
-| | | | D#4, 1 kpl
-| | D#5, 1 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| | A4, 1 kpl
-| | | G#4, 1 kpl
-| | | | C5, 1 kpl
-| B4, 8 kpl
-| | B5, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | A#4, 2 kpl
-| | | B4, 1 kpl
-| | | | D#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | A#3, 1 kpl
-| | G#3, 1 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | C#5, 3 kpl
-| | | A4, 2 kpl
-| | | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | | D#5, 1 kpl
-| | | | E5, 1 kpl
-| | F#4, 1 kpl
-| | | E4, 1 kpl
-| | | | C#5, 1 kpl
-| C#4, 7 kpl
-| | D#4, 3 kpl
-| | | F#4, 1 kpl
-| | | | B4, 1 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | | B4, 1 kpl
-| | | | A#4, 1 kpl
-| | B4, 1 kpl
-| | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 3 kpl
-| | | A#4, 3 kpl
-| | | | G#4, 3 kpl
-| E5, 8 kpl
-| | D#5, 3 kpl
-| | | C#5, 3 kpl
-| | | | B4, 3 kpl
-| | G#5, 2 kpl
-| | | F#5, 2 kpl
-| | | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | C#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | F#4, 1 kpl
-| | E5, 1 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | F#4, 1 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| F4, 10 kpl
-| | D4, 3 kpl
-| | | F4, 2 kpl
-| | | | A#3, 1 kpl
-| | | | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | D#4, 2 kpl
-| | | C4, 1 kpl
-| | | | C5, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | G5, 5 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | F4, 2 kpl
-| | | | D#4, 2 kpl
-| | | G#5, 1 kpl
-| | | | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| G#4, 5 kpl
-| | A#4, 2 kpl
-| | | F4, 1 kpl
-| | | | D4, 1 kpl
-| | | C#5, 1 kpl
-| | | | D#5, 1 kpl
-| | C4, 1 kpl
-| | | G4, 1 kpl
-| | | | C4, 1 kpl
-| | A4, 1 kpl
-| | | D#4, 1 kpl
-| | | | D4, 1 kpl
-| | E5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| G4, 10 kpl
-| | G5, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | D#5, 3 kpl
-| | | C5, 2 kpl
-| | | | A#4, 2 kpl
-| | | G4, 1 kpl
-| | | | F#5, 1 kpl
-| | G#4, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | C#4, 1 kpl
-| | | G4, 1 kpl
-| | | | C#4, 1 kpl
-| | C4, 2 kpl
-| | | D#4, 2 kpl
-| | | | A3, 1 kpl
-| | | | D5, 1 kpl
-| | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | D5, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| A4, 5 kpl
-| | D4, 1 kpl
-| | | A#4, 1 kpl
-| | | | D4, 1 kpl
-| | B3, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | G4, 1 kpl
-| | | F#4, 1 kpl
-| | | | A3, 1 kpl
-| | F#4, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| D#5, 2 kpl
-| | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 1 kpl
-| | | A4, 1 kpl
-| | | | F#4, 1 kpl
-G#4, 113 kpl
-| F4, 8 kpl
-| | D#4, 2 kpl
-| | | F4, 1 kpl
-| | | | G4, 1 kpl
-| | | D#4, 1 kpl
-| | | | D4, 1 kpl
-| | B4, 1 kpl
-| | | D4, 1 kpl
-| | | | C5, 1 kpl
-| | G#4, 2 kpl
-| | | F4, 2 kpl
-| | | | F5, 1 kpl
-| | | | G4, 1 kpl
-| | C4, 1 kpl
-| | | F4, 1 kpl
-| | | | C4, 1 kpl
-| | F4, 2 kpl
-| | | D#4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | D5, 1 kpl
-| A#4, 9 kpl
-| | G4, 3 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | C5, 3 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | C#5, 1 kpl
-| | | A#5, 1 kpl
-| | | | D5, 1 kpl
-| | C#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | D#5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | B4, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| G4, 13 kpl
-| | G#4, 4 kpl
-| | | A#4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | D#5, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | | F4, 1 kpl
-| | | | B4, 1 kpl
-| | F5, 6 kpl
-| | | D#5, 3 kpl
-| | | | F5, 1 kpl
-| | | | D5, 2 kpl
-| | | G#4, 1 kpl
-| | | | B4, 1 kpl
-| | | G4, 1 kpl
-| | | | G#4, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | A#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | G4, 1 kpl
-| | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | G5, 1 kpl
-| | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| B4, 10 kpl
-| | A4, 3 kpl
-| | | B4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | E4, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | C#5, 1 kpl
-| | | B5, 1 kpl
-| | | | A5, 1 kpl
-| | G#4, 2 kpl
-| | | E4, 1 kpl
-| | | | E4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F4, 1 kpl
-| | B4, 1 kpl
-| | | C5, 1 kpl
-| | | | G#4, 1 kpl
-| | E4, 2 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | C4, 1 kpl
-| | | A4, 1 kpl
-| | | | B3, 1 kpl
-| F#4, 19 kpl
-| | B4, 1 kpl
-| | | B3, 1 kpl
-| | | | B5, 1 kpl
-| | G#4, 1 kpl
-| | | E4, 1 kpl
-| | | | D#4, 1 kpl
-| | A#4, 1 kpl
-| | | G#5, 1 kpl
-| | | | E5, 1 kpl
-| | D#5, 2 kpl
-| | | E4, 2 kpl
-| | | | C#5, 1 kpl
-| | | | F#5, 1 kpl
-| | E5, 7 kpl
-| | | D#5, 5 kpl
-| | | | E5, 2 kpl
-| | | | A5, 1 kpl
-| | | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | B5, 1 kpl
-| | | | B4, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | A5, 3 kpl
-| | | B4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | G5, 1 kpl
-| | | G#5, 1 kpl
-| | | | B4, 1 kpl
-| | F#4, 2 kpl
-| | | F4, 1 kpl
-| | | | D4, 1 kpl
-| | | F#5, 1 kpl
-| | | | F5, 1 kpl
-| | C#5, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | F5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| A4, 21 kpl
-| | E5, 3 kpl
-| | | D#5, 1 kpl
-| | | | E5, 1 kpl
-| | | C4, 2 kpl
-| | | | E4, 1 kpl
-| | | | A4, 1 kpl
-| | B4, 10 kpl
-| | | C#5, 3 kpl
-| | | | D#5, 1 kpl
-| | | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | | A4, 2 kpl
-| | | | B4, 2 kpl
-| | | F4, 1 kpl
-| | | | C#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | A4, 1 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | F#4, 2 kpl
-| | | G#4, 1 kpl
-| | | | E4, 1 kpl
-| | | D#5, 1 kpl
-| | | | F#4, 1 kpl
-| | G#5, 2 kpl
-| | | A5, 1 kpl
-| | | | F#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | G#4, 1 kpl
-| | D5, 2 kpl
-| | | B4, 2 kpl
-| | | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 2 kpl
-| | | E5, 2 kpl
-| | | | A5, 2 kpl
-| E5, 10 kpl
-| | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | G4, 2 kpl
-| | | F5, 1 kpl
-| | | | G#4, 1 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | A4, 2 kpl
-| | | C5, 1 kpl
-| | | | E5, 1 kpl
-| | | C#4, 1 kpl
-| | | | G#4, 1 kpl
-| | D5, 2 kpl
-| | | A5, 2 kpl
-| | | | A5, 1 kpl
-| | | | C#5, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | F#5, 1 kpl
-| | B3, 1 kpl
-| | | E4, 1 kpl
-| | | | B3, 1 kpl
-| | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| C#5, 5 kpl
-| | D#5, 1 kpl
-| | | E5, 1 kpl
-| | | | F#5, 1 kpl
-| | G4, 1 kpl
-| | | G4, 1 kpl
-| | | | A#4, 1 kpl
-| | F4, 1 kpl
-| | | F#4, 1 kpl
-| | | | F#4, 1 kpl
-| | G#4, 1 kpl
-| | | B4, 1 kpl
-| | | | G#4, 1 kpl
-| | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| C5, 6 kpl
-| | C#5, 1 kpl
-| | | A#4, 1 kpl
-| | | | D5, 1 kpl
-| | C5, 1 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | F4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F4, 1 kpl
-| | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | D4, 1 kpl
-| | | D#4, 1 kpl
-| | | | F4, 1 kpl
-| | D#5, 1 kpl
-| | | F#5, 1 kpl
-| | | | D#5, 1 kpl
-| D4, 8 kpl
-| | B4, 2 kpl
-| | | A4, 1 kpl
-| | | | E4, 1 kpl
-| | | D5, 1 kpl
-| | | | G#5, 1 kpl
-| | G4, 2 kpl
-| | | D#4, 1 kpl
-| | | | G4, 1 kpl
-| | | F5, 1 kpl
-| | | | G#4, 1 kpl
-| | D5, 1 kpl
-| | | G5, 1 kpl
-| | | | D5, 1 kpl
-| | A4, 1 kpl
-| | | C#4, 1 kpl
-| | | | B3, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | F#4, 1 kpl
-| | | G4, 1 kpl
-| | | | A#4, 1 kpl
-| D#5, 3 kpl
-| | B5, 1 kpl
-| | | G#4, 1 kpl
-| | | | B5, 1 kpl
-| | A#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | C5, 1 kpl
-| | | D#4, 1 kpl
-| | | | F#4, 1 kpl
-| G#4, 1 kpl
-| | G4, 1 kpl
-| | | F5, 1 kpl
-| | | | G4, 1 kpl
-G4, 225 kpl
-| F4, 46 kpl
-| | D#4, 16 kpl
-| | | G4, 3 kpl
-| | | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | | | C#4, 1 kpl
-| | | D5, 9 kpl
-| | | | D#5, 3 kpl
-| | | | C5, 4 kpl
-| | | | G4, 1 kpl
-| | | | F5, 1 kpl
-| | | F5, 3 kpl
-| | | | G5, 3 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | E5, 10 kpl
-| | | D5, 3 kpl
-| | | | E5, 2 kpl
-| | | | C4, 1 kpl
-| | | F5, 4 kpl
-| | | | G5, 1 kpl
-| | | | D5, 1 kpl
-| | | | E4, 2 kpl
-| | | A4, 1 kpl
-| | | | C#4, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | G#4, 1 kpl
-| | | | F5, 1 kpl
-| | G4, 7 kpl
-| | | G#4, 2 kpl
-| | | | A#4, 1 kpl
-| | | | F5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F4, 2 kpl
-| | | | E4, 1 kpl
-| | | | A3, 1 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| | A4, 7 kpl
-| | | C5, 2 kpl
-| | | | D#5, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | F4, 1 kpl
-| | | | D4, 1 kpl
-| | | G4, 3 kpl
-| | | | D#5, 1 kpl
-| | | | E5, 2 kpl
-| | F5, 2 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | | F5, 1 kpl
-| | | | F4, 1 kpl
-| | D5, 2 kpl
-| | | E4, 1 kpl
-| | | | C5, 1 kpl
-| | | F4, 1 kpl
-| | | | G4, 1 kpl
-| | B4, 1 kpl
-| | | F5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 1 kpl
-| | | A4, 1 kpl
-| | | | F5, 1 kpl
-| D#5, 10 kpl
-| | F5, 2 kpl
-| | | D5, 2 kpl
-| | | | D#5, 1 kpl
-| | | | C6, 1 kpl
-| | D4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C4, 1 kpl
-| | C5, 3 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | | D#5, 1 kpl
-| | | | F5, 1 kpl
-| | D#4, 1 kpl
-| | | C#4, 1 kpl
-| | | | G4, 1 kpl
-| | G#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | D#4, 1 kpl
-| | A#4, 2 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#3, 1 kpl
-| G#5, 17 kpl
-| | C#5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | A#4, 6 kpl
-| | | C5, 1 kpl
-| | | | C#5, 1 kpl
-| | | G#4, 3 kpl
-| | | | G4, 2 kpl
-| | | | F4, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | G#4, 2 kpl
-| | | D#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | G5, 1 kpl
-| | | | C5, 1 kpl
-| | F4, 4 kpl
-| | | A#4, 1 kpl
-| | | | D4, 1 kpl
-| | | G#4, 2 kpl
-| | | | F4, 1 kpl
-| | | | G5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | E4, 1 kpl
-| | | D#4, 1 kpl
-| | | | G#5, 1 kpl
-| | G4, 3 kpl
-| | | F4, 2 kpl
-| | | | D#4, 2 kpl
-| | | D#4, 1 kpl
-| | | | F5, 1 kpl
-| F#5, 32 kpl
-| | E5, 18 kpl
-| | | D5, 8 kpl
-| | | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | | | C5, 3 kpl
-| | | | C#5, 3 kpl
-| | | F#4, 3 kpl
-| | | | D4, 2 kpl
-| | | | G4, 1 kpl
-| | | D#4, 5 kpl
-| | | | E4, 1 kpl
-| | | | F#5, 2 kpl
-| | | | C6, 1 kpl
-| | | | C#5, 1 kpl
-| | | B5, 1 kpl
-| | | | B4, 1 kpl
-| | | E4, 1 kpl
-| | | | D5, 1 kpl
-| | A5, 5 kpl
-| | | C5, 2 kpl
-| | | | A#4, 1 kpl
-| | | | B3, 1 kpl
-| | | G5, 2 kpl
-| | | | F#5, 1 kpl
-| | | | B4, 1 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | B5, 2 kpl
-| | | A5, 2 kpl
-| | | | G5, 2 kpl
-| | G4, 3 kpl
-| | | A4, 2 kpl
-| | | | D4, 1 kpl
-| | | | B4, 1 kpl
-| | | D4, 1 kpl
-| | | | B3, 1 kpl
-| | D4, 2 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | A4, 1 kpl
-| | C4, 1 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | F#4, 1 kpl
-| | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| G5, 11 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | F#5, 1 kpl
-| | G4, 3 kpl
-| | | A#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | | G4, 1 kpl
-| | | | E5, 1 kpl
-| | G#4, 2 kpl
-| | | G#4, 2 kpl
-| | | | A#4, 2 kpl
-| | F5, 2 kpl
-| | | F5, 1 kpl
-| | | | F5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | C#5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| C5, 23 kpl
-| | G4, 5 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | | A#5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | A#3, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 4 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | | D#4, 2 kpl
-| | | | F4, 2 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | G#4, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | C5, 1 kpl
-| | | F4, 1 kpl
-| | | | D4, 1 kpl
-| | E5, 4 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | | F#4, 1 kpl
-| | | | B4, 1 kpl
-| | | F5, 2 kpl
-| | | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | B4, 4 kpl
-| | | C5, 1 kpl
-| | | | A5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | | A5, 2 kpl
-| | | | C4, 1 kpl
-| | | | G4, 1 kpl
-| | F5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | D#5, 1 kpl
-| | | F4, 1 kpl
-| | | | C4, 1 kpl
-| | A4, 1 kpl
-| | | F4, 1 kpl
-| | | | E4, 1 kpl
-| A4, 22 kpl
-| | F#4, 2 kpl
-| | | D#5, 1 kpl
-| | | | F#4, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | A4, 2 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | | A#4, 1 kpl
-| | | | F4, 1 kpl
-| | C#4, 1 kpl
-| | | D4, 1 kpl
-| | | | E4, 1 kpl
-| | B4, 6 kpl
-| | | C5, 3 kpl
-| | | | D5, 1 kpl
-| | | | B4, 2 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | | B5, 1 kpl
-| | | | E5, 1 kpl
-| | | F#4, 1 kpl
-| | | | C6, 1 kpl
-| | A#4, 4 kpl
-| | | C5, 2 kpl
-| | | | D5, 1 kpl
-| | | | A5, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | | D4, 1 kpl
-| | | | A4, 1 kpl
-| | F5, 3 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | | E5, 1 kpl
-| | | | B4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 2 kpl
-| | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| | | F#5, 1 kpl
-| | | | F#4, 1 kpl
-| | G5, 1 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| C#5, 3 kpl
-| | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | G4, 2 kpl
-| | | C4, 2 kpl
-| | | | G#4, 2 kpl
-| D5, 13 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | A4, 1 kpl
-| | D#4, 2 kpl
-| | | F4, 1 kpl
-| | | | A#3, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | F5, 1 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | G5, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 2 kpl
-| | | A#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | A4, 1 kpl
-| | | | D4, 1 kpl
-| | E5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | F#5, 2 kpl
-| | | A5, 2 kpl
-| | | | F#5, 1 kpl
-| | | | A3, 1 kpl
-| | A#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | D4, 1 kpl
-| | B4, 1 kpl
-| | | G4, 1 kpl
-| | | | B4, 1 kpl
-| | A5, 1 kpl
-| | | D5, 1 kpl
-| | | | B5, 1 kpl
-| A#4, 15 kpl
-| | D#4, 4 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | C4, 1 kpl
-| | | | D4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | A4, 3 kpl
-| | | F5, 1 kpl
-| | | | A#4, 1 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 1 kpl
-| | | G#4, 1 kpl
-| | | | F5, 1 kpl
-| | E5, 2 kpl
-| | | C5, 1 kpl
-| | | | E5, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| | F5, 2 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | | A#4, 1 kpl
-| | | | F4, 1 kpl
-| | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | G5, 1 kpl
-| | F#5, 1 kpl
-| | | A4, 1 kpl
-| | | | F#5, 1 kpl
-| | G#5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| E4, 22 kpl
-| | G4, 4 kpl
-| | | E4, 2 kpl
-| | | | C4, 1 kpl
-| | | | G4, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| | C6, 3 kpl
-| | | A5, 1 kpl
-| | | | E5, 1 kpl
-| | | E5, 1 kpl
-| | | | A4, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | C#5, 2 kpl
-| | | E5, 2 kpl
-| | | | A4, 1 kpl
-| | | | C#4, 1 kpl
-| | F5, 1 kpl
-| | | G5, 1 kpl
-| | | | C5, 1 kpl
-| | D#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | F#5, 1 kpl
-| | D4, 5 kpl
-| | | F#4, 1 kpl
-| | | | D4, 1 kpl
-| | | C#4, 2 kpl
-| | | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | F#4, 2 kpl
-| | | G4, 2 kpl
-| | | | F#4, 2 kpl
-| | A5, 2 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | F5, 1 kpl
-| | | | A#5, 1 kpl
-| | E5, 1 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | B4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| B4, 11 kpl
-| | D4, 3 kpl
-| | | F4, 1 kpl
-| | | | E4, 1 kpl
-| | | B4, 2 kpl
-| | | | G4, 2 kpl
-| | C5, 3 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | | A5, 1 kpl
-| | | | F#5, 1 kpl
-| | F4, 2 kpl
-| | | G4, 1 kpl
-| | | | C5, 1 kpl
-| | | B4, 1 kpl
-| | | | F4, 1 kpl
-| | G5, 2 kpl
-| | | C#5, 1 kpl
-| | | | G5, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-D5, 261 kpl
-| D#5, 32 kpl
-| | C5, 5 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | C6, 2 kpl
-| | | | A#5, 2 kpl
-| | | G5, 1 kpl
-| | | | D5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | F5, 12 kpl
-| | | D5, 3 kpl
-| | | | C5, 2 kpl
-| | | | G5, 1 kpl
-| | | G5, 5 kpl
-| | | | D#5, 2 kpl
-| | | | G#4, 2 kpl
-| | | | A4, 1 kpl
-| | | B3, 1 kpl
-| | | | G5, 1 kpl
-| | | C5, 1 kpl
-| | | | F4, 1 kpl
-| | | D#5, 2 kpl
-| | | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 2 kpl
-| | | D#5, 1 kpl
-| | | | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 7 kpl
-| | | C5, 7 kpl
-| | | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | | | A#4, 4 kpl
-| | | | F5, 1 kpl
-| | G4, 2 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 2 kpl
-| | | C5, 2 kpl
-| | | | A#4, 1 kpl
-| | | | F#4, 1 kpl
-| | E5, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | F#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| E4, 42 kpl
-| | F4, 6 kpl
-| | | G4, 3 kpl
-| | | | A4, 2 kpl
-| | | | E5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | E5, 1 kpl
-| | | | A#5, 1 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | A4, 3 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | G#4, 1 kpl
-| | | | A4, 1 kpl
-| | E5, 3 kpl
-| | | F5, 1 kpl
-| | | | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | D5, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 5 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | | C5, 1 kpl
-| | | | E4, 1 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | C#4, 3 kpl
-| | | B3, 2 kpl
-| | | | C#4, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | F#4, 15 kpl
-| | | E4, 9 kpl
-| | | | G4, 4 kpl
-| | | | D5, 2 kpl
-| | | | A#3, 1 kpl
-| | | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | G5, 4 kpl
-| | | | E5, 1 kpl
-| | | | A4, 2 kpl
-| | | | B5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | D5, 5 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | A4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | D4, 1 kpl
-| | | | G4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | B4, 1 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A4, 1 kpl
-| C5, 41 kpl
-| | B4, 11 kpl
-| | | A5, 8 kpl
-| | | | G#5, 2 kpl
-| | | | B4, 1 kpl
-| | | | C4, 3 kpl
-| | | | F5, 1 kpl
-| | | | G4, 1 kpl
-| | | C5, 2 kpl
-| | | | D5, 2 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 10 kpl
-| | | A4, 6 kpl
-| | | | G4, 5 kpl
-| | | | A#4, 1 kpl
-| | | D5, 2 kpl
-| | | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | G#4, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | D#5, 2 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | G5, 1 kpl
-| | A4, 3 kpl
-| | | C5, 2 kpl
-| | | | E5, 1 kpl
-| | | | A#4, 1 kpl
-| | | D5, 1 kpl
-| | | | F4, 1 kpl
-| | G5, 3 kpl
-| | | B4, 2 kpl
-| | | | F5, 1 kpl
-| | | | C#5, 1 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | E4, 1 kpl
-| | | D#4, 1 kpl
-| | | | B4, 1 kpl
-| | D5, 8 kpl
-| | | G4, 2 kpl
-| | | | F5, 1 kpl
-| | | | A#4, 1 kpl
-| | | D#5, 3 kpl
-| | | | F5, 2 kpl
-| | | | D4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | C5, 2 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | F5, 1 kpl
-| | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| F#4, 17 kpl
-| | A4, 4 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | | C6, 3 kpl
-| | | | B5, 1 kpl
-| | | | G4, 1 kpl
-| | | | E4, 1 kpl
-| | E4, 2 kpl
-| | | F#4, 1 kpl
-| | | | D4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 6 kpl
-| | | C#5, 2 kpl
-| | | | B4, 2 kpl
-| | | B4, 4 kpl
-| | | | D5, 4 kpl
-| | G4, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | B5, 2 kpl
-| | | F#5, 2 kpl
-| | | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | G#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| C#5, 26 kpl
-| | D5, 7 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | F5, 1 kpl
-| | | C#4, 1 kpl
-| | | | A4, 1 kpl
-| | | G4, 1 kpl
-| | | | E4, 1 kpl
-| | | F#4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | E5, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | A4, 3 kpl
-| | | G#4, 1 kpl
-| | | | C4, 1 kpl
-| | | D5, 1 kpl
-| | | | D5, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | F4, 3 kpl
-| | | E4, 1 kpl
-| | | | F4, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | F#4, 1 kpl
-| | | | G#4, 1 kpl
-| | B4, 6 kpl
-| | | A4, 4 kpl
-| | | | F#5, 2 kpl
-| | | | G4, 2 kpl
-| | | A#4, 2 kpl
-| | | | G5, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 2 kpl
-| | | G5, 1 kpl
-| | | | F#5, 1 kpl
-| | | D5, 1 kpl
-| | | | F#4, 1 kpl
-| | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | A#5, 2 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | | F#5, 1 kpl
-| | | | B4, 1 kpl
-| | C#4, 2 kpl
-| | | F#4, 1 kpl
-| | | | C#4, 1 kpl
-| | | E5, 1 kpl
-| | | | A#4, 1 kpl
-| D5, 11 kpl
-| | E4, 2 kpl
-| | | A4, 1 kpl
-| | | | E4, 1 kpl
-| | | C#4, 1 kpl
-| | | | C#4, 1 kpl
-| | G4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | A#4, 1 kpl
-| | | D5, 1 kpl
-| | | | G5, 1 kpl
-| | D#5, 3 kpl
-| | | A#3, 2 kpl
-| | | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | D5, 3 kpl
-| | | D4, 3 kpl
-| | | | D5, 2 kpl
-| | | | B5, 1 kpl
-| G4, 15 kpl
-| | D#4, 1 kpl
-| | | C4, 1 kpl
-| | | | A4, 1 kpl
-| | G4, 2 kpl
-| | | C4, 1 kpl
-| | | | G#4, 1 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 2 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | | A5, 1 kpl
-| | | | F5, 1 kpl
-| | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | A4, 3 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | | B3, 1 kpl
-| | | | C#4, 1 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| | F5, 3 kpl
-| | | G#5, 1 kpl
-| | | | G5, 1 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | B4, 1 kpl
-| | | A5, 1 kpl
-| | | | F5, 1 kpl
-| | D5, 1 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| A#3, 18 kpl
-| | F4, 4 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | | F4, 2 kpl
-| | | | D4, 1 kpl
-| | | | A#5, 1 kpl
-| | | D4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 2 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | A4, 2 kpl
-| | | A#4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| | D5, 4 kpl
-| | | D#5, 1 kpl
-| | | | D#5, 1 kpl
-| | | F5, 1 kpl
-| | | | C#5, 1 kpl
-| | | G4, 1 kpl
-| | | | A#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | G5, 2 kpl
-| | | D5, 1 kpl
-| | | | A#5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | A#4, 3 kpl
-| | | G4, 2 kpl
-| | | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 1 kpl
-| | | G4, 1 kpl
-| | | | E4, 1 kpl
-| B4, 29 kpl
-| | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | C5, 5 kpl
-| | | C5, 2 kpl
-| | | | G4, 1 kpl
-| | | | E5, 1 kpl
-| | | A4, 2 kpl
-| | | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | D5, 1 kpl
-| | | | G5, 1 kpl
-| | G#4, 1 kpl
-| | | B4, 1 kpl
-| | | | D4, 1 kpl
-| | D5, 7 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | G#4, 1 kpl
-| | | | B4, 1 kpl
-| | | B4, 2 kpl
-| | | | D5, 2 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | | G5, 2 kpl
-| | | | C#4, 1 kpl
-| | | | D4, 1 kpl
-| | F5, 2 kpl
-| | | D5, 1 kpl
-| | | | G5, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | B4, 2 kpl
-| | | G#4, 1 kpl
-| | | | A4, 1 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | G4, 6 kpl
-| | | G5, 3 kpl
-| | | | F#5, 1 kpl
-| | | | A4, 2 kpl
-| | | E4, 1 kpl
-| | | | G4, 1 kpl
-| | | F5, 2 kpl
-| | | | E5, 1 kpl
-| | | | D4, 1 kpl
-| | E5, 3 kpl
-| | | C#4, 2 kpl
-| | | | F#5, 1 kpl
-| | | | B4, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | F#4, 2 kpl
-| | | B4, 2 kpl
-| | | | F#4, 2 kpl
-| F5, 13 kpl
-| | D5, 3 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | | F4, 1 kpl
-| | | | F5, 1 kpl
-| | | G4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 2 kpl
-| | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | A#4, 1 kpl
-| | G#4, 1 kpl
-| | | C#4, 1 kpl
-| | | | G#4, 1 kpl
-| | E5, 4 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | G5, 2 kpl
-| | | | A#5, 1 kpl
-| | | | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | B3, 2 kpl
-| | | G4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | F4, 1 kpl
-| | A#4, 1 kpl
-| | | D5, 1 kpl
-| | | | D#4, 1 kpl
-| A4, 13 kpl
-| | G4, 2 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | D4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | A5, 1 kpl
-| | C5, 2 kpl
-| | | G5, 1 kpl
-| | | | B4, 1 kpl
-| | | E5, 1 kpl
-| | | | G#5, 1 kpl
-| | B4, 1 kpl
-| | | B3, 1 kpl
-| | | | A4, 1 kpl
-| | F#5, 3 kpl
-| | | D5, 3 kpl
-| | | | A5, 2 kpl
-| | | | C6, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | A#4, 1 kpl
-| | | G4, 1 kpl
-| | | | C#5, 1 kpl
-| | A3, 1 kpl
-| | | B3, 1 kpl
-| | | | D4, 1 kpl
-| G#4, 4 kpl
-| | D5, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | B4, 2 kpl
-| | | G#4, 1 kpl
-| | | | E4, 1 kpl
-| | | D5, 1 kpl
-| | | | F#5, 1 kpl
-| | E4, 1 kpl
-| | | D4, 1 kpl
-| | | | C4, 1 kpl
-A#5, 117 kpl
-| A5, 24 kpl
-| | A#5, 4 kpl
-| | | G5, 4 kpl
-| | | | A5, 2 kpl
-| | | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | G#5, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | G5, 9 kpl
-| | | F5, 4 kpl
-| | | | E5, 3 kpl
-| | | | F4, 1 kpl
-| | | F#4, 2 kpl
-| | | | D#5, 1 kpl
-| | | | E4, 1 kpl
-| | | C5, 1 kpl
-| | | | D#4, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | D5, 3 kpl
-| | | A#3, 1 kpl
-| | | | D4, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | E4, 1 kpl
-| | | F4, 1 kpl
-| | | | G4, 1 kpl
-| | C4, 6 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | A5, 2 kpl
-| | | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | D#5, 2 kpl
-| | | | D5, 1 kpl
-| | | | G4, 1 kpl
-| G5, 18 kpl
-| | A5, 5 kpl
-| | | A#4, 2 kpl
-| | | | A#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | F5, 2 kpl
-| | | | E5, 1 kpl
-| | | | D4, 1 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | C5, 2 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| | F4, 1 kpl
-| | | A#3, 1 kpl
-| | | | D#4, 1 kpl
-| | A#3, 3 kpl
-| | | G#4, 1 kpl
-| | | | C4, 1 kpl
-| | | C#5, 1 kpl
-| | | | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | G4, 1 kpl
-| | | G#4, 1 kpl
-| | | | C5, 1 kpl
-| | D#5, 3 kpl
-| | | A#4, 3 kpl
-| | | | G4, 2 kpl
-| | | | D#5, 1 kpl
-| | C#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | A#4, 1 kpl
-| | E4, 2 kpl
-| | | F4, 2 kpl
-| | | | F4, 1 kpl
-| | | | G5, 1 kpl
-| C6, 14 kpl
-| | G#5, 2 kpl
-| | | A#5, 1 kpl
-| | | | G5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | D4, 7 kpl
-| | | E4, 2 kpl
-| | | | F4, 2 kpl
-| | | C5, 3 kpl
-| | | | D5, 1 kpl
-| | | | A#4, 2 kpl
-| | | D#4, 1 kpl
-| | | | F4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | A4, 3 kpl
-| | | C5, 2 kpl
-| | | | A4, 2 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | A#4, 2 kpl
-| | | G5, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| G#4, 19 kpl
-| | A#4, 3 kpl
-| | | C5, 2 kpl
-| | | | C#5, 2 kpl
-| | | G5, 1 kpl
-| | | | A#5, 1 kpl
-| | C5, 2 kpl
-| | | D#5, 1 kpl
-| | | | G#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | C5, 1 kpl
-| | G4, 10 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | | G#4, 2 kpl
-| | | | A#4, 2 kpl
-| | | F4, 7 kpl
-| | | | D#5, 3 kpl
-| | | | E5, 4 kpl
-| | G#5, 2 kpl
-| | | G5, 2 kpl
-| | | | C5, 2 kpl
-| | F4, 2 kpl
-| | | D#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| C#5, 7 kpl
-| | F#5, 1 kpl
-| | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | A#4, 2 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | D#5, 1 kpl
-| | | B4, 1 kpl
-| | | | B3, 1 kpl
-| | C#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C4, 1 kpl
-| | B4, 1 kpl
-| | | B4, 1 kpl
-| | | | B3, 1 kpl
-| | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| B4, 4 kpl
-| | A#4, 2 kpl
-| | | B4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | G#4, 1 kpl
-| | C#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | D5, 1 kpl
-| | | F#5, 1 kpl
-| | | | B5, 1 kpl
-| A#4, 7 kpl
-| | A4, 2 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | F#5, 1 kpl
-| | | | F5, 1 kpl
-| | G#5, 2 kpl
-| | | A#5, 1 kpl
-| | | | G5, 1 kpl
-| | | G5, 1 kpl
-| | | | A#5, 1 kpl
-| | E5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | C5, 2 kpl
-| | | C5, 2 kpl
-| | | | C#5, 2 kpl
-| D4, 9 kpl
-| | D#4, 1 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| | G5, 2 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 2 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | F4, 2 kpl
-| | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| | | G4, 1 kpl
-| | | | A#4, 1 kpl
-| | A#3, 1 kpl
-| | | D5, 1 kpl
-| | | | F4, 1 kpl
-| | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | C#4, 1 kpl
-| D#5, 5 kpl
-| | A4, 1 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | A#4, 3 kpl
-| | | G#4, 1 kpl
-| | | | D4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | G4, 1 kpl
-| F5, 4 kpl
-| | A4, 1 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | F4, 1 kpl
-| | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | G4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | D4, 1 kpl
-| | | A3, 1 kpl
-| | | | A#3, 1 kpl
-| E4, 4 kpl
-| | D4, 2 kpl
-| | | F4, 1 kpl
-| | | | D#4, 1 kpl
-| | | C#4, 1 kpl
-| | | | B4, 1 kpl
-| | C#4, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | F5, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| F#4, 2 kpl
-| | F#4, 1 kpl
-| | | F4, 1 kpl
-| | | | A#5, 1 kpl
-| | G4, 1 kpl
-| | | A#4, 1 kpl
-| | | | D#5, 1 kpl
-F5, 157 kpl
-| G5, 26 kpl
-| | D#5, 4 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | F5, 2 kpl
-| | | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 3 kpl
-| | | G#5, 1 kpl
-| | | | G5, 1 kpl
-| | | G4, 1 kpl
-| | | | E4, 1 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | G#5, 7 kpl
-| | | A#5, 5 kpl
-| | | | G#5, 2 kpl
-| | | | C6, 2 kpl
-| | | | G5, 1 kpl
-| | | G4, 1 kpl
-| | | | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | A5, 8 kpl
-| | | A#5, 3 kpl
-| | | | C#5, 2 kpl
-| | | | C5, 1 kpl
-| | | D5, 2 kpl
-| | | | F4, 1 kpl
-| | | | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | A5, 1 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | A#4, 2 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | F5, 1 kpl
-| | | G5, 1 kpl
-| | | | A#5, 1 kpl
-| D#5, 19 kpl
-| | D5, 8 kpl
-| | | D#5, 3 kpl
-| | | | F5, 3 kpl
-| | | C5, 4 kpl
-| | | | D5, 1 kpl
-| | | | B4, 2 kpl
-| | | | F5, 1 kpl
-| | | D4, 1 kpl
-| | | | F5, 1 kpl
-| | F4, 5 kpl
-| | | G4, 1 kpl
-| | | | G#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | D4, 2 kpl
-| | | | F4, 2 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | G4, 1 kpl
-| | | C4, 1 kpl
-| | | | D5, 1 kpl
-| | G#4, 2 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | C#5, 2 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#5, 1 kpl
-| | C5, 1 kpl
-| | | D4, 1 kpl
-| | | | B4, 1 kpl
-| G#5, 14 kpl
-| | G5, 2 kpl
-| | | G#5, 1 kpl
-| | | | F5, 1 kpl
-| | | G5, 1 kpl
-| | | | G#5, 1 kpl
-| | A#4, 3 kpl
-| | | G5, 2 kpl
-| | | | F5, 1 kpl
-| | | | G4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | C5, 1 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | F4, 3 kpl
-| | | D4, 1 kpl
-| | | | F4, 1 kpl
-| | | B4, 1 kpl
-| | | | G#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| | E5, 1 kpl
-| | | G4, 1 kpl
-| | | | E5, 1 kpl
-| | G#4, 2 kpl
-| | | G4, 1 kpl
-| | | | F5, 1 kpl
-| | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | F#4, 1 kpl
-| | | F4, 1 kpl
-| | | | C#5, 1 kpl
-| E5, 23 kpl
-| | F5, 8 kpl
-| | | D5, 3 kpl
-| | | | E5, 2 kpl
-| | | | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | D5, 1 kpl
-| | | G4, 1 kpl
-| | | | G4, 1 kpl
-| | | C4, 1 kpl
-| | | | F5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | | E4, 1 kpl
-| | | | D4, 1 kpl
-| | D5, 8 kpl
-| | | C5, 6 kpl
-| | | | D5, 2 kpl
-| | | | B4, 2 kpl
-| | | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | A4, 3 kpl
-| | | G5, 1 kpl
-| | | | G4, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | | A#5, 1 kpl
-| | | | G5, 1 kpl
-| | G5, 2 kpl
-| | | B4, 1 kpl
-| | | | G5, 1 kpl
-| | | C#4, 1 kpl
-| | | | D4, 1 kpl
-| | C#5, 2 kpl
-| | | G5, 1 kpl
-| | | | G5, 1 kpl
-| | | C5, 1 kpl
-| | | | E5, 1 kpl
-| D5, 21 kpl
-| | E5, 6 kpl
-| | | F5, 3 kpl
-| | | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| | | | G5, 1 kpl
-| | | G4, 1 kpl
-| | | | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 6 kpl
-| | | D#5, 2 kpl
-| | | | G4, 2 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | F5, 3 kpl
-| | | | D5, 3 kpl
-| | B4, 5 kpl
-| | | D5, 1 kpl
-| | | | G#4, 1 kpl
-| | | G5, 2 kpl
-| | | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | F4, 1 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | C5, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| F4, 8 kpl
-| | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | C5, 1 kpl
-| | A#3, 1 kpl
-| | | D4, 1 kpl
-| | | | C4, 1 kpl
-| | A4, 2 kpl
-| | | G4, 1 kpl
-| | | | E5, 1 kpl
-| | | D4, 1 kpl
-| | | | D#5, 1 kpl
-| | D#5, 2 kpl
-| | | D5, 2 kpl
-| | | | C5, 1 kpl
-| | | | G5, 1 kpl
-| | G#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| | E4, 1 kpl
-| | | E4, 1 kpl
-| | | | F4, 1 kpl
-| A#4, 13 kpl
-| | C#4, 2 kpl
-| | | D4, 1 kpl
-| | | | E4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | A5, 1 kpl
-| | | G5, 1 kpl
-| | | | A#5, 1 kpl
-| | D#5, 2 kpl
-| | | G4, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 2 kpl
-| | | G4, 1 kpl
-| | | | D#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | F5, 4 kpl
-| | | E5, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 2 kpl
-| | | | F5, 1 kpl
-| | | | A3, 1 kpl
-| | | D5, 1 kpl
-| | | | G5, 1 kpl
-| | D5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| C#5, 6 kpl
-| | E4, 2 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | F4, 1 kpl
-| | | C5, 1 kpl
-| | | | D#4, 1 kpl
-| | A#4, 2 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | D4, 1 kpl
-| | | | A4, 1 kpl
-| | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| C5, 9 kpl
-| | G5, 2 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | F5, 1 kpl
-| | C#4, 2 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | | F4, 1 kpl
-| | | | C#5, 1 kpl
-| | A#4, 1 kpl
-| | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | A5, 2 kpl
-| | | C6, 1 kpl
-| | | | A#5, 1 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | D#4, 1 kpl
-| | | D4, 1 kpl
-| | | | B4, 1 kpl
-| A5, 13 kpl
-| | F5, 3 kpl
-| | | D5, 1 kpl
-| | | | F5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | F4, 1 kpl
-| | E5, 1 kpl
-| | | G#4, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 2 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | B4, 1 kpl
-| | | A5, 1 kpl
-| | | | C#5, 1 kpl
-| | F#4, 2 kpl
-| | | B4, 1 kpl
-| | | | G#4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F4, 1 kpl
-| | C5, 1 kpl
-| | | F5, 1 kpl
-| | | | F4, 1 kpl
-| | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | G5, 2 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| F#4, 3 kpl
-| | A#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | A#4, 1 kpl
-| | D#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | C#4, 1 kpl
-| | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| B4, 2 kpl
-| | D5, 1 kpl
-| | | E5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 1 kpl
-| | | G4, 1 kpl
-| | | | E4, 1 kpl
-C5, 196 kpl
-| A#5, 26 kpl
-| | A5, 13 kpl
-| | | G5, 8 kpl
-| | | | A5, 2 kpl
-| | | | F4, 2 kpl
-| | | | A#4, 1 kpl
-| | | | F#4, 2 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | | A#4, 2 kpl
-| | | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | | F4, 2 kpl
-| | | | G4, 1 kpl
-| | | | C4, 1 kpl
-| | G#5, 8 kpl
-| | | G5, 7 kpl
-| | | | G#5, 4 kpl
-| | | | D4, 1 kpl
-| | | | F5, 2 kpl
-| | | A#4, 1 kpl
-| | | | D#5, 1 kpl
-| | D5, 1 kpl
-| | | A#5, 1 kpl
-| | | | E5, 1 kpl
-| | C5, 4 kpl
-| | | D#4, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | | F4, 2 kpl
-| | | | A4, 2 kpl
-| D5, 41 kpl
-| | F4, 3 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | D#5, 8 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | | D4, 3 kpl
-| | | | C4, 3 kpl
-| | | F5, 4 kpl
-| | | | D#5, 1 kpl
-| | | | B4, 1 kpl
-| | | | G5, 1 kpl
-| | | | D5, 1 kpl
-| | E4, 6 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | | F5, 4 kpl
-| | | | G#4, 1 kpl
-| | | | G5, 1 kpl
-| | | | E4, 1 kpl
-| | | | D4, 1 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | A#3, 5 kpl
-| | | D4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | G4, 1 kpl
-| | | | D#4, 1 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | A4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | C5, 8 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | | A#4, 5 kpl
-| | | | A4, 3 kpl
-| | | | D#5, 1 kpl
-| | | | G#3, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | B3, 1 kpl
-| | G3, 4 kpl
-| | | D#5, 1 kpl
-| | | | F5, 1 kpl
-| | | G3, 1 kpl
-| | | | A3, 1 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | B4, 5 kpl
-| | | G3, 1 kpl
-| | | | C5, 1 kpl
-| | | E5, 2 kpl
-| | | | D5, 2 kpl
-| | | C5, 2 kpl
-| | | | A4, 2 kpl
-| | D5, 1 kpl
-| | | C5, 1 kpl
-| | | | C5, 1 kpl
-| G#5, 11 kpl
-| | A#5, 2 kpl
-| | | G5, 2 kpl
-| | | | G#5, 2 kpl
-| | C#5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | A5, 1 kpl
-| | | G#5, 1 kpl
-| | | | A5, 1 kpl
-| | G4, 2 kpl
-| | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | | B3, 1 kpl
-| | | | G#4, 1 kpl
-| | F5, 2 kpl
-| | | G#5, 1 kpl
-| | | | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | C5, 2 kpl
-| | | G#4, 1 kpl
-| | | | G#3, 1 kpl
-| | | B4, 1 kpl
-| | | | G#5, 1 kpl
-| | D5, 1 kpl
-| | | B3, 1 kpl
-| | | | D5, 1 kpl
-| C#5, 5 kpl
-| | D#5, 3 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | F#5, 1 kpl
-| | | | F5, 1 kpl
-| | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | G#4, 1 kpl
-| | G4, 1 kpl
-| | | F4, 1 kpl
-| | | | F4, 1 kpl
-| B5, 28 kpl
-| | A5, 12 kpl
-| | | G5, 6 kpl
-| | | | F#5, 2 kpl
-| | | | G5, 1 kpl
-| | | | A4, 1 kpl
-| | | | B5, 2 kpl
-| | | G#4, 2 kpl
-| | | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | B4, 3 kpl
-| | | | E4, 1 kpl
-| | | | C5, 1 kpl
-| | | | G4, 1 kpl
-| | | E5, 1 kpl
-| | | | A4, 1 kpl
-| | C5, 7 kpl
-| | | D5, 3 kpl
-| | | | B4, 1 kpl
-| | | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | F#5, 1 kpl
-| | D5, 5 kpl
-| | | G5, 1 kpl
-| | | | B4, 1 kpl
-| | | C5, 2 kpl
-| | | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | G5, 1 kpl
-| | | G5, 1 kpl
-| | | | G5, 1 kpl
-| | G#5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | E5, 2 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | | A5, 1 kpl
-| | | | B5, 1 kpl
-| F4, 8 kpl
-| | A#4, 2 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | A4, 1 kpl
-| | | | D#4, 1 kpl
-| | D5, 2 kpl
-| | | F4, 1 kpl
-| | | | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 1 kpl
-| | | D4, 1 kpl
-| | | | A#4, 1 kpl
-| | F4, 1 kpl
-| | | A#3, 1 kpl
-| | | | D#4, 1 kpl
-| | E5, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| G5, 12 kpl
-| | F5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | E5, 1 kpl
-| | | C#5, 1 kpl
-| | | | F5, 1 kpl
-| | C5, 4 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | | C6, 1 kpl
-| | | | B5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | B4, 1 kpl
-| | A#4, 3 kpl
-| | | A4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | A4, 1 kpl
-| | | D4, 1 kpl
-| | | | A#4, 1 kpl
-| | B4, 1 kpl
-| | | F#5, 1 kpl
-| | | | A4, 1 kpl
-| | D#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | C5, 1 kpl
-| D#5, 13 kpl
-| | G4, 3 kpl
-| | | G5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | D#5, 1 kpl
-| | | G#5, 1 kpl
-| | | | G5, 1 kpl
-| | D#5, 2 kpl
-| | | G5, 1 kpl
-| | | | C5, 1 kpl
-| | | D4, 1 kpl
-| | | | C5, 1 kpl
-| | F#4, 2 kpl
-| | | D#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | A3, 1 kpl
-| | | | D#4, 1 kpl
-| | C#4, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | C5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 3 kpl
-| | | C5, 2 kpl
-| | | | D5, 2 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | B4, 1 kpl
-| | | D4, 1 kpl
-| | | | C5, 1 kpl
-| C5, 8 kpl
-| | G#5, 1 kpl
-| | | D5, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 3 kpl
-| | | F5, 1 kpl
-| | | | F#5, 1 kpl
-| | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | F5, 2 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | F4, 1 kpl
-| | C#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C#4, 1 kpl
-| | C6, 1 kpl
-| | | C6, 1 kpl
-| | | | A5, 1 kpl
-| E4, 15 kpl
-| | G4, 4 kpl
-| | | F4, 2 kpl
-| | | | A4, 1 kpl
-| | | | E5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | D5, 3 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | | B3, 1 kpl
-| | | | A4, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | A4, 4 kpl
-| | | C5, 1 kpl
-| | | | D#5, 1 kpl
-| | | A#5, 1 kpl
-| | | | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | G#4, 1 kpl
-| | | F#5, 1 kpl
-| | | | C5, 1 kpl
-| | D#5, 1 kpl
-| | | A3, 1 kpl
-| | | | G4, 1 kpl
-| | B5, 2 kpl
-| | | C6, 1 kpl
-| | | | A5, 1 kpl
-| | | A4, 1 kpl
-| | | | F#4, 1 kpl
-| | F4, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| A4, 23 kpl
-| | C5, 4 kpl
-| | | F#4, 2 kpl
-| | | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#5, 1 kpl
-| | | | C6, 1 kpl
-| | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | D#4, 1 kpl
-| | E4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | F5, 4 kpl
-| | | C5, 2 kpl
-| | | | A#4, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | | D#4, 1 kpl
-| | | | D5, 1 kpl
-| | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | A#4, 3 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | | A#5, 1 kpl
-| | | | G5, 1 kpl
-| | | F5, 1 kpl
-| | | | C5, 1 kpl
-| | A5, 2 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | G#4, 1 kpl
-| | D5, 4 kpl
-| | | A#4, 2 kpl
-| | | | F#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | B4, 2 kpl
-| | | F5, 1 kpl
-| | | | A5, 1 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | G#5, 1 kpl
-| | | B5, 1 kpl
-| | | | A5, 1 kpl
-| F#3, 6 kpl
-| | C4, 1 kpl
-| | | B3, 1 kpl
-| | | | A3, 1 kpl
-| | G5, 2 kpl
-| | | A#4, 2 kpl
-| | | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#5, 1 kpl
-| | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-A5, 232 kpl
-| G5, 43 kpl
-| | A5, 11 kpl
-| | | A#5, 3 kpl
-| | | | G5, 1 kpl
-| | | | A4, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | F4, 2 kpl
-| | | | A#4, 1 kpl
-| | | | A5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | | B4, 3 kpl
-| | | | C5, 2 kpl
-| | | | A5, 1 kpl
-| | F#5, 11 kpl
-| | | G5, 4 kpl
-| | | | E5, 3 kpl
-| | | | B4, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | | E5, 6 kpl
-| | | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | | D5, 3 kpl
-| | | | G4, 1 kpl
-| | C5, 3 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | E4, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 3 kpl
-| | | F#4, 2 kpl
-| | | | G4, 1 kpl
-| | | | E4, 1 kpl
-| | | A3, 1 kpl
-| | | | B3, 1 kpl
-| | F5, 9 kpl
-| | | D#5, 3 kpl
-| | | | D5, 3 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | E5, 2 kpl
-| | | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | D#5, 1 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | G4, 1 kpl
-| | | G#4, 1 kpl
-| | | | C#4, 1 kpl
-| | B5, 1 kpl
-| | | G5, 1 kpl
-| | | | F#5, 1 kpl
-| | D#4, 1 kpl
-| | | A#3, 1 kpl
-| | | | G4, 1 kpl
-| | A#4, 1 kpl
-| | | E4, 1 kpl
-| | | | G4, 1 kpl
-| | C#5, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| F5, 17 kpl
-| | A#5, 4 kpl
-| | | G#5, 1 kpl
-| | | | G5, 1 kpl
-| | | F4, 1 kpl
-| | | | A#4, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 2 kpl
-| | | F5, 2 kpl
-| | | | G4, 2 kpl
-| | A5, 2 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | F5, 1 kpl
-| | | | A4, 1 kpl
-| | G5, 5 kpl
-| | | E4, 3 kpl
-| | | | F4, 2 kpl
-| | | | A3, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | C5, 1 kpl
-| | | | E4, 1 kpl
-| | F#4, 2 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | C5, 1 kpl
-| | | A4, 1 kpl
-| | | | D#5, 1 kpl
-| | D4, 1 kpl
-| | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| A#4, 18 kpl
-| | C5, 6 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | E4, 1 kpl
-| | | C#5, 1 kpl
-| | | | E4, 1 kpl
-| | | F4, 1 kpl
-| | | | F5, 1 kpl
-| | | A4, 2 kpl
-| | | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | A5, 4 kpl
-| | | G5, 4 kpl
-| | | | F5, 3 kpl
-| | | | F#4, 1 kpl
-| | C#5, 1 kpl
-| | | A#5, 1 kpl
-| | | | A5, 1 kpl
-| | D5, 2 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| | G4, 3 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 2 kpl
-| | | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | E5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | D#4, 1 kpl
-| | | C4, 1 kpl
-| | | | F4, 1 kpl
-| F#5, 24 kpl
-| | G4, 5 kpl
-| | | E5, 2 kpl
-| | | | D#5, 1 kpl
-| | | | F#5, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 4 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | E5, 1 kpl
-| | | G4, 1 kpl
-| | | | D#5, 1 kpl
-| | | D4, 1 kpl
-| | | | F#4, 1 kpl
-| | B4, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | E5, 1 kpl
-| | G#4, 3 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | F#4, 1 kpl
-| | | F4, 1 kpl
-| | | | F#4, 1 kpl
-| | A4, 5 kpl
-| | | B4, 2 kpl
-| | | | C5, 1 kpl
-| | | | D#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | D#5, 1 kpl
-| | | D#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | D4, 1 kpl
-| | D4, 3 kpl
-| | | F#4, 1 kpl
-| | | | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | D#5, 2 kpl
-| | | B4, 1 kpl
-| | | | D#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | C4, 1 kpl
-| C#5, 12 kpl
-| | D#5, 1 kpl
-| | | F#5, 1 kpl
-| | | | G4, 1 kpl
-| | B4, 2 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | D5, 3 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | | E5, 2 kpl
-| | | | C#5, 1 kpl
-| | | | G4, 1 kpl
-| | F#5, 2 kpl
-| | | D#5, 2 kpl
-| | | | B5, 1 kpl
-| | | | C5, 1 kpl
-| | E5, 3 kpl
-| | | C#5, 2 kpl
-| | | | A4, 1 kpl
-| | | | E4, 1 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | A3, 1 kpl
-| | | A4, 1 kpl
-| | | | F#4, 1 kpl
-| B3, 27 kpl
-| | A4, 2 kpl
-| | | F#4, 1 kpl
-| | | | B4, 1 kpl
-| | | G#5, 1 kpl
-| | | | F#5, 1 kpl
-| | G#4, 4 kpl
-| | | F#4, 2 kpl
-| | | | G#4, 2 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | C#5, 4 kpl
-| | | D5, 4 kpl
-| | | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | | | F#4, 2 kpl
-| | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | A4, 1 kpl
-| | C5, 9 kpl
-| | | B4, 3 kpl
-| | | | E5, 2 kpl
-| | | | A4, 1 kpl
-| | | D5, 4 kpl
-| | | | G4, 1 kpl
-| | | | D#5, 1 kpl
-| | | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | | A4, 2 kpl
-| | | | B4, 2 kpl
-| | E4, 2 kpl
-| | | C#5, 2 kpl
-| | | | E4, 2 kpl
-| | G4, 4 kpl
-| | | F#4, 2 kpl
-| | | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | | C5, 2 kpl
-| | | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| G#4, 19 kpl
-| | F#4, 6 kpl
-| | | G#4, 1 kpl
-| | | | A4, 1 kpl
-| | | E5, 3 kpl
-| | | | D#5, 1 kpl
-| | | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | | F4, 1 kpl
-| | | | D4, 1 kpl
-| | | A4, 1 kpl
-| | | | C#5, 1 kpl
-| | B4, 2 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | E5, 1 kpl
-| | | | G#4, 1 kpl
-| | A4, 7 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | B4, 4 kpl
-| | | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | | | C#5, 2 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | | F#4, 1 kpl
-| | | | F#4, 1 kpl
-| | C#5, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | E4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | G#5, 1 kpl
-| | | B4, 1 kpl
-| | | | A5, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| A4, 13 kpl
-| | A4, 3 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | D#5, 1 kpl
-| | | | B4, 1 kpl
-| | A#4, 2 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| | E4, 2 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | A3, 1 kpl
-| | | | A3, 1 kpl
-| | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | E4, 1 kpl
-| | F4, 2 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | D4, 1 kpl
-| | B4, 2 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | | A3, 1 kpl
-| | | | A3, 1 kpl
-| | G5, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| E5, 15 kpl
-| | D#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 2 kpl
-| | | E5, 1 kpl
-| | | | A4, 1 kpl
-| | | F5, 1 kpl
-| | | | A4, 1 kpl
-| | G4, 3 kpl
-| | | F4, 1 kpl
-| | | | G4, 1 kpl
-| | | D5, 2 kpl
-| | | | F#4, 1 kpl
-| | | | F4, 1 kpl
-| | D5, 2 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | C#4, 1 kpl
-| | | | B3, 1 kpl
-| | B4, 2 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | B3, 1 kpl
-| | | | E4, 1 kpl
-| | F#5, 1 kpl
-| | | G5, 1 kpl
-| | | | E4, 1 kpl
-| | C#5, 1 kpl
-| | | A5, 1 kpl
-| | | | D5, 1 kpl
-| | A3, 2 kpl
-| | | A3, 1 kpl
-| | | | B3, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | E4, 1 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| D5, 23 kpl
-| | B4, 3 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | | C5, 1 kpl
-| | | | G4, 1 kpl
-| | | A4, 1 kpl
-| | | | A4, 1 kpl
-| | C5, 5 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | | F4, 1 kpl
-| | | | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | F4, 3 kpl
-| | | E4, 2 kpl
-| | | | C5, 1 kpl
-| | | | F5, 1 kpl
-| | | D#4, 1 kpl
-| | | | D4, 1 kpl
-| | F#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | A5, 2 kpl
-| | | B4, 1 kpl
-| | | | A5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | C#5, 3 kpl
-| | | B4, 2 kpl
-| | | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | G#4, 1 kpl
-| | | E5, 1 kpl
-| | | | F#4, 1 kpl
-| | G5, 3 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | E5, 2 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | | C4, 1 kpl
-| | | | F#5, 1 kpl
-| C4, 18 kpl
-| | A#4, 5 kpl
-| | | C5, 2 kpl
-| | | | D#4, 1 kpl
-| | | | F5, 1 kpl
-| | | D5, 2 kpl
-| | | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | | G5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 2 kpl
-| | | A4, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | D#4, 1 kpl
-| | | C4, 1 kpl
-| | | | A3, 1 kpl
-| | B4, 3 kpl
-| | | E4, 2 kpl
-| | | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | D5, 2 kpl
-| | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | | F4, 1 kpl
-| | | | C5, 1 kpl
-| | G4, 2 kpl
-| | | A4, 1 kpl
-| | | | D4, 1 kpl
-| | | C5, 1 kpl
-| | | | F#4, 1 kpl
-| | F4, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | F#5, 2 kpl
-| | | A4, 2 kpl
-| | | | A5, 1 kpl
-| | | | D4, 1 kpl
-| D#5, 3 kpl
-| | C#5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A#4, 1 kpl
-| | D#4, 1 kpl
-| | | F4, 1 kpl
-| | | | F4, 1 kpl
-| | D4, 1 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-C#5, 116 kpl
-| D#5, 8 kpl
-| | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | C5, 1 kpl
-| | C#5, 1 kpl
-| | | C5, 1 kpl
-| | | | C#5, 1 kpl
-| | B4, 1 kpl
-| | | G#4, 1 kpl
-| | | | E4, 1 kpl
-| | G#5, 2 kpl
-| | | G5, 2 kpl
-| | | | G#5, 2 kpl
-| | E4, 2 kpl
-| | | F#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | F#4, 1 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| D5, 23 kpl
-| | B4, 6 kpl
-| | | E5, 1 kpl
-| | | | B5, 1 kpl
-| | | C#5, 2 kpl
-| | | | D5, 2 kpl
-| | | A4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | D4, 1 kpl
-| | | | F#4, 1 kpl
-| | F4, 1 kpl
-| | | G4, 1 kpl
-| | | | A4, 1 kpl
-| | G5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | C#5, 5 kpl
-| | | E5, 2 kpl
-| | | | D5, 2 kpl
-| | | B4, 2 kpl
-| | | | C#5, 2 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | E5, 7 kpl
-| | | F#4, 2 kpl
-| | | | G4, 1 kpl
-| | | | D4, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | D#5, 1 kpl
-| | | | F5, 1 kpl
-| | F#5, 2 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | | A4, 1 kpl
-| | | | D5, 1 kpl
-| | G#4, 1 kpl
-| | | E4, 1 kpl
-| | | | G#4, 1 kpl
-| C#5, 7 kpl
-| | B4, 2 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | | G#5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | C#5, 1 kpl
-| | | B4, 1 kpl
-| | | | B4, 1 kpl
-| | F#5, 1 kpl
-| | | A5, 1 kpl
-| | | | G#5, 1 kpl
-| | G#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | A#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | A#4, 1 kpl
-| B4, 20 kpl
-| | C#4, 5 kpl
-| | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | E4, 1 kpl
-| | A4, 7 kpl
-| | | G#4, 2 kpl
-| | | | A4, 2 kpl
-| | | F#5, 1 kpl
-| | | | G#4, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | | G4, 2 kpl
-| | | | A4, 1 kpl
-| | | | F#5, 1 kpl
-| | | B3, 1 kpl
-| | | | D4, 1 kpl
-| | G5, 2 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | F#4, 1 kpl
-| | D5, 2 kpl
-| | | C#5, 2 kpl
-| | | | B4, 2 kpl
-| | E5, 2 kpl
-| | | A3, 1 kpl
-| | | | E4, 1 kpl
-| | | F#4, 1 kpl
-| | | | D#4, 1 kpl
-| | F#4, 1 kpl
-| | | A3, 1 kpl
-| | | | F#5, 1 kpl
-| | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| E5, 15 kpl
-| | C#4, 3 kpl
-| | | F#4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 2 kpl
-| | | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | D5, 3 kpl
-| | | C#5, 2 kpl
-| | | | B4, 1 kpl
-| | | | D4, 1 kpl
-| | | D4, 1 kpl
-| | | | F5, 1 kpl
-| | G5, 1 kpl
-| | | F#5, 1 kpl
-| | | | A4, 1 kpl
-| | F#5, 2 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | G#5, 1 kpl
-| | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | A5, 2 kpl
-| | | F#5, 2 kpl
-| | | | D5, 1 kpl
-| | | | D#5, 1 kpl
-| | E4, 2 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | | D4, 1 kpl
-| | | | C#4, 1 kpl
-| F#4, 7 kpl
-| | G#4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | B4, 3 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | | F#4, 1 kpl
-| | | | B3, 1 kpl
-| | | G3, 1 kpl
-| | | | B3, 1 kpl
-| | A4, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | F#4, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | G5, 1 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| F4, 6 kpl
-| | E5, 3 kpl
-| | | F#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F5, 1 kpl
-| | | | D5, 1 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | A#5, 1 kpl
-| | | G#5, 1 kpl
-| | | | G5, 1 kpl
-| | D5, 1 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | C#5, 1 kpl
-| | | G5, 1 kpl
-| | | | E4, 1 kpl
-| A#4, 8 kpl
-| | B4, 2 kpl
-| | | B5, 1 kpl
-| | | | A#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | C#5, 1 kpl
-| | C5, 2 kpl
-| | | G#4, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | C#5, 1 kpl
-| | | A#5, 1 kpl
-| | | | C#5, 1 kpl
-| | G#4, 1 kpl
-| | | C#5, 1 kpl
-| | | | F#4, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | F#4, 1 kpl
-| | | B4, 1 kpl
-| | | | A#4, 1 kpl
-| A4, 8 kpl
-| | D#5, 2 kpl
-| | | E5, 2 kpl
-| | | | F#5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 1 kpl
-| | | A5, 1 kpl
-| | | | G5, 1 kpl
-| | G5, 1 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| | B4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F#5, 1 kpl
-| | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-| | C#5, 1 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| | D5, 1 kpl
-| | | A4, 1 kpl
-| | | | E5, 1 kpl
-| C5, 8 kpl
-| | G4, 1 kpl
-| | | F5, 1 kpl
-| | | | G#4, 1 kpl
-| | G#4, 2 kpl
-| | | G4, 1 kpl
-| | | | C5, 1 kpl
-| | | G#4, 1 kpl
-| | | | D#4, 1 kpl
-| | A#4, 2 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | | G5, 1 kpl
-| | | | G#5, 1 kpl
-| | F#4, 1 kpl
-| | | C5, 1 kpl
-| | | | F4, 1 kpl
-| | E5, 1 kpl
-| | | F4, 1 kpl
-| | | | C5, 1 kpl
-| | F5, 1 kpl
-| | | C4, 1 kpl
-| | | | D#5, 1 kpl
-| G#5, 3 kpl
-| | G5, 1 kpl
-| | | F5, 1 kpl
-| | | | A#5, 1 kpl
-| | A4, 2 kpl
-| | | B4, 2 kpl
-| | | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| G4, 3 kpl
-| | A#5, 1 kpl
-| | | A5, 1 kpl
-| | | | A#5, 1 kpl
-| | G4, 1 kpl
-| | | G#4, 1 kpl
-| | | | G#4, 1 kpl
-| | E4, 1 kpl
-| | | G4, 1 kpl
-| | | | C#5, 1 kpl
-B5, 169 kpl
-| A5, 35 kpl
-| | B5, 12 kpl
-| | | C6, 2 kpl
-| | | | A5, 1 kpl
-| | | | D5, 1 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | E5, 1 kpl
-| | | | D#5, 1 kpl
-| | | D5, 2 kpl
-| | | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | | C#4, 5 kpl
-| | | | A3, 2 kpl
-| | | | B4, 2 kpl
-| | | | D5, 1 kpl
-| | G4, 8 kpl
-| | | F#4, 5 kpl
-| | | | G4, 3 kpl
-| | | | E4, 1 kpl
-| | | | B5, 1 kpl
-| | | A4, 2 kpl
-| | | | F#4, 1 kpl
-| | | | G5, 1 kpl
-| | | G4, 1 kpl
-| | | | G4, 1 kpl
-| | G#4, 10 kpl
-| | | F#4, 6 kpl
-| | | | G#4, 2 kpl
-| | | | E4, 3 kpl
-| | | | F4, 1 kpl
-| | | E4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | F#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | F4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | F#5, 3 kpl
-| | | D#5, 1 kpl
-| | | | F#5, 1 kpl
-| | | E4, 1 kpl
-| | | | D4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | A3, 1 kpl
-| | | D4, 1 kpl
-| | | | A3, 1 kpl
-| | C5, 1 kpl
-| | | F#4, 1 kpl
-| | | | D#5, 1 kpl
-| C5, 17 kpl
-| | C6, 1 kpl
-| | | A#5, 1 kpl
-| | | | G#5, 1 kpl
-| | D5, 6 kpl
-| | | E5, 2 kpl
-| | | | F#5, 1 kpl
-| | | | C5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | D#4, 2 kpl
-| | | | D4, 1 kpl
-| | | | F4, 1 kpl
-| | D#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 2 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | B4, 4 kpl
-| | | G4, 2 kpl
-| | | | F5, 2 kpl
-| | | A4, 1 kpl
-| | | | C5, 1 kpl
-| | | B4, 1 kpl
-| | | | G5, 1 kpl
-| | F#4, 1 kpl
-| | | D#4, 1 kpl
-| | | | B4, 1 kpl
-| | E4, 2 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | D4, 1 kpl
-| | | | C5, 1 kpl
-| E5, 19 kpl
-| | E5, 3 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | B4, 3 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | G#5, 1 kpl
-| | | | E5, 1 kpl
-| | | F#5, 1 kpl
-| | | | B4, 1 kpl
-| | C5, 3 kpl
-| | | A4, 3 kpl
-| | | | F4, 1 kpl
-| | | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | C#5, 4 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| | | E4, 1 kpl
-| | | | D5, 1 kpl
-| | D5, 3 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | | C5, 2 kpl
-| | | | E5, 1 kpl
-| | | | B4, 1 kpl
-| | F#5, 2 kpl
-| | | G5, 1 kpl
-| | | | F#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | A#4, 1 kpl
-| | | C#4, 1 kpl
-| | | | F#5, 1 kpl
-| A#4, 6 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | B5, 2 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| | G4, 2 kpl
-| | | A4, 1 kpl
-| | | | F4, 1 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | G#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G4, 1 kpl
-| B4, 9 kpl
-| | D#5, 1 kpl
-| | | E5, 1 kpl
-| | | | G5, 1 kpl
-| | C#4, 2 kpl
-| | | D#4, 1 kpl
-| | | | E4, 1 kpl
-| | | E4, 1 kpl
-| | | | D#5, 1 kpl
-| | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | C5, 1 kpl
-| | C5, 1 kpl
-| | | E5, 1 kpl
-| | | | C5, 1 kpl
-| | E5, 1 kpl
-| | | B4, 1 kpl
-| | | | B4, 1 kpl
-| | F#4, 1 kpl
-| | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| | D4, 1 kpl
-| | | B3, 1 kpl
-| | | | B3, 1 kpl
-| | A#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | F#5, 1 kpl
-| D#5, 8 kpl
-| | E5, 3 kpl
-| | | F#4, 1 kpl
-| | | | A4, 1 kpl
-| | | A#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | G5, 1 kpl
-| | | | A#5, 1 kpl
-| | F#5, 3 kpl
-| | | B5, 1 kpl
-| | | | B5, 1 kpl
-| | | A4, 2 kpl
-| | | | G4, 1 kpl
-| | | | G#4, 1 kpl
-| | G#5, 1 kpl
-| | | E4, 1 kpl
-| | | | A5, 1 kpl
-| | C5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C5, 1 kpl
-| C#5, 19 kpl
-| | B4, 2 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | D#5, 5 kpl
-| | | E5, 4 kpl
-| | | | C#5, 1 kpl
-| | | | F#5, 2 kpl
-| | | | D#5, 1 kpl
-| | | C#4, 1 kpl
-| | | | D#4, 1 kpl
-| | A4, 3 kpl
-| | | C#4, 1 kpl
-| | | | D#4, 1 kpl
-| | | G4, 2 kpl
-| | | | D5, 1 kpl
-| | | | F#4, 1 kpl
-| | D5, 6 kpl
-| | | C#5, 3 kpl
-| | | | B4, 2 kpl
-| | | | E5, 1 kpl
-| | | B3, 1 kpl
-| | | | C#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | E4, 1 kpl
-| | | A#5, 1 kpl
-| | | | A5, 1 kpl
-| | F#4, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | E4, 1 kpl
-| | | A3, 1 kpl
-| | | | C#4, 1 kpl
-| | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| D4, 21 kpl
-| | G4, 3 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | C5, 6 kpl
-| | | E5, 2 kpl
-| | | | G#4, 1 kpl
-| | | | D5, 1 kpl
-| | | A5, 2 kpl
-| | | | F5, 1 kpl
-| | | | B4, 1 kpl
-| | | B4, 2 kpl
-| | | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | F5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | B4, 2 kpl
-| | | G#4, 1 kpl
-| | | | B4, 1 kpl
-| | | F#4, 1 kpl
-| | | | F#4, 1 kpl
-| | F#5, 3 kpl
-| | | G#5, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 2 kpl
-| | | | B4, 2 kpl
-| | C#5, 3 kpl
-| | | A3, 2 kpl
-| | | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | E4, 1 kpl
-| | | | F#4, 1 kpl
-| | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | G#5, 1 kpl
-| | E5, 2 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | | F#4, 1 kpl
-| | | | G4, 1 kpl
-| F4, 6 kpl
-| | E4, 1 kpl
-| | | D4, 1 kpl
-| | | | C4, 1 kpl
-| | A5, 2 kpl
-| | | G5, 1 kpl
-| | | | F5, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | D4, 1 kpl
-| | | E4, 1 kpl
-| | | | F4, 1 kpl
-| | A#4, 1 kpl
-| | | D4, 1 kpl
-| | | | D4, 1 kpl
-| | G4, 1 kpl
-| | | C5, 1 kpl
-| | | | E4, 1 kpl
-| G5, 15 kpl
-| | A4, 7 kpl
-| | | F#5, 2 kpl
-| | | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | | B4, 2 kpl
-| | | | C#5, 1 kpl
-| | | | E4, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | G4, 2 kpl
-| | | | F#4, 2 kpl
-| | C4, 2 kpl
-| | | G5, 1 kpl
-| | | | C4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 2 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | | B3, 1 kpl
-| | | | B3, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | G#4, 1 kpl
-| | F4, 1 kpl
-| | | C5, 1 kpl
-| | | | G4, 1 kpl
-| | B4, 1 kpl
-| | | G4, 1 kpl
-| | | | E4, 1 kpl
-| G#4, 10 kpl
-| | B5, 3 kpl
-| | | C6, 1 kpl
-| | | | G#4, 1 kpl
-| | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | E4, 1 kpl
-| | A4, 2 kpl
-| | | C#5, 1 kpl
-| | | | F#5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | E4, 2 kpl
-| | | E5, 1 kpl
-| | | | E5, 1 kpl
-| | | G#5, 1 kpl
-| | | | A5, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | D5, 1 kpl
-| | F5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | G4, 1 kpl
-| | | F4, 1 kpl
-| | | | D#4, 1 kpl
-| F#4, 4 kpl
-| | G#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | F#4, 1 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | E5, 1 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | G4, 1 kpl
-| | | F#4, 1 kpl
-| | | | B4, 1 kpl
-E4, 185 kpl
-| F4, 22 kpl
-| | G4, 6 kpl
-| | | G#4, 1 kpl
-| | | | A#4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | | A4, 2 kpl
-| | | | G5, 1 kpl
-| | | | B4, 1 kpl
-| | | F5, 2 kpl
-| | | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | D5, 6 kpl
-| | | E5, 3 kpl
-| | | | F5, 1 kpl
-| | | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | | G#5, 2 kpl
-| | | | D5, 1 kpl
-| | | | F5, 1 kpl
-| | | F4, 1 kpl
-| | | | C#5, 1 kpl
-| | G#4, 3 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | | B3, 1 kpl
-| | | | G4, 1 kpl
-| | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| | C5, 2 kpl
-| | | A5, 1 kpl
-| | | | F5, 1 kpl
-| | | E4, 1 kpl
-| | | | C5, 1 kpl
-| | F5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D#5, 1 kpl
-| | E5, 3 kpl
-| | | D5, 2 kpl
-| | | | C5, 2 kpl
-| | | F5, 1 kpl
-| | | | C5, 1 kpl
-| | A3, 1 kpl
-| | | A#3, 1 kpl
-| | | | F4, 1 kpl
-| B4, 9 kpl
-| | B4, 2 kpl
-| | | E5, 1 kpl
-| | | | F#5, 1 kpl
-| | | C4, 1 kpl
-| | | | B3, 1 kpl
-| | A4, 1 kpl
-| | | G4, 1 kpl
-| | | | F#4, 1 kpl
-| | D5, 3 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | C4, 1 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | C5, 1 kpl
-| | | E5, 1 kpl
-| | | | A5, 1 kpl
-| | E5, 1 kpl
-| | | A4, 1 kpl
-| | | | D5, 1 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | A4, 1 kpl
-| F#5, 29 kpl
-| | A5, 5 kpl
-| | | G5, 1 kpl
-| | | | F#5, 1 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | D#5, 1 kpl
-| | | G#5, 1 kpl
-| | | | E4, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | D5, 7 kpl
-| | | B5, 1 kpl
-| | | | A5, 1 kpl
-| | | F4, 1 kpl
-| | | | C#4, 1 kpl
-| | | C#5, 3 kpl
-| | | | G4, 1 kpl
-| | | | C#4, 1 kpl
-| | | | E4, 1 kpl
-| | | A4, 2 kpl
-| | | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| | G#4, 4 kpl
-| | | A4, 3 kpl
-| | | | B4, 2 kpl
-| | | | F#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | G#4, 1 kpl
-| | G5, 6 kpl
-| | | G5, 1 kpl
-| | | | G4, 1 kpl
-| | | F#5, 2 kpl
-| | | | A5, 2 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | E4, 1 kpl
-| | | | F#5, 1 kpl
-| | | A4, 1 kpl
-| | | | G5, 1 kpl
-| | D#5, 1 kpl
-| | | G5, 1 kpl
-| | | | E5, 1 kpl
-| | B3, 1 kpl
-| | | G#4, 1 kpl
-| | | | B3, 1 kpl
-| | E5, 3 kpl
-| | | F#5, 1 kpl
-| | | | G#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | A4, 1 kpl
-| | | | E4, 1 kpl
-| | F#4, 2 kpl
-| | | E5, 1 kpl
-| | | | G4, 1 kpl
-| | | D5, 1 kpl
-| | | | F#4, 1 kpl
-| C#5, 16 kpl
-| | D5, 2 kpl
-| | | D5, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | A#4, 3 kpl
-| | | G#5, 2 kpl
-| | | | F#5, 2 kpl
-| | | G4, 1 kpl
-| | | | G#4, 1 kpl
-| | C5, 2 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | B4, 2 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | G#4, 1 kpl
-| | F#5, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | G5, 2 kpl
-| | | E5, 2 kpl
-| | | | D5, 1 kpl
-| | | | G4, 1 kpl
-| | E5, 2 kpl
-| | | A3, 1 kpl
-| | | | D4, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | A4, 2 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| D5, 40 kpl
-| | C5, 14 kpl
-| | | A4, 1 kpl
-| | | | D4, 1 kpl
-| | | B4, 9 kpl
-| | | | A4, 6 kpl
-| | | | D5, 3 kpl
-| | | D4, 2 kpl
-| | | | E4, 1 kpl
-| | | | C5, 1 kpl
-| | | A#4, 2 kpl
-| | | | A4, 2 kpl
-| | E5, 6 kpl
-| | | C5, 2 kpl
-| | | | D5, 1 kpl
-| | | | A#5, 1 kpl
-| | | F5, 1 kpl
-| | | | G5, 1 kpl
-| | | A#4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | G5, 1 kpl
-| | | G5, 1 kpl
-| | | | A4, 1 kpl
-| | A#4, 1 kpl
-| | | C4, 1 kpl
-| | | | D4, 1 kpl
-| | A4, 2 kpl
-| | | G4, 1 kpl
-| | | | F4, 1 kpl
-| | | E5, 1 kpl
-| | | | F#4, 1 kpl
-| | C#5, 10 kpl
-| | | D5, 2 kpl
-| | | | E5, 1 kpl
-| | | | F#4, 1 kpl
-| | | E4, 1 kpl
-| | | | C#4, 1 kpl
-| | | G5, 1 kpl
-| | | | C#5, 1 kpl
-| | | B4, 5 kpl
-| | | | F#4, 1 kpl
-| | | | D5, 1 kpl
-| | | | A4, 2 kpl
-| | | | A#4, 1 kpl
-| | | A3, 1 kpl
-| | | | C#4, 1 kpl
-| | G#4, 2 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | G5, 1 kpl
-| | | A5, 1 kpl
-| | | | F5, 1 kpl
-| | F4, 1 kpl
-| | | C5, 1 kpl
-| | | | A#4, 1 kpl
-| | F#4, 1 kpl
-| | | A3, 1 kpl
-| | | | B3, 1 kpl
-| | B4, 1 kpl
-| | | D4, 1 kpl
-| | | | D4, 1 kpl
-| D#5, 6 kpl
-| | D5, 1 kpl
-| | | C#5, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 3 kpl
-| | | C#5, 2 kpl
-| | | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | | A#4, 1 kpl
-| | | | G#4, 1 kpl
-| | C#5, 2 kpl
-| | | B4, 2 kpl
-| | | | A#4, 1 kpl
-| | | | E5, 1 kpl
-| E4, 9 kpl
-| | G#5, 1 kpl
-| | | E5, 1 kpl
-| | | | C#5, 1 kpl
-| | A4, 2 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | E4, 1 kpl
-| | | | E4, 1 kpl
-| | F4, 1 kpl
-| | | D5, 1 kpl
-| | | | G4, 1 kpl
-| | C#5, 2 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | | A4, 1 kpl
-| | | | A5, 1 kpl
-| | F#5, 2 kpl
-| | | D#4, 1 kpl
-| | | | B4, 1 kpl
-| | | E4, 1 kpl
-| | | | E4, 1 kpl
-| | E5, 1 kpl
-| | | A5, 1 kpl
-| | | | E5, 1 kpl
-| A#5, 5 kpl
-| | G#5, 2 kpl
-| | | A#5, 1 kpl
-| | | | D#5, 1 kpl
-| | | G#4, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 1 kpl
-| | | G4, 1 kpl
-| | | | D5, 1 kpl
-| | C#5, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | A4, 1 kpl
-| G#4, 9 kpl
-| | F#4, 4 kpl
-| | | G#4, 1 kpl
-| | | | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | E5, 1 kpl
-| | | C#4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | D5, 1 kpl
-| | C5, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| | A5, 2 kpl
-| | | B5, 2 kpl
-| | | | D#4, 1 kpl
-| | | | A4, 1 kpl
-| | B4, 1 kpl
-| | | A5, 1 kpl
-| | | | B4, 1 kpl
-| | E5, 1 kpl
-| | | C#5, 1 kpl
-| | | | E5, 1 kpl
-| A4, 20 kpl
-| | D#4, 2 kpl
-| | | E4, 2 kpl
-| | | | D#4, 1 kpl
-| | | | G4, 1 kpl
-| | C5, 2 kpl
-| | | B4, 1 kpl
-| | | | E4, 1 kpl
-| | | A4, 1 kpl
-| | | | F5, 1 kpl
-| | E4, 7 kpl
-| | | A4, 1 kpl
-| | | | C5, 1 kpl
-| | | C4, 1 kpl
-| | | | E4, 1 kpl
-| | | B4, 1 kpl
-| | | | A5, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | C#5, 1 kpl
-| | | | A4, 1 kpl
-| | | E4, 2 kpl
-| | | | B4, 1 kpl
-| | | | F#4, 1 kpl
-| | F5, 3 kpl
-| | | A4, 2 kpl
-| | | | F5, 2 kpl
-| | | B5, 1 kpl
-| | | | G4, 1 kpl
-| | B4, 2 kpl
-| | | C#5, 2 kpl
-| | | | D#5, 1 kpl
-| | | | E4, 1 kpl
-| | G5, 4 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | | A4, 1 kpl
-| | | | D4, 1 kpl
-| | | F#4, 2 kpl
-| | | | E4, 2 kpl
-| C5, 12 kpl
-| | A4, 1 kpl
-| | | C5, 1 kpl
-| | | | F#4, 1 kpl
-| | D4, 3 kpl
-| | | E4, 1 kpl
-| | | | F4, 1 kpl
-| | | B4, 2 kpl
-| | | | A4, 2 kpl
-| | F#5, 1 kpl
-| | | D#5, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 2 kpl
-| | | C5, 2 kpl
-| | | | F4, 1 kpl
-| | | | A4, 1 kpl
-| | C4, 1 kpl
-| | | A#3, 1 kpl
-| | | | E4, 1 kpl
-| | G4, 3 kpl
-| | | E4, 1 kpl
-| | | | A#4, 1 kpl
-| | | G#5, 1 kpl
-| | | | F5, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | C5, 1 kpl
-| G5, 8 kpl
-| | F5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | E5, 2 kpl
-| | | D#5, 1 kpl
-| | | | G4, 1 kpl
-| | | D5, 1 kpl
-| | | | C#5, 1 kpl
-| | G#4, 1 kpl
-| | | F4, 1 kpl
-| | | | F4, 1 kpl
-| | A4, 1 kpl
-| | | F#5, 1 kpl
-| | | | G5, 1 kpl
-| | A#5, 1 kpl
-| | | F4, 1 kpl
-| | | | A5, 1 kpl
-| | F#4, 2 kpl
-| | | G4, 1 kpl
-| | | | E5, 1 kpl
-| | | D5, 1 kpl
-| | | | A#4, 1 kpl
-F#5, 131 kpl
-| E5, 38 kpl
-| | F#5, 7 kpl
-| | | G5, 2 kpl
-| | | | B5, 1 kpl
-| | | | A4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C#5, 1 kpl
-| | | E4, 2 kpl
-| | | | G#4, 1 kpl
-| | | | D4, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | | D4, 1 kpl
-| | | | A4, 1 kpl
-| | D5, 18 kpl
-| | | C5, 3 kpl
-| | | | B4, 3 kpl
-| | | C#5, 6 kpl
-| | | | D5, 3 kpl
-| | | | B5, 3 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | | B5, 2 kpl
-| | | | C#5, 2 kpl
-| | | G5, 2 kpl
-| | | | E4, 1 kpl
-| | | | F#5, 1 kpl
-| | | G#5, 1 kpl
-| | | | A5, 1 kpl
-| | | F#5, 1 kpl
-| | | | C5, 1 kpl
-| | | F5, 1 kpl
-| | | | E5, 1 kpl
-| | D#5, 4 kpl
-| | | C#5, 2 kpl
-| | | | B4, 1 kpl
-| | | | D#4, 1 kpl
-| | | E4, 2 kpl
-| | | | F#4, 1 kpl
-| | | | G#5, 1 kpl
-| | A5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | C#4, 2 kpl
-| | | G#5, 1 kpl
-| | | | D#5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | G#4, 2 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | E5, 1 kpl
-| | E5, 1 kpl
-| | | F5, 1 kpl
-| | | | F5, 1 kpl
-| | G4, 2 kpl
-| | | F#4, 2 kpl
-| | | | E4, 1 kpl
-| | | | A4, 1 kpl
-| | B4, 1 kpl
-| | | C#5, 1 kpl
-| | | | E4, 1 kpl
-| G5, 20 kpl
-| | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | E4, 4 kpl
-| | | C5, 1 kpl
-| | | | C5, 1 kpl
-| | | F#5, 3 kpl
-| | | | A4, 1 kpl
-| | | | E5, 1 kpl
-| | | | D4, 1 kpl
-| | A5, 10 kpl
-| | | F#5, 1 kpl
-| | | | D5, 1 kpl
-| | | G5, 4 kpl
-| | | | F#5, 2 kpl
-| | | | A4, 1 kpl
-| | | | B4, 1 kpl
-| | | A#4, 2 kpl
-| | | | D4, 1 kpl
-| | | | C5, 1 kpl
-| | | D5, 1 kpl
-| | | | C5, 1 kpl
-| | | C5, 1 kpl
-| | | | B4, 1 kpl
-| | | B4, 1 kpl
-| | | | G4, 1 kpl
-| | C#4, 1 kpl
-| | | C4, 1 kpl
-| | | | C4, 1 kpl
-| | F#5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | B4, 2 kpl
-| | | E5, 2 kpl
-| | | | F#5, 1 kpl
-| | | | C#5, 1 kpl
-| | D5, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| G#4, 12 kpl
-| | E4, 2 kpl
-| | | D#4, 1 kpl
-| | | | E4, 1 kpl
-| | | F#4, 1 kpl
-| | | | D#4, 1 kpl
-| | A4, 5 kpl
-| | | B4, 3 kpl
-| | | | C#5, 2 kpl
-| | | | C5, 1 kpl
-| | | D4, 1 kpl
-| | | | C5, 1 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | A#4, 2 kpl
-| | | B4, 2 kpl
-| | | | A#4, 1 kpl
-| | | | B4, 1 kpl
-| | F#4, 1 kpl
-| | | F4, 1 kpl
-| | | | F#4, 1 kpl
-| | B3, 2 kpl
-| | | D4, 1 kpl
-| | | | G#4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| F#5, 9 kpl
-| | D#5, 1 kpl
-| | | B4, 1 kpl
-| | | | D#5, 1 kpl
-| | E4, 2 kpl
-| | | E4, 1 kpl
-| | | | F4, 1 kpl
-| | | C#5, 1 kpl
-| | | | E4, 1 kpl
-| | B4, 1 kpl
-| | | A4, 1 kpl
-| | | | G4, 1 kpl
-| | A4, 2 kpl
-| | | G5, 2 kpl
-| | | | A5, 1 kpl
-| | | | F#5, 1 kpl
-| | F#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | C#4, 1 kpl
-| | G4, 2 kpl
-| | | F#4, 2 kpl
-| | | | F#4, 2 kpl
-| D#5, 8 kpl
-| | B4, 2 kpl
-| | | F#4, 1 kpl
-| | | | D#4, 1 kpl
-| | | D#5, 1 kpl
-| | | | C4, 1 kpl
-| | E4, 3 kpl
-| | | G#4, 1 kpl
-| | | | A4, 1 kpl
-| | | E4, 1 kpl
-| | | | D#5, 1 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | A4, 1 kpl
-| | | F#4, 1 kpl
-| | | | A4, 1 kpl
-| | F#4, 1 kpl
-| | | E5, 1 kpl
-| | | | E5, 1 kpl
-| | D5, 1 kpl
-| | | B4, 1 kpl
-| | | | B4, 1 kpl
-| B4, 10 kpl
-| | C#5, 3 kpl
-| | | D5, 2 kpl
-| | | | E5, 1 kpl
-| | | | F#4, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | A#4, 1 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | G4, 1 kpl
-| | | D4, 1 kpl
-| | | | E4, 1 kpl
-| | A4, 1 kpl
-| | | G#4, 1 kpl
-| | | | F#4, 1 kpl
-| | F#4, 3 kpl
-| | | F#4, 2 kpl
-| | | | C#5, 1 kpl
-| | | | E4, 1 kpl
-| | | D4, 1 kpl
-| | | | F#4, 1 kpl
-| | B3, 1 kpl
-| | | G4, 1 kpl
-| | | | B4, 1 kpl
-| D5, 12 kpl
-| | B4, 3 kpl
-| | | D5, 3 kpl
-| | | | G4, 1 kpl
-| | | | F#5, 1 kpl
-| | | | B4, 1 kpl
-| | C#5, 2 kpl
-| | | B4, 2 kpl
-| | | | E5, 1 kpl
-| | | | F5, 1 kpl
-| | A4, 2 kpl
-| | | B4, 1 kpl
-| | | | C#5, 1 kpl
-| | | D5, 1 kpl
-| | | | E5, 1 kpl
-| | G5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | D#5, 1 kpl
-| | | C5, 1 kpl
-| | | | D5, 1 kpl
-| | F#4, 2 kpl
-| | | A4, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | B4, 1 kpl
-| | E4, 1 kpl
-| | | C#5, 1 kpl
-| | | | D5, 1 kpl
-| A5, 10 kpl
-| | E4, 1 kpl
-| | | B5, 1 kpl
-| | | | E5, 1 kpl
-| | F#4, 4 kpl
-| | | G#4, 2 kpl
-| | | | F4, 1 kpl
-| | | | A5, 1 kpl
-| | | E5, 1 kpl
-| | | | D5, 1 kpl
-| | | D5, 1 kpl
-| | | | F#5, 1 kpl
-| | D#5, 2 kpl
-| | | E5, 1 kpl
-| | | | F#5, 1 kpl
-| | | F#4, 1 kpl
-| | | | D#4, 1 kpl
-| | G5, 2 kpl
-| | | F#5, 1 kpl
-| | | | E5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| | A4, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| C#5, 7 kpl
-| | F4, 1 kpl
-| | | C#5, 1 kpl
-| | | | C5, 1 kpl
-| | D4, 5 kpl
-| | | B4, 1 kpl
-| | | | A#4, 1 kpl
-| | | F#4, 1 kpl
-| | | | C#5, 1 kpl
-| | | C#5, 1 kpl
-| | | | F#5, 1 kpl
-| | | E5, 2 kpl
-| | | | D5, 1 kpl
-| | | | F#5, 1 kpl
-| | F#5, 1 kpl
-| | | A4, 1 kpl
-| | | | D5, 1 kpl
-| C5, 2 kpl
-| | D5, 2 kpl
-| | | D#5, 1 kpl
-| | | | A5, 1 kpl
-| | | B4, 1 kpl
-| | | | A4, 1 kpl
-| F4, 3 kpl
-| | D#4, 1 kpl
-| | | F4, 1 kpl
-| | | | G#4, 1 kpl
-| | F#4, 1 kpl
-| | | A4, 1 kpl
-| | | | G#4, 1 kpl
-| | B5, 1 kpl
-| | | G#5, 1 kpl
-| | | | A5, 1 kpl
+D#, 106 kpl
+| D, 20 kpl
+| | D#, 4 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | F, 3 kpl
+| | | G, 2 kpl
+| | | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | A#, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | G, 2 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | C, 8 kpl
+| | | D, 2 kpl
+| | | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | | B, 2 kpl
+| | | | C, 2 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 3 kpl
+| | | | A, 3 kpl
+| | G#, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| C, 18 kpl
+| | D, 3 kpl
+| | | D#, 2 kpl
+| | | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | G#, 1 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | E, 1 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | D#, 2 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A#, 2 kpl
+| | | A, 2 kpl
+| | | | G, 1 kpl
+| | | | F, 1 kpl
+| | F, 2 kpl
+| | | D, 2 kpl
+| | | | D#, 2 kpl
+| | C, 4 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | G, 2 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| A#, 5 kpl
+| | G#, 2 kpl
+| | | A#, 2 kpl
+| | | | C, 1 kpl
+| | | | G, 1 kpl
+| | D, 2 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | C, 1 kpl
+| | | D#, 1 kpl
+| | | | G#, 1 kpl
+| F#, 7 kpl
+| | E, 2 kpl
+| | | D#, 2 kpl
+| | | | C#, 2 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | F, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | G, 1 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | D#, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | A, 1 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| B, 8 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | A#, 2 kpl
+| | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | A#, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | C#, 3 kpl
+| | | A, 2 kpl
+| | | | B, 1 kpl
+| | | | E, 1 kpl
+| | | D#, 1 kpl
+| | | | E, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| C#, 7 kpl
+| | D#, 3 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | | B, 1 kpl
+| | | | A#, 1 kpl
+| | B, 1 kpl
+| | | A#, 1 kpl
+| | | | B, 1 kpl
+| | C, 3 kpl
+| | | A#, 3 kpl
+| | | | G#, 3 kpl
+| E, 8 kpl
+| | D#, 3 kpl
+| | | C#, 3 kpl
+| | | | B, 3 kpl
+| | G#, 2 kpl
+| | | F#, 2 kpl
+| | | | E, 1 kpl
+| | | | C#, 1 kpl
+| | C#, 1 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | E, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| F, 10 kpl
+| | D, 3 kpl
+| | | F, 2 kpl
+| | | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 2 kpl
+| | | C, 1 kpl
+| | | | C, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | G, 5 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 2 kpl
+| | | | D#, 2 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| G#, 5 kpl
+| | A#, 2 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | C#, 1 kpl
+| | | | D#, 1 kpl
+| | C, 1 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | A, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | E, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| G, 10 kpl
+| | G, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | D#, 3 kpl
+| | | C, 2 kpl
+| | | | A#, 2 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | C#, 1 kpl
+| | | G, 1 kpl
+| | | | C#, 1 kpl
+| | C, 2 kpl
+| | | D#, 2 kpl
+| | | | A, 1 kpl
+| | | | D, 1 kpl
+| | A, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | D, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| A, 6 kpl
+| | D, 1 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | E, 1 kpl
+| | | G#, 1 kpl
+| | B, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | C, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | G, 1 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | F#, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| D#, 2 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | C, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+G#, 113 kpl
+| F, 8 kpl
+| | D#, 2 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | B, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | G#, 2 kpl
+| | | F, 2 kpl
+| | | | F, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | F, 2 kpl
+| | | D#, 2 kpl
+| | | | D#, 1 kpl
+| | | | D, 1 kpl
+| A#, 9 kpl
+| | G, 3 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | D#, 1 kpl
+| | | | A#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | C, 3 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | C#, 1 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | B, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| G, 13 kpl
+| | G#, 4 kpl
+| | | A#, 2 kpl
+| | | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | | F, 1 kpl
+| | | | B, 1 kpl
+| | F, 6 kpl
+| | | D#, 3 kpl
+| | | | F, 1 kpl
+| | | | D, 2 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 1 kpl
+| | | D#, 1 kpl
+| | | | G, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| B, 10 kpl
+| | A, 3 kpl
+| | | B, 2 kpl
+| | | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | C#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | G#, 2 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | B, 1 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | E, 2 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | C, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| F#, 19 kpl
+| | B, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 1 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | D#, 2 kpl
+| | | E, 2 kpl
+| | | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | E, 7 kpl
+| | | D#, 5 kpl
+| | | | E, 2 kpl
+| | | | A, 1 kpl
+| | | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | A, 3 kpl
+| | | B, 2 kpl
+| | | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | F#, 2 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | F, 1 kpl
+| | C#, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | F, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| A, 21 kpl
+| | E, 3 kpl
+| | | D#, 1 kpl
+| | | | E, 1 kpl
+| | | C, 2 kpl
+| | | | E, 1 kpl
+| | | | A, 1 kpl
+| | B, 10 kpl
+| | | C#, 3 kpl
+| | | | D#, 1 kpl
+| | | | B, 1 kpl
+| | | | D, 1 kpl
+| | | A, 2 kpl
+| | | | B, 2 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | F#, 2 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 2 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | D, 2 kpl
+| | | B, 2 kpl
+| | | | C#, 1 kpl
+| | | | C, 1 kpl
+| | C, 2 kpl
+| | | E, 2 kpl
+| | | | A, 2 kpl
+| E, 10 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | G, 2 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | A, 2 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | G#, 1 kpl
+| | D, 2 kpl
+| | | A, 2 kpl
+| | | | A, 1 kpl
+| | | | C#, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | B, 1 kpl
+| | | E, 1 kpl
+| | | | B, 1 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| C#, 5 kpl
+| | D#, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | G, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | F, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 1 kpl
+| | | B, 1 kpl
+| | | | G#, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| C, 6 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | C, 1 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | F, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| D, 8 kpl
+| | B, 2 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | G#, 1 kpl
+| | G, 2 kpl
+| | | D#, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | D, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | A, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | F#, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| D#, 3 kpl
+| | B, 1 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | A#, 1 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | C, 1 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| G#, 1 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+G, 227 kpl
+| F, 46 kpl
+| | D#, 16 kpl
+| | | G, 3 kpl
+| | | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 9 kpl
+| | | | D#, 3 kpl
+| | | | C, 4 kpl
+| | | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 3 kpl
+| | | | G, 3 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | E, 10 kpl
+| | | D, 3 kpl
+| | | | E, 2 kpl
+| | | | C, 1 kpl
+| | | F, 4 kpl
+| | | | G, 1 kpl
+| | | | D, 1 kpl
+| | | | E, 2 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | G, 7 kpl
+| | | G#, 2 kpl
+| | | | A#, 1 kpl
+| | | | F, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 2 kpl
+| | | | E, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | A, 7 kpl
+| | | C, 2 kpl
+| | | | D#, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | G, 3 kpl
+| | | | D#, 1 kpl
+| | | | E, 2 kpl
+| | F, 2 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | D, 2 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | B, 1 kpl
+| | | F, 1 kpl
+| | | | B, 1 kpl
+| | C, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| D#, 10 kpl
+| | F, 2 kpl
+| | | D, 2 kpl
+| | | | D#, 1 kpl
+| | | | C, 1 kpl
+| | D, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | C, 3 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | D#, 1 kpl
+| | | C#, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| G#, 17 kpl
+| | C#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | A#, 6 kpl
+| | | C, 1 kpl
+| | | | C#, 1 kpl
+| | | G#, 3 kpl
+| | | | G, 2 kpl
+| | | | F, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | G#, 2 kpl
+| | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | F, 4 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | | G#, 2 kpl
+| | | | F, 1 kpl
+| | | | G, 1 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | E, 1 kpl
+| | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | G, 3 kpl
+| | | F, 2 kpl
+| | | | D#, 2 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| F#, 33 kpl
+| | E, 18 kpl
+| | | D, 8 kpl
+| | | | E, 1 kpl
+| | | | G, 1 kpl
+| | | | C, 3 kpl
+| | | | C#, 3 kpl
+| | | F#, 3 kpl
+| | | | D, 2 kpl
+| | | | G, 1 kpl
+| | | D#, 5 kpl
+| | | | E, 1 kpl
+| | | | F#, 2 kpl
+| | | | C, 1 kpl
+| | | | C#, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | A, 5 kpl
+| | | C, 2 kpl
+| | | | A#, 1 kpl
+| | | | B, 1 kpl
+| | | G, 2 kpl
+| | | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | B, 2 kpl
+| | | A, 2 kpl
+| | | | G, 2 kpl
+| | G, 4 kpl
+| | | A, 2 kpl
+| | | | D, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | D, 2 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | C, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | F#, 1 kpl
+| | | B, 1 kpl
+| | | | F#, 1 kpl
+| G, 11 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | G, 3 kpl
+| | | A#, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | G#, 2 kpl
+| | | G#, 2 kpl
+| | | | A#, 2 kpl
+| | F, 2 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | C#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | A, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| C, 23 kpl
+| | G, 5 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | D#, 1 kpl
+| | | | A#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | D, 4 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | | D#, 2 kpl
+| | | | F, 2 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | C, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | E, 4 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | F, 2 kpl
+| | | | D, 1 kpl
+| | | | C, 1 kpl
+| | B, 4 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | | A, 2 kpl
+| | | | C, 1 kpl
+| | | | G, 1 kpl
+| | F, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | D#, 1 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | A, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| A, 22 kpl
+| | F#, 2 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | A, 2 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | | A#, 1 kpl
+| | | | F, 1 kpl
+| | C#, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | B, 6 kpl
+| | | C, 3 kpl
+| | | | D, 1 kpl
+| | | | B, 2 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | C, 1 kpl
+| | A#, 4 kpl
+| | | C, 2 kpl
+| | | | D, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | F, 3 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | E, 1 kpl
+| | | | B, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | C, 2 kpl
+| | | B, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| | G, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| C#, 3 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | G, 2 kpl
+| | | C, 2 kpl
+| | | | G#, 2 kpl
+| D, 13 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | D#, 2 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | F, 1 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | G, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | D, 2 kpl
+| | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | E, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | F#, 2 kpl
+| | | A, 2 kpl
+| | | | F#, 1 kpl
+| | | | A, 1 kpl
+| | A#, 1 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | B, 1 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| | A, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| A#, 15 kpl
+| | D#, 4 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | A, 3 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | E, 2 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | F, 2 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| E, 22 kpl
+| | G, 4 kpl
+| | | E, 2 kpl
+| | | | C, 1 kpl
+| | | | G, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | C, 3 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | C#, 2 kpl
+| | | E, 2 kpl
+| | | | A, 1 kpl
+| | | | C#, 1 kpl
+| | F, 1 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| | D, 5 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | C#, 2 kpl
+| | | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | F#, 2 kpl
+| | | G, 2 kpl
+| | | | F#, 2 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | E, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | B, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| B, 11 kpl
+| | D, 3 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | B, 2 kpl
+| | | | G, 2 kpl
+| | C, 3 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | F, 2 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | B, 1 kpl
+| | | | F, 1 kpl
+| | G, 2 kpl
+| | | C#, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | A, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+D, 265 kpl
+| D#, 32 kpl
+| | C, 5 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 2 kpl
+| | | | A#, 2 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F, 12 kpl
+| | | D, 3 kpl
+| | | | C, 2 kpl
+| | | | G, 1 kpl
+| | | G, 5 kpl
+| | | | D#, 2 kpl
+| | | | G#, 2 kpl
+| | | | A, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | | D#, 2 kpl
+| | | | C, 1 kpl
+| | | | D, 1 kpl
+| | A#, 2 kpl
+| | | D#, 1 kpl
+| | | | D#, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | D, 7 kpl
+| | | C, 7 kpl
+| | | | C, 1 kpl
+| | | | D, 1 kpl
+| | | | A#, 4 kpl
+| | | | F, 1 kpl
+| | G, 2 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | A, 2 kpl
+| | | C, 2 kpl
+| | | | A#, 1 kpl
+| | | | F#, 1 kpl
+| | E, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | F#, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| E, 42 kpl
+| | F, 6 kpl
+| | | G, 3 kpl
+| | | | A, 2 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | A, 3 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | E, 3 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | | D, 1 kpl
+| | | | D, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | C, 5 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | C#, 3 kpl
+| | | B, 2 kpl
+| | | | C#, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | F#, 15 kpl
+| | | E, 9 kpl
+| | | | G, 4 kpl
+| | | | D, 2 kpl
+| | | | A#, 1 kpl
+| | | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 4 kpl
+| | | | E, 1 kpl
+| | | | A, 2 kpl
+| | | | B, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | D, 5 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | A, 2 kpl
+| | | | G#, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | B, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | G#, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| C, 42 kpl
+| | B, 11 kpl
+| | | A, 8 kpl
+| | | | G#, 2 kpl
+| | | | B, 1 kpl
+| | | | C, 3 kpl
+| | | | F, 1 kpl
+| | | | G, 1 kpl
+| | | C, 2 kpl
+| | | | D, 2 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | A#, 10 kpl
+| | | A, 6 kpl
+| | | | G, 5 kpl
+| | | | A#, 1 kpl
+| | | D, 2 kpl
+| | | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | D#, 2 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | A, 3 kpl
+| | | C, 2 kpl
+| | | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | G, 3 kpl
+| | | B, 2 kpl
+| | | | F, 1 kpl
+| | | | C#, 1 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | E, 1 kpl
+| | | D#, 1 kpl
+| | | | B, 1 kpl
+| | D, 8 kpl
+| | | G, 2 kpl
+| | | | F, 1 kpl
+| | | | A#, 1 kpl
+| | | D#, 3 kpl
+| | | | F, 2 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | C, 3 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | F, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| F#, 18 kpl
+| | A, 4 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | C, 3 kpl
+| | | | B, 1 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | E, 2 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | D, 6 kpl
+| | | C#, 2 kpl
+| | | | B, 2 kpl
+| | | B, 4 kpl
+| | | | D, 4 kpl
+| | G, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | B, 2 kpl
+| | | F#, 2 kpl
+| | | | D, 1 kpl
+| | | | B, 1 kpl
+| | G#, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| C#, 26 kpl
+| | D, 7 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 2 kpl
+| | | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | A, 3 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | D, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | F, 3 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | B, 6 kpl
+| | | A, 4 kpl
+| | | | F#, 2 kpl
+| | | | G, 2 kpl
+| | | A#, 2 kpl
+| | | | G, 1 kpl
+| | | | B, 1 kpl
+| | E, 2 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | A#, 2 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | C#, 2 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| D, 12 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | G, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | A#, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | D#, 3 kpl
+| | | A#, 2 kpl
+| | | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | C, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | D, 3 kpl
+| | | D, 3 kpl
+| | | | D, 2 kpl
+| | | | B, 1 kpl
+| G, 15 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | G, 2 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | E, 2 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | A, 3 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | F, 3 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | D, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| A#, 18 kpl
+| | F, 4 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | | F, 2 kpl
+| | | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | C, 2 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A, 2 kpl
+| | | A#, 2 kpl
+| | | | G#, 1 kpl
+| | | | G, 1 kpl
+| | D, 4 kpl
+| | | D#, 1 kpl
+| | | | D#, 1 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | G, 2 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | A#, 3 kpl
+| | | G, 2 kpl
+| | | | D, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | E, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| B, 29 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | C, 5 kpl
+| | | C, 2 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | | A, 2 kpl
+| | | | A, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | D, 7 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | | B, 2 kpl
+| | | | D, 2 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | G, 2 kpl
+| | | | C#, 1 kpl
+| | | | D, 1 kpl
+| | F, 2 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | B, 2 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | G, 6 kpl
+| | | G, 3 kpl
+| | | | F#, 1 kpl
+| | | | A, 2 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | F, 2 kpl
+| | | | E, 1 kpl
+| | | | D, 1 kpl
+| | E, 3 kpl
+| | | C#, 2 kpl
+| | | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | F#, 2 kpl
+| | | B, 2 kpl
+| | | | F#, 2 kpl
+| F, 13 kpl
+| | D, 3 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | C, 2 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | D#, 1 kpl
+| | | | A#, 1 kpl
+| | G#, 1 kpl
+| | | C#, 1 kpl
+| | | | G#, 1 kpl
+| | E, 4 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | G, 2 kpl
+| | | | A#, 1 kpl
+| | | | F, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | B, 2 kpl
+| | | G, 2 kpl
+| | | | D#, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| A, 13 kpl
+| | G, 2 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | D, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | F, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | C, 2 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | G#, 1 kpl
+| | B, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | F#, 3 kpl
+| | | D, 3 kpl
+| | | | A, 2 kpl
+| | | | C, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | A#, 1 kpl
+| | | G, 1 kpl
+| | | | C#, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| G#, 4 kpl
+| | D, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | B, 2 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+A#, 117 kpl
+| A, 24 kpl
+| | A#, 4 kpl
+| | | G, 4 kpl
+| | | | A, 2 kpl
+| | | | D, 1 kpl
+| | | | E, 1 kpl
+| | G#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | G, 9 kpl
+| | | F, 4 kpl
+| | | | E, 3 kpl
+| | | | F, 1 kpl
+| | | F#, 2 kpl
+| | | | D#, 1 kpl
+| | | | E, 1 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | D, 3 kpl
+| | | A#, 1 kpl
+| | | | D, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | E, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | C, 6 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | A, 2 kpl
+| | | | A, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 2 kpl
+| | | | D, 1 kpl
+| | | | G, 1 kpl
+| G, 18 kpl
+| | A, 5 kpl
+| | | A#, 2 kpl
+| | | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | | F, 2 kpl
+| | | | E, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | C, 2 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | F, 1 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 3 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | G, 1 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | D#, 3 kpl
+| | | A#, 3 kpl
+| | | | G, 2 kpl
+| | | | D#, 1 kpl
+| | C#, 1 kpl
+| | | C#, 1 kpl
+| | | | A#, 1 kpl
+| | E, 2 kpl
+| | | F, 2 kpl
+| | | | F, 1 kpl
+| | | | G, 1 kpl
+| C, 14 kpl
+| | G#, 2 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | D, 7 kpl
+| | | E, 2 kpl
+| | | | F, 2 kpl
+| | | C, 3 kpl
+| | | | D, 1 kpl
+| | | | A#, 2 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | A, 3 kpl
+| | | C, 2 kpl
+| | | | A, 2 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | A#, 2 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| G#, 19 kpl
+| | A#, 3 kpl
+| | | C, 2 kpl
+| | | | C#, 2 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | C, 2 kpl
+| | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | G, 10 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 2 kpl
+| | | | A#, 2 kpl
+| | | F, 7 kpl
+| | | | D#, 3 kpl
+| | | | E, 4 kpl
+| | G#, 2 kpl
+| | | G, 2 kpl
+| | | | C, 2 kpl
+| | F, 2 kpl
+| | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| C#, 7 kpl
+| | F#, 1 kpl
+| | | A#, 1 kpl
+| | | | B, 1 kpl
+| | A#, 2 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | C#, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | B, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| B, 4 kpl
+| | A#, 2 kpl
+| | | B, 2 kpl
+| | | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | C#, 1 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | D, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| A#, 7 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F#, 1 kpl
+| | | | F, 1 kpl
+| | G#, 2 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | E, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | C, 2 kpl
+| | | C, 2 kpl
+| | | | C#, 2 kpl
+| D, 9 kpl
+| | D#, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | G, 2 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | C, 2 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | F, 2 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | A#, 1 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| D#, 5 kpl
+| | A, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | F, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A#, 3 kpl
+| | | G#, 1 kpl
+| | | | D, 1 kpl
+| | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | | D#, 1 kpl
+| | | | G, 1 kpl
+| F, 4 kpl
+| | A, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | F, 1 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | G, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | D, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| E, 4 kpl
+| | D, 2 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | F, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| F#, 2 kpl
+| | F#, 1 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | G, 1 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+F, 159 kpl
+| G, 26 kpl
+| | D#, 4 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 2 kpl
+| | | | D, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | E, 3 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | G#, 7 kpl
+| | | A#, 5 kpl
+| | | | G#, 2 kpl
+| | | | C, 2 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | A, 8 kpl
+| | | A#, 3 kpl
+| | | | C#, 2 kpl
+| | | | C, 1 kpl
+| | | D, 2 kpl
+| | | | F, 1 kpl
+| | | | A, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | A#, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| D#, 20 kpl
+| | D, 8 kpl
+| | | D#, 3 kpl
+| | | | F, 3 kpl
+| | | C, 4 kpl
+| | | | D, 1 kpl
+| | | | B, 2 kpl
+| | | | F, 1 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | F, 5 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 2 kpl
+| | | | F, 2 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | G, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | G#, 2 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | C#, 2 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | C, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| G#, 14 kpl
+| | G, 2 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | A#, 3 kpl
+| | | G, 2 kpl
+| | | | F, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | C, 1 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | F, 3 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | | B, 1 kpl
+| | | | G#, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | E, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | G#, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | F#, 1 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| E, 23 kpl
+| | F, 8 kpl
+| | | D, 3 kpl
+| | | | E, 2 kpl
+| | | | B, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | D, 8 kpl
+| | | C, 6 kpl
+| | | | D, 2 kpl
+| | | | B, 2 kpl
+| | | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | A, 3 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | G, 2 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | C#, 2 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| D, 21 kpl
+| | E, 6 kpl
+| | | F, 3 kpl
+| | | | F, 1 kpl
+| | | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | A#, 6 kpl
+| | | D#, 2 kpl
+| | | | G, 2 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | F, 3 kpl
+| | | | D, 3 kpl
+| | B, 5 kpl
+| | | D, 1 kpl
+| | | | G#, 1 kpl
+| | | G, 2 kpl
+| | | | F, 1 kpl
+| | | | D, 1 kpl
+| | | B, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | F, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | A, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | C, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| F, 8 kpl
+| | C, 1 kpl
+| | | C, 1 kpl
+| | | | C, 1 kpl
+| | A#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | D#, 2 kpl
+| | | D, 2 kpl
+| | | | C, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | E, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| A#, 13 kpl
+| | C#, 2 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | A, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 2 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | C, 2 kpl
+| | | G, 1 kpl
+| | | | D#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | F, 4 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 2 kpl
+| | | | F, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | D, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| C#, 6 kpl
+| | E, 2 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | F, 1 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 2 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| C, 9 kpl
+| | G, 2 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | C#, 2 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| | A#, 1 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | D, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | A, 2 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| A, 14 kpl
+| | F, 3 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | | A#, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | E, 1 kpl
+| | | G#, 1 kpl
+| | | | D, 1 kpl
+| | D, 2 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| | F#, 2 kpl
+| | | B, 1 kpl
+| | | | G#, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | C, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | G, 2 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| F#, 3 kpl
+| | A#, 1 kpl
+| | | F#, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| B, 2 kpl
+| | D, 1 kpl
+| | | E, 1 kpl
+| | | | B, 1 kpl
+| | C, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+C, 198 kpl
+| A#, 26 kpl
+| | A, 13 kpl
+| | | G, 8 kpl
+| | | | A, 2 kpl
+| | | | F, 2 kpl
+| | | | A#, 1 kpl
+| | | | F#, 2 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | | A#, 2 kpl
+| | | | A, 1 kpl
+| | | | G, 1 kpl
+| | | F, 2 kpl
+| | | | G, 1 kpl
+| | | | C, 1 kpl
+| | G#, 8 kpl
+| | | G, 7 kpl
+| | | | G#, 4 kpl
+| | | | D, 1 kpl
+| | | | F, 2 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | D, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | C, 4 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | | F, 2 kpl
+| | | | A, 2 kpl
+| D, 41 kpl
+| | F, 3 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | D#, 8 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | | D, 3 kpl
+| | | | C, 3 kpl
+| | | F, 4 kpl
+| | | | D#, 1 kpl
+| | | | B, 1 kpl
+| | | | G, 1 kpl
+| | | | D, 1 kpl
+| | E, 6 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | F, 4 kpl
+| | | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | | | D, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | A#, 5 kpl
+| | | D, 2 kpl
+| | | | D#, 1 kpl
+| | | | A#, 1 kpl
+| | | G, 1 kpl
+| | | | D#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | A, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | C, 8 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 5 kpl
+| | | | A, 3 kpl
+| | | | D#, 1 kpl
+| | | | G#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | G, 4 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | B, 5 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | E, 2 kpl
+| | | | D, 2 kpl
+| | | C, 2 kpl
+| | | | A, 2 kpl
+| | D, 1 kpl
+| | | C, 1 kpl
+| | | | C, 1 kpl
+| G#, 11 kpl
+| | A#, 2 kpl
+| | | G, 2 kpl
+| | | | G#, 2 kpl
+| | C#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | A, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | G, 2 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | | B, 1 kpl
+| | | | G#, 1 kpl
+| | F, 2 kpl
+| | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | C, 2 kpl
+| | | G#, 1 kpl
+| | | | G#, 1 kpl
+| | | B, 1 kpl
+| | | | G#, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| C#, 5 kpl
+| | D#, 3 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | F#, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| B, 28 kpl
+| | A, 12 kpl
+| | | G, 6 kpl
+| | | | F#, 2 kpl
+| | | | G, 1 kpl
+| | | | A, 1 kpl
+| | | | B, 2 kpl
+| | | G#, 2 kpl
+| | | | B, 1 kpl
+| | | | A, 1 kpl
+| | | B, 3 kpl
+| | | | E, 1 kpl
+| | | | C, 1 kpl
+| | | | G, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | C, 7 kpl
+| | | D, 3 kpl
+| | | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | D, 5 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| | | C, 2 kpl
+| | | | B, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | G, 1 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | E, 2 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| F, 9 kpl
+| | A#, 2 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | D, 2 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | F, 1 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | E, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| G, 12 kpl
+| | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | E, 1 kpl
+| | | C#, 1 kpl
+| | | | F, 1 kpl
+| | C, 4 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | A#, 3 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | B, 1 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| D#, 13 kpl
+| | G, 3 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | D#, 2 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | F#, 2 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | C#, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | C, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | D, 3 kpl
+| | | C, 2 kpl
+| | | | D, 2 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | B, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| C, 8 kpl
+| | G#, 1 kpl
+| | | D, 1 kpl
+| | | | D, 1 kpl
+| | A#, 3 kpl
+| | | F, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | F, 2 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | C, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| E, 16 kpl
+| | G, 4 kpl
+| | | F, 2 kpl
+| | | | A, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | D, 3 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | A, 4 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | G#, 1 kpl
+| | | F#, 1 kpl
+| | | | C, 1 kpl
+| | D#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | B, 2 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | F, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| A, 23 kpl
+| | C, 4 kpl
+| | | F#, 2 kpl
+| | | | D, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | E, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | F, 4 kpl
+| | | C, 2 kpl
+| | | | A#, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A#, 3 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | A, 2 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | G#, 1 kpl
+| | D, 4 kpl
+| | | A#, 2 kpl
+| | | | F#, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | B, 2 kpl
+| | | F, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | G#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| F#, 6 kpl
+| | C, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | G, 2 kpl
+| | | A#, 2 kpl
+| | | | A, 1 kpl
+| | | | B, 1 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | A, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+A, 237 kpl
+| G, 43 kpl
+| | A, 11 kpl
+| | | A#, 3 kpl
+| | | | G, 1 kpl
+| | | | A, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 2 kpl
+| | | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | B, 3 kpl
+| | | | C, 2 kpl
+| | | | A, 1 kpl
+| | F#, 11 kpl
+| | | G, 4 kpl
+| | | | E, 3 kpl
+| | | | B, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | E, 6 kpl
+| | | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | | D, 3 kpl
+| | | | G, 1 kpl
+| | C, 3 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | D, 3 kpl
+| | | F#, 2 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | F, 9 kpl
+| | | D#, 3 kpl
+| | | | D, 3 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | E, 2 kpl
+| | | | F, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | G, 1 kpl
+| | | G#, 1 kpl
+| | | | C#, 1 kpl
+| | B, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | D#, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | A#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | C#, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| F, 17 kpl
+| | A#, 4 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| | E, 2 kpl
+| | | F, 2 kpl
+| | | | G, 2 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | A, 1 kpl
+| | G, 5 kpl
+| | | E, 3 kpl
+| | | | F, 2 kpl
+| | | | A, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| | F#, 2 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | C, 1 kpl
+| | | A, 1 kpl
+| | | | D#, 1 kpl
+| | D, 1 kpl
+| | | D, 1 kpl
+| | | | D#, 1 kpl
+| A#, 19 kpl
+| | C, 6 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | | A, 2 kpl
+| | | | D, 1 kpl
+| | | | E, 1 kpl
+| | A, 4 kpl
+| | | G, 4 kpl
+| | | | F, 3 kpl
+| | | | F#, 1 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | D, 3 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | G, 3 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 2 kpl
+| | | | G, 1 kpl
+| | | | A, 1 kpl
+| | E, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| F#, 24 kpl
+| | G, 5 kpl
+| | | E, 2 kpl
+| | | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | E, 4 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | G, 1 kpl
+| | | | D#, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | B, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | G#, 3 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | F, 1 kpl
+| | | | F#, 1 kpl
+| | A, 5 kpl
+| | | B, 2 kpl
+| | | | C, 1 kpl
+| | | | D#, 1 kpl
+| | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | D, 3 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | D#, 2 kpl
+| | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | C, 1 kpl
+| C#, 12 kpl
+| | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | B, 2 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | D, 3 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | | E, 2 kpl
+| | | | C#, 1 kpl
+| | | | G, 1 kpl
+| | F#, 2 kpl
+| | | D#, 2 kpl
+| | | | B, 1 kpl
+| | | | C, 1 kpl
+| | E, 3 kpl
+| | | C#, 2 kpl
+| | | | A, 1 kpl
+| | | | E, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | A, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| B, 27 kpl
+| | A, 2 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 4 kpl
+| | | F#, 2 kpl
+| | | | G#, 2 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | C#, 4 kpl
+| | | D, 4 kpl
+| | | | E, 1 kpl
+| | | | C#, 1 kpl
+| | | | F#, 2 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| | C, 9 kpl
+| | | B, 3 kpl
+| | | | E, 2 kpl
+| | | | A, 1 kpl
+| | | D, 4 kpl
+| | | | G, 1 kpl
+| | | | D#, 1 kpl
+| | | | B, 1 kpl
+| | | | C, 1 kpl
+| | | A, 2 kpl
+| | | | B, 2 kpl
+| | E, 2 kpl
+| | | C#, 2 kpl
+| | | | E, 2 kpl
+| | G, 4 kpl
+| | | F#, 2 kpl
+| | | | G, 1 kpl
+| | | | A, 1 kpl
+| | | C, 2 kpl
+| | | | B, 1 kpl
+| | | | D, 1 kpl
+| | D, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| G#, 20 kpl
+| | F#, 6 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | E, 3 kpl
+| | | | D#, 1 kpl
+| | | | B, 1 kpl
+| | | | D, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| | B, 2 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | G#, 1 kpl
+| | A, 7 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 4 kpl
+| | | | C, 1 kpl
+| | | | A, 1 kpl
+| | | | C#, 2 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | C#, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | G#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | F#, 1 kpl
+| A, 14 kpl
+| | A, 3 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | D#, 1 kpl
+| | | | B, 1 kpl
+| | A#, 2 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | E, 2 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| | G#, 1 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | F, 2 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | B, 2 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| E, 15 kpl
+| | D#, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | C, 2 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | | F, 1 kpl
+| | | | A, 1 kpl
+| | G, 3 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | D, 2 kpl
+| | | | F#, 1 kpl
+| | | | F, 1 kpl
+| | D, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | B, 2 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | F#, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | C#, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | A, 2 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | E, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| D, 23 kpl
+| | B, 3 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | G, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| | C, 5 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | F, 3 kpl
+| | | E, 2 kpl
+| | | | C, 1 kpl
+| | | | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | A, 2 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | C#, 3 kpl
+| | | B, 2 kpl
+| | | | G, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | G, 3 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | E, 2 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | F#, 1 kpl
+| C, 18 kpl
+| | A#, 5 kpl
+| | | C, 2 kpl
+| | | | D#, 1 kpl
+| | | | F, 1 kpl
+| | | D, 2 kpl
+| | | | E, 1 kpl
+| | | | C, 1 kpl
+| | | G, 1 kpl
+| | | | D#, 1 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | B, 3 kpl
+| | | E, 2 kpl
+| | | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | D, 2 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | G, 2 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | C, 1 kpl
+| | | | F#, 1 kpl
+| | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | F#, 2 kpl
+| | | A, 2 kpl
+| | | | A, 1 kpl
+| | | | D, 1 kpl
+| D#, 3 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | A#, 1 kpl
+| | D#, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | D, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+C#, 116 kpl
+| D#, 8 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | C, 1 kpl
+| | C#, 1 kpl
+| | | C, 1 kpl
+| | | | C#, 1 kpl
+| | B, 1 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | G#, 2 kpl
+| | | G, 2 kpl
+| | | | G#, 2 kpl
+| | E, 2 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | F#, 1 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| D, 23 kpl
+| | B, 6 kpl
+| | | E, 1 kpl
+| | | | B, 1 kpl
+| | | C#, 2 kpl
+| | | | D, 2 kpl
+| | | A, 2 kpl
+| | | | G#, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | F, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | G, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | C#, 5 kpl
+| | | E, 2 kpl
+| | | | D, 2 kpl
+| | | B, 2 kpl
+| | | | C#, 2 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | E, 7 kpl
+| | | F#, 2 kpl
+| | | | G, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | F#, 2 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | G#, 1 kpl
+| C#, 7 kpl
+| | B, 2 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | C, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | C#, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | G#, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | A#, 1 kpl
+| | | C#, 1 kpl
+| | | | A#, 1 kpl
+| B, 20 kpl
+| | C#, 5 kpl
+| | | A#, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | | D#, 1 kpl
+| | | | E, 1 kpl
+| | A, 7 kpl
+| | | G#, 2 kpl
+| | | | A, 2 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | | G, 2 kpl
+| | | | A, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | G, 2 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | D, 2 kpl
+| | | C#, 2 kpl
+| | | | B, 2 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | F#, 1 kpl
+| | A#, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| E, 15 kpl
+| | C#, 3 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | | A, 2 kpl
+| | | | E, 1 kpl
+| | | | C#, 1 kpl
+| | D, 3 kpl
+| | | C#, 2 kpl
+| | | | B, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | F, 1 kpl
+| | G, 1 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | F#, 2 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | | A#, 1 kpl
+| | | | B, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | A, 2 kpl
+| | | F#, 2 kpl
+| | | | D, 1 kpl
+| | | | D#, 1 kpl
+| | E, 2 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| F#, 7 kpl
+| | G#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | B, 3 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| | A, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | F#, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | G, 1 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| F, 6 kpl
+| | E, 3 kpl
+| | | F#, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | D, 1 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | C#, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| A#, 8 kpl
+| | B, 2 kpl
+| | | B, 1 kpl
+| | | | A#, 1 kpl
+| | | C#, 1 kpl
+| | | | C#, 1 kpl
+| | C, 2 kpl
+| | | G#, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | C#, 1 kpl
+| | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | G#, 1 kpl
+| | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | F#, 1 kpl
+| | | B, 1 kpl
+| | | | A#, 1 kpl
+| A, 8 kpl
+| | D#, 2 kpl
+| | | E, 2 kpl
+| | | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | E, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | G, 1 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | B, 1 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | F, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+| | C#, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| C, 8 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | G#, 2 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | A#, 2 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | F#, 1 kpl
+| | | C, 1 kpl
+| | | | F, 1 kpl
+| | E, 1 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | F, 1 kpl
+| | | C, 1 kpl
+| | | | D#, 1 kpl
+| G#, 3 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | A#, 1 kpl
+| | A, 2 kpl
+| | | B, 2 kpl
+| | | | F, 1 kpl
+| | | | G#, 1 kpl
+| G, 3 kpl
+| | A#, 1 kpl
+| | | A, 1 kpl
+| | | | A#, 1 kpl
+| | G, 1 kpl
+| | | G#, 1 kpl
+| | | | G#, 1 kpl
+| | E, 1 kpl
+| | | G, 1 kpl
+| | | | C#, 1 kpl
+B, 172 kpl
+| A, 35 kpl
+| | B, 12 kpl
+| | | C, 2 kpl
+| | | | A, 1 kpl
+| | | | D, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | | D, 2 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 5 kpl
+| | | | A, 2 kpl
+| | | | B, 2 kpl
+| | | | D, 1 kpl
+| | G, 8 kpl
+| | | F#, 5 kpl
+| | | | G, 3 kpl
+| | | | E, 1 kpl
+| | | | B, 1 kpl
+| | | A, 2 kpl
+| | | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | G#, 10 kpl
+| | | F#, 6 kpl
+| | | | G#, 2 kpl
+| | | | E, 3 kpl
+| | | | F, 1 kpl
+| | | E, 2 kpl
+| | | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | D#, 1 kpl
+| | | | F, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | F#, 3 kpl
+| | | D#, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | A, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | C, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| C, 17 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | D, 6 kpl
+| | | E, 2 kpl
+| | | | F#, 1 kpl
+| | | | C, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | D#, 2 kpl
+| | | | D, 1 kpl
+| | | | F, 1 kpl
+| | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | B, 4 kpl
+| | | G, 2 kpl
+| | | | F, 2 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | F#, 1 kpl
+| | | D#, 1 kpl
+| | | | B, 1 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| E, 20 kpl
+| | E, 3 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | B, 3 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+| | C, 3 kpl
+| | | A, 3 kpl
+| | | | F, 1 kpl
+| | | | F#, 1 kpl
+| | | | G, 1 kpl
+| | C#, 4 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | D, 3 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | | C, 2 kpl
+| | | | E, 1 kpl
+| | | | B, 1 kpl
+| | F#, 2 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | A#, 1 kpl
+| | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | A, 1 kpl
+| | | C#, 1 kpl
+| A#, 6 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | B, 2 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | G, 2 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | G#, 1 kpl
+| | | A#, 1 kpl
+| | | | G, 1 kpl
+| B, 11 kpl
+| | D#, 1 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | C#, 2 kpl
+| | | D#, 1 kpl
+| | | | E, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | C, 1 kpl
+| | C, 1 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | E, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | F#, 1 kpl
+| | | B, 1 kpl
+| | | | F#, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | A#, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| D#, 8 kpl
+| | E, 3 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | | A#, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 1 kpl
+| | | | A#, 1 kpl
+| | F#, 3 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | | A, 2 kpl
+| | | | G, 1 kpl
+| | | | G#, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | C, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| C#, 19 kpl
+| | B, 2 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | D#, 5 kpl
+| | | E, 4 kpl
+| | | | C#, 1 kpl
+| | | | F#, 2 kpl
+| | | | D#, 1 kpl
+| | | C#, 1 kpl
+| | | | D#, 1 kpl
+| | A, 3 kpl
+| | | C#, 1 kpl
+| | | | D#, 1 kpl
+| | | G, 2 kpl
+| | | | D, 1 kpl
+| | | | F#, 1 kpl
+| | D, 6 kpl
+| | | C#, 3 kpl
+| | | | B, 2 kpl
+| | | | E, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | F#, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | E, 1 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| | A#, 1 kpl
+| | | B, 1 kpl
+| | | | F#, 1 kpl
+| D, 21 kpl
+| | G, 3 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | C, 6 kpl
+| | | E, 2 kpl
+| | | | G#, 1 kpl
+| | | | D, 1 kpl
+| | | A, 2 kpl
+| | | | F, 1 kpl
+| | | | B, 1 kpl
+| | | B, 2 kpl
+| | | | C, 1 kpl
+| | | | A, 1 kpl
+| | F, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | B, 2 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | | F#, 1 kpl
+| | | | F#, 1 kpl
+| | F#, 3 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | D, 2 kpl
+| | | | B, 2 kpl
+| | C#, 3 kpl
+| | | A, 2 kpl
+| | | | A, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | E, 2 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| F, 6 kpl
+| | E, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | D, 1 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | A#, 1 kpl
+| | | D, 1 kpl
+| | | | D, 1 kpl
+| | G, 1 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| G, 15 kpl
+| | A, 7 kpl
+| | | F#, 2 kpl
+| | | | E, 1 kpl
+| | | | G, 1 kpl
+| | | B, 2 kpl
+| | | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | G, 2 kpl
+| | | | F#, 2 kpl
+| | C, 2 kpl
+| | | G, 1 kpl
+| | | | C, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | E, 2 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | F, 1 kpl
+| | | C, 1 kpl
+| | | | G, 1 kpl
+| | B, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| G#, 10 kpl
+| | B, 3 kpl
+| | | C, 1 kpl
+| | | | G#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | A, 2 kpl
+| | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | E, 2 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | D, 1 kpl
+| | F, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | G, 1 kpl
+| | | F, 1 kpl
+| | | | D#, 1 kpl
+| F#, 4 kpl
+| | G#, 1 kpl
+| | | A#, 1 kpl
+| | | | B, 1 kpl
+| | F#, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | E, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | G, 1 kpl
+| | | F#, 1 kpl
+| | | | B, 1 kpl
+E, 189 kpl
+| F, 22 kpl
+| | G, 6 kpl
+| | | G#, 1 kpl
+| | | | A#, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | | A, 2 kpl
+| | | | G, 1 kpl
+| | | | B, 1 kpl
+| | | F, 2 kpl
+| | | | G, 1 kpl
+| | | | E, 1 kpl
+| | D, 6 kpl
+| | | E, 3 kpl
+| | | | F, 1 kpl
+| | | | C#, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 2 kpl
+| | | | D, 1 kpl
+| | | | F, 1 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| | G#, 3 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | C, 2 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | | E, 1 kpl
+| | | | C, 1 kpl
+| | F, 1 kpl
+| | | D#, 1 kpl
+| | | | D#, 1 kpl
+| | E, 3 kpl
+| | | D, 2 kpl
+| | | | C, 2 kpl
+| | | F, 1 kpl
+| | | | C, 1 kpl
+| | A, 1 kpl
+| | | A#, 1 kpl
+| | | | F, 1 kpl
+| B, 10 kpl
+| | B, 2 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | A, 1 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | D, 3 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | C, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| | E, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | A, 1 kpl
+| F#, 29 kpl
+| | A, 5 kpl
+| | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | G#, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | D, 7 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | F, 1 kpl
+| | | | C#, 1 kpl
+| | | C#, 3 kpl
+| | | | G, 1 kpl
+| | | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | A, 2 kpl
+| | | | B, 1 kpl
+| | | | F#, 1 kpl
+| | G#, 4 kpl
+| | | A, 3 kpl
+| | | | B, 2 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | G, 6 kpl
+| | | G, 1 kpl
+| | | | G, 1 kpl
+| | | F#, 2 kpl
+| | | | A, 2 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | D#, 1 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | B, 1 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | E, 3 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | F#, 2 kpl
+| | | E, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| C#, 16 kpl
+| | D, 2 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | A#, 3 kpl
+| | | G#, 2 kpl
+| | | | F#, 2 kpl
+| | | G, 1 kpl
+| | | | G#, 1 kpl
+| | C, 2 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | B, 2 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | F#, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | G, 2 kpl
+| | | E, 2 kpl
+| | | | D, 1 kpl
+| | | | G, 1 kpl
+| | E, 2 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | A, 2 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| D, 41 kpl
+| | C, 14 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | B, 9 kpl
+| | | | A, 6 kpl
+| | | | D, 3 kpl
+| | | D, 2 kpl
+| | | | E, 1 kpl
+| | | | C, 1 kpl
+| | | A#, 2 kpl
+| | | | A, 2 kpl
+| | E, 6 kpl
+| | | C, 2 kpl
+| | | | D, 1 kpl
+| | | | A#, 1 kpl
+| | | F, 1 kpl
+| | | | G, 1 kpl
+| | | A#, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | G, 1 kpl
+| | | | A, 1 kpl
+| | A#, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | D, 1 kpl
+| | A, 2 kpl
+| | | G, 1 kpl
+| | | | F, 1 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | C#, 10 kpl
+| | | D, 2 kpl
+| | | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | | G, 1 kpl
+| | | | C#, 1 kpl
+| | | B, 5 kpl
+| | | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | | A, 2 kpl
+| | | | A#, 1 kpl
+| | | A, 1 kpl
+| | | | C#, 1 kpl
+| | G#, 2 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | D#, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | G, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | F, 1 kpl
+| | | C, 1 kpl
+| | | | A#, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | B, 1 kpl
+| | | D, 1 kpl
+| | | | D, 1 kpl
+| E, 10 kpl
+| | G#, 1 kpl
+| | | E, 1 kpl
+| | | | C#, 1 kpl
+| | A, 2 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | F, 1 kpl
+| | | D, 1 kpl
+| | | | G, 1 kpl
+| | C#, 2 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | A, 1 kpl
+| | | | A, 1 kpl
+| | F#, 2 kpl
+| | | D#, 1 kpl
+| | | | B, 1 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | E, 1 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| D#, 6 kpl
+| | D, 1 kpl
+| | | C#, 1 kpl
+| | | | B, 1 kpl
+| | E, 3 kpl
+| | | C#, 2 kpl
+| | | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | | A#, 1 kpl
+| | | | G#, 1 kpl
+| | C#, 2 kpl
+| | | B, 2 kpl
+| | | | A#, 1 kpl
+| | | | E, 1 kpl
+| A#, 5 kpl
+| | G#, 2 kpl
+| | | A#, 1 kpl
+| | | | D#, 1 kpl
+| | | G#, 1 kpl
+| | | | G, 1 kpl
+| | A, 1 kpl
+| | | G, 1 kpl
+| | | | D, 1 kpl
+| | C#, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | C, 1 kpl
+| | | C, 1 kpl
+| | | | A, 1 kpl
+| G#, 9 kpl
+| | F#, 4 kpl
+| | | G#, 1 kpl
+| | | | B, 1 kpl
+| | | A, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 2 kpl
+| | | | D#, 1 kpl
+| | | | D, 1 kpl
+| | C, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | A, 2 kpl
+| | | B, 2 kpl
+| | | | D#, 1 kpl
+| | | | A, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | B, 1 kpl
+| | E, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| A, 20 kpl
+| | D#, 2 kpl
+| | | E, 2 kpl
+| | | | D#, 1 kpl
+| | | | G, 1 kpl
+| | C, 2 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | F, 1 kpl
+| | E, 7 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | E, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | C#, 1 kpl
+| | | | A, 1 kpl
+| | | E, 2 kpl
+| | | | B, 1 kpl
+| | | | F#, 1 kpl
+| | F, 3 kpl
+| | | A, 2 kpl
+| | | | F, 2 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | B, 2 kpl
+| | | C#, 2 kpl
+| | | | D#, 1 kpl
+| | | | E, 1 kpl
+| | G, 4 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 2 kpl
+| | | | E, 2 kpl
+| C, 12 kpl
+| | A, 1 kpl
+| | | C, 1 kpl
+| | | | F#, 1 kpl
+| | D, 3 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | | B, 2 kpl
+| | | | A, 2 kpl
+| | F#, 1 kpl
+| | | D#, 1 kpl
+| | | | D, 1 kpl
+| | A#, 2 kpl
+| | | C, 2 kpl
+| | | | F, 1 kpl
+| | | | A, 1 kpl
+| | C, 1 kpl
+| | | A#, 1 kpl
+| | | | E, 1 kpl
+| | G, 3 kpl
+| | | E, 1 kpl
+| | | | A#, 1 kpl
+| | | G#, 1 kpl
+| | | | F, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | C, 1 kpl
+| G, 8 kpl
+| | F, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | E, 2 kpl
+| | | D#, 1 kpl
+| | | | G, 1 kpl
+| | | D, 1 kpl
+| | | | C#, 1 kpl
+| | G#, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | A, 1 kpl
+| | | F#, 1 kpl
+| | | | G, 1 kpl
+| | A#, 1 kpl
+| | | F, 1 kpl
+| | | | A, 1 kpl
+| | F#, 2 kpl
+| | | G, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | A#, 1 kpl
+F#, 131 kpl
+| E, 38 kpl
+| | F#, 7 kpl
+| | | G, 2 kpl
+| | | | B, 1 kpl
+| | | | A, 1 kpl
+| | | D#, 1 kpl
+| | | | C#, 1 kpl
+| | | E, 2 kpl
+| | | | G#, 1 kpl
+| | | | D, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | A, 1 kpl
+| | D, 18 kpl
+| | | C, 3 kpl
+| | | | B, 3 kpl
+| | | C#, 6 kpl
+| | | | D, 3 kpl
+| | | | B, 3 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | B, 2 kpl
+| | | | C#, 2 kpl
+| | | G, 2 kpl
+| | | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | F#, 1 kpl
+| | | | C, 1 kpl
+| | | F, 1 kpl
+| | | | E, 1 kpl
+| | D#, 4 kpl
+| | | C#, 2 kpl
+| | | | B, 1 kpl
+| | | | D#, 1 kpl
+| | | E, 2 kpl
+| | | | F#, 1 kpl
+| | | | G#, 1 kpl
+| | A, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | C#, 2 kpl
+| | | G#, 1 kpl
+| | | | D#, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | G#, 2 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | E, 1 kpl
+| | | F, 1 kpl
+| | | | F, 1 kpl
+| | G, 2 kpl
+| | | F#, 2 kpl
+| | | | E, 1 kpl
+| | | | A, 1 kpl
+| | B, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| G, 20 kpl
+| | G, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | E, 4 kpl
+| | | C, 1 kpl
+| | | | C, 1 kpl
+| | | F#, 3 kpl
+| | | | A, 1 kpl
+| | | | E, 1 kpl
+| | | | D, 1 kpl
+| | A, 10 kpl
+| | | F#, 1 kpl
+| | | | D, 1 kpl
+| | | G, 4 kpl
+| | | | F#, 2 kpl
+| | | | A, 1 kpl
+| | | | B, 1 kpl
+| | | A#, 2 kpl
+| | | | D, 1 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | C, 1 kpl
+| | | | B, 1 kpl
+| | | B, 1 kpl
+| | | | G, 1 kpl
+| | C#, 1 kpl
+| | | C, 1 kpl
+| | | | C, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | B, 2 kpl
+| | | E, 2 kpl
+| | | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | D, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| G#, 12 kpl
+| | E, 2 kpl
+| | | D#, 1 kpl
+| | | | E, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | A, 5 kpl
+| | | B, 3 kpl
+| | | | C#, 2 kpl
+| | | | C, 1 kpl
+| | | D, 1 kpl
+| | | | C, 1 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | A#, 2 kpl
+| | | B, 2 kpl
+| | | | A#, 1 kpl
+| | | | B, 1 kpl
+| | F#, 1 kpl
+| | | F, 1 kpl
+| | | | F#, 1 kpl
+| | B, 2 kpl
+| | | D, 1 kpl
+| | | | G#, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| F#, 9 kpl
+| | D#, 1 kpl
+| | | B, 1 kpl
+| | | | D#, 1 kpl
+| | E, 2 kpl
+| | | E, 1 kpl
+| | | | F, 1 kpl
+| | | C#, 1 kpl
+| | | | E, 1 kpl
+| | B, 1 kpl
+| | | A, 1 kpl
+| | | | G, 1 kpl
+| | A, 2 kpl
+| | | G, 2 kpl
+| | | | A, 1 kpl
+| | | | F#, 1 kpl
+| | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | G, 2 kpl
+| | | F#, 2 kpl
+| | | | F#, 2 kpl
+| D#, 8 kpl
+| | B, 2 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | | D#, 1 kpl
+| | | | C, 1 kpl
+| | E, 3 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | D#, 1 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | A, 1 kpl
+| | | F#, 1 kpl
+| | | | A, 1 kpl
+| | F#, 1 kpl
+| | | E, 1 kpl
+| | | | E, 1 kpl
+| | D, 1 kpl
+| | | B, 1 kpl
+| | | | B, 1 kpl
+| B, 10 kpl
+| | C#, 3 kpl
+| | | D, 2 kpl
+| | | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | A#, 1 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | G, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | A, 1 kpl
+| | | G#, 1 kpl
+| | | | F#, 1 kpl
+| | F#, 3 kpl
+| | | F#, 2 kpl
+| | | | C#, 1 kpl
+| | | | E, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | B, 1 kpl
+| | | G, 1 kpl
+| | | | B, 1 kpl
+| D, 12 kpl
+| | B, 3 kpl
+| | | D, 3 kpl
+| | | | G, 1 kpl
+| | | | F#, 1 kpl
+| | | | B, 1 kpl
+| | C#, 2 kpl
+| | | B, 2 kpl
+| | | | E, 1 kpl
+| | | | F, 1 kpl
+| | A, 2 kpl
+| | | B, 1 kpl
+| | | | C#, 1 kpl
+| | | D, 1 kpl
+| | | | E, 1 kpl
+| | G, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | D#, 1 kpl
+| | | C, 1 kpl
+| | | | D, 1 kpl
+| | F#, 2 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | B, 1 kpl
+| | E, 1 kpl
+| | | C#, 1 kpl
+| | | | D, 1 kpl
+| A, 10 kpl
+| | E, 1 kpl
+| | | B, 1 kpl
+| | | | E, 1 kpl
+| | F#, 4 kpl
+| | | G#, 2 kpl
+| | | | F, 1 kpl
+| | | | A, 1 kpl
+| | | E, 1 kpl
+| | | | D, 1 kpl
+| | | D, 1 kpl
+| | | | F#, 1 kpl
+| | D#, 2 kpl
+| | | E, 1 kpl
+| | | | F#, 1 kpl
+| | | F#, 1 kpl
+| | | | D#, 1 kpl
+| | G, 2 kpl
+| | | F#, 1 kpl
+| | | | E, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| | A, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| C#, 7 kpl
+| | F, 1 kpl
+| | | C#, 1 kpl
+| | | | C, 1 kpl
+| | D, 5 kpl
+| | | B, 1 kpl
+| | | | A#, 1 kpl
+| | | F#, 1 kpl
+| | | | C#, 1 kpl
+| | | C#, 1 kpl
+| | | | F#, 1 kpl
+| | | E, 2 kpl
+| | | | D, 1 kpl
+| | | | F#, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | D, 1 kpl
+| C, 2 kpl
+| | D, 2 kpl
+| | | D#, 1 kpl
+| | | | A, 1 kpl
+| | | B, 1 kpl
+| | | | A, 1 kpl
+| F, 3 kpl
+| | D#, 1 kpl
+| | | F, 1 kpl
+| | | | G#, 1 kpl
+| | F#, 1 kpl
+| | | A, 1 kpl
+| | | | G#, 1 kpl
+| | B, 1 kpl
+| | | G#, 1 kpl
+| | | | A, 1 kpl

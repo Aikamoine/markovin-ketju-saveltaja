@@ -29,7 +29,7 @@ class Midikirjoittaja():
         self.mid.save(tiedostonimi)
         print(f"Tallennettu {tiedostonimi}")
 
-    def _luo_aikaleima(self):
+    def _luo_aikaleima(self):  # pylint: disable=no-self-use
         '''
         Palauttaa aikaleiman tiedston nimeä varten
         '''
@@ -86,18 +86,18 @@ class Midikirjoittaja():
         raita = self.raidat[nimi]
         self.poista_raidasta(raita, 0, aika)
 
-    def kirjoita_aanet_uuteen_raitaan(self, soitin, aanet, nimi):
+    def kirjoita_aanet_uuteen_raitaan(self, soitin, savelet, nimi):
         '''
         Luo uuden raidan ja kirjoittaa kaikki annetut äänet sinne.
 
         args:
-            aanet: taulukko Säveliä
+            savelet: taulukko Säveliä
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
         '''
         self.lisaa_raita(soitin, nimi)
-        for aani in aanet:
-            print(f"Lisätään midiin {str(aani)}")
-            self.lisaa_raitaan(nimi, aani, 64)
-            self.poista_raidasta(nimi, aani, 500)
+        for savel in savelet:
+            print(f"Lisätään midiin {str(savel)}, pituus: {savel.pituus}")
+            self.lisaa_raitaan(nimi, savel, 64)
+            self.poista_raidasta(nimi, savel, savel.pituus)
         print()
         self.kirjoita_tiedosto()

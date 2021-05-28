@@ -2,20 +2,24 @@
 Savel-luokka
 '''
 
+from musiikkiluokat.aani import Aani
+
 class Savel():
     '''
     Sävelen tiedot sisällään pitävä olio
     '''
-    def __init__(self, midi_aani):
+    def __init__(self, midi_aani, pituus=0):
         '''
         Konstruktori
             midi: midi-standardin mukainen äänen yksikkö, kokonaisluku 0 - 127
-            aani: sävelen nimi, tekstimuuttuja väliltä A - G, korotettuna #
+            aani: sävelen nimi, Aani-olio
             korkeus: sävelen oktaavi, kokonaisluku välillä 0 - 10
+            pituus: sävelen kesto, kokonaisluku sekunnin tuhannesosina
         '''
         self.midi = midi_aani
-        self.aani = midi_aani % 12
+        self.aani = Aani(midi_aani)
         self.korkeus = midi_aani // 12
+        self.pituus = pituus
 
     def __eq__(self, savel):
         '''
@@ -34,6 +38,5 @@ class Savel():
         Tulostaa Sävelen nimen ja korkeuden. Korkeus ilmaistaan normaalina sävelkorkeutena,
         eli välillä -1 - 9
         '''
-        savelet = ["C", "C#", "D", "D#", "E",
-                   "F", "F#", "G", "G#", "A", "A#", "B"]
-        return f"{savelet[self.aani]}{self.korkeus - 1}"
+
+        return f"{self.aani}{self.korkeus - 1}"
