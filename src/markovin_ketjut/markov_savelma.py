@@ -5,6 +5,7 @@ MarkovSavelma-luokka
 import random
 from musiikkiluokat.savel import Savel
 from markovin_ketjut.pituusarpoja import Pituusarpoja
+from markovin_ketjut.korkeusarpoja import Korkeusarpoja
 
 class MarkovSavelma():
     '''
@@ -24,6 +25,7 @@ class MarkovSavelma():
         self.trie = opetusaineisto
         self.savelma = []
         self.pituusarpoja = Pituusarpoja()
+        self.korkeusarpoja = Korkeusarpoja()
         self.tempo = tempo
 
     def alusta_savelma(self, lahtotilanne):
@@ -47,7 +49,6 @@ class MarkovSavelma():
         else:
             seuraava = self.trie.loyda_seuraava_solmu(self.savelma)
             uusi_aani = self._arvo_solmu(seuraava.lapset).aani
-        #Todo:arvo sävelen korkeus
         aanenkorkeus = self._arvo_korkeus()
         aanenpituus = self._arvo_pituus()
         uusi_savel = Savel(uusi_aani.aani_luku + aanenkorkeus, aanenpituus)
@@ -76,8 +77,8 @@ class MarkovSavelma():
                     break
 
             uusi_aani = self._arvo_solmu(seuraava.lapset).aani
-            #Todo: arvo sävelen korkeus, pituus
-            print(f"Aani: {uusi_aani}")
+
+            print(f"Ääni: {uusi_aani}")
             aanenkorkeus = self._arvo_korkeus()
             aanenpituus = self._arvo_pituus()
             uusi_savel = Savel(uusi_aani.aani_luku + aanenkorkeus, aanenpituus)
@@ -123,11 +124,14 @@ class MarkovSavelma():
     def _arvo_korkeus(self):  # pylint: disable=no-self-use
         '''
         Arpoo sävelen korkeuden. Toistaiseksi kahden oktaavin väliltä
-        //todo: implementoi korkeusarpoja-luokka
         '''
-        korkeus = random.randint(5, 6)
-        print(f"Arvottu korkeus = {korkeus}")
-        return korkeus * 12
+        korkeus = 0
+        if len(self.savelma) == 0:
+            korkeus = self.korkeusarpoja.arvo_korkeus()
+        else:
+            edellisen_korkeus = self.savelma[-1].korkeus
+            korkeus = self.korkeusarpoja.arvo_korkeus(edellisen_korkeus)
+        return korkeus
 
     def _arvo_pituus(self):
         '''
@@ -138,10 +142,7 @@ class MarkovSavelma():
             pituus = self.pituusarpoja.arvo_pituus()
         else:
             edellinen = self.savelma[-1]
-            print(edellinen)
-            print(edellinen.pituus)
             edellisen_pituus = self.tempo.get_savelpituus(self.savelma[-1].pituus)
-            print(edellisen_pituus)
             pituus = self.pituusarpoja.arvo_pituus(edellisen_pituus)
 
         return self.tempo.get_aanen_pituus(pituus)

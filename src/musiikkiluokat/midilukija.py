@@ -45,6 +45,21 @@ class Midilukija:
                         soitetut_aanet += 1
             print(f"Soitetut sävelet: {soitetut_aanet}")
 
+    def tallenna_midin_tapahtumat(self, polku):
+        '''
+        Tallentaa tiedoston kaikki tapahtumat tekstitiedostoon
+
+        args:
+            polku: uuden tiedoston nimi
+        '''
+        for tiedosto in os.listdir(polku):
+            if tiedosto.endswith(".mid"):
+                with open(f"{polku}{tiedosto[:-4]}.txt", 'w') as kirjoitettava:
+                    for i, track in enumerate(self.tiedosto.tracks):
+                        kirjoitettava.write(f'Raita {i}: {track.name}\n')
+                        for msg in track:
+                            kirjoitettava.write(f"{msg}\n")
+
     def palauta_raidan_aanet(self, raita_numero):
         '''
         Syöttää taulukkoon kaikki yhdellä midi-raidalla olevat soitetut sävelet
