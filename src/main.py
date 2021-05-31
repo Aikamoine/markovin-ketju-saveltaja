@@ -1,47 +1,42 @@
 '''
 Pääohjelma, joka ajetaan Invoken kautta
 '''
-
+from random import Random
 from musiikkiluokat.midikirjoittaja import Midikirjoittaja
 from musiikkiluokat.midilukija import Midilukija
 from musiikkiluokat.tempo import Tempo
 from trie.trie import Trie
 from markovin_ketjut.markov_savelma import MarkovSavelma
+from ui import UI
 
 def main():
-    '''
-    Pääohjelma ja käyttöliittymä
-    '''
-    print("Tyhjä syöte ja enter aloittaa ohjelman, muu syöte kirjoittaa midi-tiedoston rivit")
-    syote = input()
-    if len(syote) == 0:
-        ohjelma()
-    else:
-        tiedosto = "src//musiikkidata//F_Min-bwv795.mid"
-        lukija = Midilukija()
-        lukija.avaa_tiedosto(tiedosto)
-        lukija.tallenna_midin_tapahtumat("src//musiikkidata//")
-
-def ohjelma():
-    print("Anna trien syvyys. Tämä on myös Markovin ketjun aste. Suositus on väliltä 4 - 6.")
-    syvyys = int(input())
+    ui = UI()
+    syvyys = ui.kysy_syvyys()
     trie = Trie(syvyys)
+    print()
+
+    molli = ui.onko_molli()
+    print()
+    
+    savel = ui.kysy_savel()
+    print()
+
     lukija = Midilukija()
-    lukija.tallenna_polku_trieen("src//musiikkidata//", trie)
+    lukija.tallenna_polku_trieen("src//musiikkidata//", trie, molli, savel)
 
     trie.tallenna()
     print()
 
-    print("Anna tempo. Suositus on 120 - 150.")
-    valittu_tempo = int(input())
+    tempo = Tempo(ui.kysy_tempo())
     print()
-    tempo = Tempo(valittu_tempo)
-    markov = MarkovSavelma(trie, tempo)
 
-    print("Anna sävelmän äänten pituus. Suositus on vähintään 10, että on jotain kuunneltavaa.")
-    pituus = int(input())
+    arpoja = Random()
+    markov = MarkovSavelma(trie, tempo, arpoja)
+
+    tahteja = ui.kysy_tahdit()
     print()
-    markov.luo_savellys(pituus)
+
+    markov.luo_savellys(tahteja)
     midi = Midikirjoittaja()
     midi.kirjoita_aanet_uuteen_raitaan(0, markov.savelma, "uusi raita")
 

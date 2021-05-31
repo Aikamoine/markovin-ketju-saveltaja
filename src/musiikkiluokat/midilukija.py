@@ -5,6 +5,25 @@ Midilukija-luokka
 import os
 from mido import MidiFile
 
+AANET = {
+    "C": 0,
+    "C#": 1,
+    "Db": 1,
+    "D": 2,
+    "D#": 3,
+    "Eb": 3,
+    "E": 4,
+    "F": 5,
+    "F#": 6,
+    "Gb": 6,
+    "G": 7,
+    "G#": 8,
+    "Ab": 8,
+    "A": 9,
+    "A#": 10,
+    "Bb": 10,
+    "B": 11
+}
 class Midilukija:
     '''
     Olio, joka osaa lukea Midi-tiedostosta soitindataa
@@ -54,40 +73,68 @@ class Midilukija:
         '''
         for tiedosto in os.listdir(polku):
             if tiedosto.endswith(".mid"):
+                self.avaa_tiedosto(polku+tiedosto)
                 with open(f"{polku}{tiedosto[:-4]}.txt", 'w') as kirjoitettava:
-                    for i, track in enumerate(self.tiedosto.tracks):
-                        kirjoitettava.write(f'Raita {i}: {track.name}\n')
-                        for msg in track:
+                    for i, raita in enumerate(self.tiedosto.tracks):
+                        kirjoitettava.write(f'Raita {i}: {raita.name}\n')
+                        for msg in raita:
                             kirjoitettava.write(f"{msg}\n")
 
-    def palauta_raidan_aanet(self, raita_numero):
+    def palauta_raidan_aanet(self, raita, raidan_savel, savellaji):
         '''
         Syöttää taulukkoon kaikki yhdellä midi-raidalla olevat soitetut sävelet
-
+        Jokainen sävel transponoidaan C-asteikkoon, jotta ne olisivat vertailukelpoisia
         args:
-            raita_numero: raidan numero midi-tiedostossa, kokonaisluku
+            raita: raita midi-tiedostossa
+            raidan_savel: luettavan sävellyksen sävellaji
+            savellaji: nyt luotavan sävellyksen sävellaji
         '''
-        raita = self.tiedosto.tracks[raita_numero]
         aanet = []
         for viesti in raita:
             if not viesti.is_meta:
                 if viesti.type == "note_on":
-                    aanet.append(viesti.note)
+                    aani = viesti.note - AANET[raidan_savel] + AANET[savellaji]
+                    aanet.append(aani)
                     self.luettuja_savelia += 1
         return aanet
 
-    def tallenna_polku_trieen(self, polku, trie):
+    def tarkista_savellaji(self, raita):  # pylint: disable=no-self-use
+        '''
+        Lukee midiraidan läpi ja palauttaa siellä mainitun sävellajin
+
+        args:
+            raita: MidiFilen Track-olio
+        '''
+        for viesti in raita:
+            if viesti.type == "key_signature":
+                return viesti.key
+        return "Ei säveltä"
+
+    def tallenna_polku_trieen(self, polku, trie, molli, savel):
         '''
         Tallentaa kaikkien polussa olevien midi-tiedostojen soitetut sävelet trie-tietorakenteeseen
 
         args:
             polku: suhteellinen polku kansioon, jonka tiedostot luetaan
             trie: Trie-olio, johon tiedot tallennetaan
+            molli_duuri: boolean, joka kertoo tehdäänkö sävelmä mollissa, False = duuri
+            savel: sävelmän sävellaji
         '''
         for tiedosto in os.listdir(polku):
             if tiedosto.endswith(".mid"):
-                self.avaa_tiedosto(polku+tiedosto)
-                aanet = self.palauta_raidan_aanet(1)
-                trie.lisaa_aanet_trieen(aanet)
 
-        print(f"Luettu {self.luettuja_tiedostoja} tiedostoa, joissa {self.luettuja_savelia} säveltä")
+                self.avaa_tiedosto(polku + tiedosto)
+                for raita in self.tiedosto.tracks:
+                    raidan_savellaji = self.tarkista_savellaji(raita)
+
+                    if raidan_savellaji == "Ei säveltä":
+                        continue
+
+                    if (raidan_savellaji[-1] == "m") == molli:
+                        # Raidan molli-duuri -status on tarkastettu, enää kiinnostaa sävel
+                        raidan_savellaji = raidan_savellaji.split("m")[0]
+                        aanet = self.palauta_raidan_aanet(raita, raidan_savellaji, savel)
+                        trie.lisaa_aanet_trieen(aanet)
+
+        print(f"Luettu {self.luettuja_tiedostoja} tiedostoa")
+        print(f"Niistä kelpuutettu {self.luettuja_savelia} säveltä")
