@@ -4,6 +4,7 @@ __pycache__/
 /htmlcov
 /dokumentaatio/viikkoraportit/raporttipohja.md
 /src/savellykset/*
-/src/musiikkidata/*.txt
 !/src/savellykset/__init__.py
+/src/musiikkidata/*.txt
+/src/trie/trie.txt
 .vscode/
