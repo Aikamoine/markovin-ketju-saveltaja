@@ -2,9 +2,9 @@
 
 ## Nykyinen toiminta
 
-Ohjelmassa on (mielestäni) varsin yksinkertainen käyttöliittymä komentorivillä. Käyttöohjeessa sen valintoja on hieman laajennettu, mutta en usko ohjeen olevan kovin tarpeellinen.
+Ohjelma luo käyttäjän antamien parametrien perusteella sävelmiä.
 
-Ohjelma luo käyttäjän antamien parametrien perusteella sävelmiä. Tällä hetkellä ne kuulostavat hieman sattumanvaraisilta, koska äänten pituuksien arvontaan ei ole vielä panostettu kovin paljon. Kuitenkin teosten pitäisi kuulostaa suhteellisen melodisilta, eikä ainakaan epävireisiltä.
+Ohjelmassa on (mielestäni) varsin yksinkertainen käyttöliittymä komentorivillä. [Käyttöohjeessa](dokumentaatio/käyttöohje.md) sen valintoja on hieman laajennettu, mutta en usko ohjeen olevan kovin tarpeellinen.
 
 Komentoriviä käyttäessä on hyvä huomata, että käyttöliittymä kysyy syötteitä, kunnes se saa kelvollisen syötteen. Ohjelman pyöritykseen käytettävän Invoken takia syötteiden peruuttaminen ei onnistu, vaan ne tekevät näkymättömiä merkkejä syötteen perään. Eli jos kirjoitat jotain väärin, et pysty poistamaan väärää syötettä siltä riviltä, mutta voit kirjoittaa perään jotakin varmasti väärää ja painaa enter, niin pääse kokeilemaan uutta syötettä.
 

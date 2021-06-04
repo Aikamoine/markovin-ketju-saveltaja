@@ -10,7 +10,7 @@ src
 * musiikkiluokat
    * musiikin luomisen peruselementit, sekä miditiedostojen kirjoitusluokat
 * savellykset
-   * tänne tallentuu kaikki ohjelman tekemät kappalleet
+   * tänne tallentuu kaikki ohjelman tekemät kappaleet
 * tests
 * trie
    * trie-tietorakenteen luokat, sekä ohjelman suorituksessa muodostetun trien kuvaus
