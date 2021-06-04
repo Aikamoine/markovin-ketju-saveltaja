@@ -1,26 +1,27 @@
-'''
+"""
 Pituusarpoja-luokka
-'''
+"""
+
 
 class Pituusarpoja:
-    '''
+    """
     Olio, joka (ensimmäisen asteen) Markovin ketjua käyttäen arpoo sävelen pituuden
-    '''
+    """
 
     def __init__(self, arpoja):
-        '''
+        """
         Konstruktori.
             tilasiirtymat: taulukko, jonka perusteella siirrytään eri tilojen välillä
                            x-akseli kuvaa tietystä tilasta siirtymisen todennäköisyyksiä
             selitteet: tilasiirtymien indeksien selitteet
-        '''
+        """
         self.arpoja = arpoja
         self.tilasiirtymat = [
-            [30, 20, 20, 15, 15], #kokonuotti
-            [10, 40, 25, 15, 10], #puolinuotti
-            [10, 20, 40, 20, 10], #neljäsosanuotti
-            [15, 15, 15, 40, 15], #kahdeksasosanuotti
-            [5, 5, 20, 30, 40],   #kuudestoistaosanuotti
+            [30, 20, 20, 15, 15],  # kokonuotti
+            [10, 40, 25, 15, 10],  # puolinuotti
+            [10, 20, 40, 20, 10],  # neljäsosanuotti
+            [15, 15, 15, 40, 15],  # kahdeksasosanuotti
+            [5, 5, 20, 30, 40],  # kuudestoistaosanuotti
         ]
 
         self.selitteet = {
@@ -32,12 +33,12 @@ class Pituusarpoja:
         }
 
     def arvo_pituus(self, edellinen=2, maksimi=16):
-        '''
+        """
         Etsii seuraavan tilan. Tyhjälle tilalle etsitään arvo neljäsosanuotin arvojen perusteella
 
-        args:
+        Args:
             edellinen: edellistä tilaa, eli nuottia, kuvaava kokonaisluku
-        '''
+        """
         arvottu = self.arpoja.randint(1, 100)
         mahdolliset_tilat = self.tilasiirtymat[edellinen]
 

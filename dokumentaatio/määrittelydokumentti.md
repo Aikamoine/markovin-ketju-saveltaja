@@ -27,9 +27,7 @@ Muita itse implenetoitavia luokkia ja tietorakenteita:
 
 ### Malliaineisto
 
-Alustava ajatus on käyttää malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä.
-
-Tämä osa työstä ei ole vielä tätä kirjoittaessa vahvistunut. Määrittely malliaineistolle on, että saadaan muodostettua tunnetun ja arvostetun säveltäjän teoksista sävelkulkuja.
+Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä. Ohjelmakoodiin on ladattuna Bachin Innovationit ja Sinfoniat.
 
 ### Jatkokehitysideoita
 

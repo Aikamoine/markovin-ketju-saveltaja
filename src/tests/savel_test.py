@@ -1,6 +1,7 @@
 import unittest
 from musiikkiluokat.savel import Savel
 
+
 class SavelTest(unittest.TestCase):
     def setUp(self):
         self.testisavel_c_neg1 = Savel(0)

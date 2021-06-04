@@ -2,11 +2,11 @@
 
 ## Nykyinen toiminta
 
-HUOM! 31.5. tuoduissa muutoksissa ei ole kaikki dokumentaatio ajan tasalla!
-
 Ohjelmassa on (mielestäni) varsin yksinkertainen käyttöliittymä komentorivillä. Käyttöohjeessa sen valintoja on hieman laajennettu, mutta en usko ohjeen olevan kovin tarpeellinen.
 
 Ohjelma luo käyttäjän antamien parametrien perusteella sävelmiä. Tällä hetkellä ne kuulostavat hieman sattumanvaraisilta, koska äänten pituuksien arvontaan ei ole vielä panostettu kovin paljon. Kuitenkin teosten pitäisi kuulostaa suhteellisen melodisilta, eikä ainakaan epävireisiltä.
+
+Komentoriviä käyttäessä on hyvä huomata, että käyttöliittymä kysyy syötteitä, kunnes se saa kelvollisen syötteen. Ohjelman pyöritykseen käytettävän Invoken takia syötteiden peruuttaminen ei onnistu, vaan ne tekevät näkymättömiä merkkejä syötteen perään. Eli jos kirjoitat jotain väärin, et pysty poistamaan väärää syötettä siltä riviltä, mutta voit kirjoittaa perään jotakin varmasti väärää ja painaa enter, niin pääse kokeilemaan uutta syötettä.
 
 ## Linkit
 
@@ -15,9 +15,6 @@ Ohjelma luo käyttäjän antamien parametrien perusteella sävelmiä. Tällä he
 - [Määrittelydokumentti](dokumentaatio/määrittelydokumentti.md)
 - [Testausdokumentti](dokumentaatio/testausdokumentti.md)
 - [Käyttöohje](dokumentaatio/käyttöohje.md)
-
-Seuraavat ovat tyhjiä, mutta alustettu
-
 - [Toteutusdokumentti](dokumentaatio/toteutusdokumentti.md)
 
 ### Viikkoraportit
@@ -25,6 +22,7 @@ Seuraavat ovat tyhjiä, mutta alustettu
 - [Viikko 1](dokumentaatio/viikkoraportit/viikko1.md)
 - [Viikko 2](dokumentaatio/viikkoraportit/viikko2.md)
 - [Viikko 3](dokumentaatio/viikkoraportit/viikko3.md)
+- [Viikko 4](dokumentaatio/viikkoraportit/viikko4.md)
 
 ## Asennus ja komentorivitoiminnot
 

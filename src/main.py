@@ -9,15 +9,18 @@ from trie.trie import Trie
 from markovin_ketjut.markov_savelma import MarkovSavelma
 from ui import UI
 
+
 def main():
     ui = UI()
+    ui.tervetuloa()
+
     syvyys = ui.kysy_syvyys()
     trie = Trie(syvyys)
     print()
 
     molli = ui.onko_molli()
     print()
-    
+
     savel = ui.kysy_savel()
     print()
 
@@ -39,6 +42,7 @@ def main():
     markov.luo_savellys(tahteja)
     midi = Midikirjoittaja()
     midi.kirjoita_aanet_uuteen_raitaan(0, markov.savelma, "uusi raita")
+
 
 if __name__ == "__main__":
     main()

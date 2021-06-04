@@ -1,13 +1,8 @@
 import unittest
 from markovin_ketjut.korkeusarpoja import Korkeusarpoja
 from markovin_ketjut.pituusarpoja import Pituusarpoja
+from tests.fakerandom import FakeRandom
 
-class FakeRandom:
-    def __init__(self):
-        self.palautus = 0
-
-    def randint(self, eka, toka):
-        return self.palautus
 
 class KorkeusArpojaTest(unittest.TestCase):
     def setUp(self):
@@ -34,10 +29,11 @@ class KorkeusArpojaTest(unittest.TestCase):
         arvottu = self.hae_arvottu(68, 5)
         self.assertEqual(arvottu, 6)
 
-    #Tämä on vähän turha testi, mutta saadaanpa kattavuus täyteen...
+    # Tämä on vähän turha testi, mutta saadaanpa kattavuus täyteen...
     def test_arvo_yli100_edellinen_5_palauttaa_10(self):
         arvottu = self.hae_arvottu(101, 5)
         self.assertEqual(arvottu, 10)
+
 
 class PituusArpojaTest(unittest.TestCase):
     def setUp(self):
@@ -84,7 +80,7 @@ class PituusArpojaTest(unittest.TestCase):
         arvottu = self.hae_arvottu(10, "4osa", 1)
         self.assertEqual(arvottu, self.selitteet["16osa"])
 
-    #Tämä on vähän turha testi, mutta saadaanpa kattavuus täyteen...
+    # Tämä on vähän turha testi, mutta saadaanpa kattavuus täyteen...
     def test_arvo_yli100_edellinen_16osa_palauttaa_16osa(self):
         arvottu = self.hae_arvottu(101, "16osa", 16)
         self.assertEqual(arvottu, self.selitteet["16osa"])

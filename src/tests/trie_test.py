@@ -3,6 +3,7 @@ from trie.trie import Trie
 from musiikkiluokat.aani import Aani
 from musiikkiluokat.savel import Savel
 
+
 class TrieTest(unittest.TestCase):
     def setUp(self):
         self.trie = Trie(4)
