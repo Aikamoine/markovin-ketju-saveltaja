@@ -105,4 +105,3 @@ class Midikirjoittaja():
             self.lisaa_raitaan(nimi, savel, 64)
             self.poista_raidasta(nimi, savel, savel.pituus)
         print()
-        self.kirjoita_tiedosto()

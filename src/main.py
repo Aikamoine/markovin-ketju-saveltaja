@@ -34,15 +34,15 @@ def main():
     print()
 
     arpoja = Random()
-    markov = MarkovSavelma(trie, tempo, arpoja)
+    markov = MarkovSavelma(trie, tempo, savel, arpoja)
 
     tahteja = ui.kysy_tahdit()
     print()
 
     markov.luo_savellys(tahteja)
     midi = Midikirjoittaja()
-    midi.kirjoita_aanet_uuteen_raitaan(0, markov.savelma, "uusi raita")
-
-
+    midi.kirjoita_aanet_uuteen_raitaan(0, markov.savelma, "Melodia")
+    midi.kirjoita_aanet_uuteen_raitaan(0, markov.harmonia, "Harmonia")
+    midi.kirjoita_tiedosto()
 if __name__ == "__main__":
     main()

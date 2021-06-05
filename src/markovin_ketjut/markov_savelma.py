@@ -10,25 +10,32 @@ from markovin_ketjut.korkeusarpoja import Korkeusarpoja
 class MarkovSavelma():
     """
     Markovin ketjulla sävelmiä luova olio
+
+    trie: Trie-olio, jossa on tallennettuna erilaiset sävelkulut
+    savelma: taulukko Säveliä
+    pituusarpoja: Pituusarpoja-olio nuottien pituuksien generointiin
+    korkeusarpoja: Korkeusarpoja-olio nuottien korkeuksien generointiin
+    tempo: Tempo-olio nuottien pituuksien ja todellisten pituuksien tulkintaan
+    arpoja: Random-luokan olio
+    savel: sävellaji ilmaistuna tekstinä
     """
 
-    def __init__(self, opetusaineisto, tempo, arpoja):
+    def __init__(self, opetusaineisto, tempo, savel, arpoja):
         """
         Konstruktori
-            trie: Trie-olio, jossa on tallennettuna erilaiset sävelkulut
-            savelma: taulukko Säveliä
-            pituusarpoja: Pituusarpoja-olio nuottien pituuksien generointiin
-            tempo: Tempo-olio nuottien pituuksien ja todellisten pituuksien tulkintaan
+
         args:
             opetusaineisto: Trie-olio, jossa on tallennettuna erilaiset sävelkulut
             tempo: Tempo-olio
         """
         self.trie = opetusaineisto
         self.savelma = []
+        self.harmonia = []
         self.pituusarpoja = Pituusarpoja(arpoja)
         self.korkeusarpoja = Korkeusarpoja(arpoja)
         self.tempo = tempo
         self.arpoja = arpoja
+        self.savel = savel
 
     def luo_savellys(self, tahteja):
         """
@@ -37,11 +44,15 @@ class MarkovSavelma():
         ääni kerrallaan pois
 
         args:
-            tahteja: kuinka monta tahtai halutaan yhteensä generoida
-            // todo: generoidaan tahtien määrä
+            tahteja: kuinka monta tahtia halutaan yhteensä generoida
         """
         for i in range(tahteja):
-            tahdissa_jaljella = 16
+            #Lisätään tahdin alku silmukan ulkopuolella, niin saadaan harmoniaääni tahdin alkuun
+            seuraava = self._seuraava_solmu()
+            tahdissa_jaljella = self._lisaa_savelmaan(
+                seuraava, 16)
+
+            self._lisaa_harmonia()
 
             while tahdissa_jaljella > 0:
                 seuraava = self._seuraava_solmu()
@@ -72,7 +83,7 @@ class MarkovSavelma():
         """Arpoo parametrina saadulle äänelle korkeuden ja pituuden, lisää sen sitten sävelmään.
            Palauttaa tahdissa lisäyksen vapaana olevien kuudestoistaosien määrän
         Args:
-            seuraava: Ääni, joka tullaan lisäämään
+            seuraava: Aani, joka tullaan lisäämään
             tahdissa_jaljella: Kuinka monta kuudestoistaosaa nykyisessä tahdissa on vielä jäljellä.
         """
         uusi_aani = self._arvo_solmu(seuraava.lapset).aani
@@ -86,10 +97,27 @@ class MarkovSavelma():
         uusi_savel = Savel(uusi_aani.aani_luku +
                            aanenkorkeus, aanenpituus)
         self.savelma.append(uusi_savel)
-        print(str(self))
+        #print(str(self))
         print()
 
         return tahdissa_jaljella - (16 / (2**arvottu_pituus))
+
+    def _lisaa_harmonia(self):
+        """
+        Viimeksi lisätyn äänen perusteella tehdään kokonuotin pituinen harmoniaääni
+        Jos edellinen ääni on korkea (yli 4), lisätään sitä 7 intervallia matalampi ääni
+        Jos edellinen ääni on matala, lisätään sitä 5 intervallia korkeampi ääni
+        """
+        edellinen = self.savelma[-1]
+        edellinen_savel = edellinen.aani.aani_luku
+        pituus = self.tempo.get_aanen_pituus(0)
+        if edellinen.korkeus <= 3:
+            uusi = Savel(4 * 12 + edellinen_savel + 5, pituus)
+        else:
+            uusi = Savel(edellinen.korkeus * 12 + edellinen_savel - 7, pituus)
+
+        print(f"Lisätään harmoniaan ääni: {uusi}\n")
+        self.harmonia.append(uusi)
 
     def _tulosta_etsittava_savelma(self, savelma):  # pylint: disable=no-self-use
         """
