@@ -17,16 +17,18 @@ class MarkovSavelma():
     korkeusarpoja: Korkeusarpoja-olio nuottien korkeuksien generointiin
     tempo: Tempo-olio nuottien pituuksien ja todellisten pituuksien tulkintaan
     arpoja: Random-luokan olio
-    savel: sävellaji ilmaistuna tekstinä
+    savellaji: sävelmän sävellaji
     """
 
-    def __init__(self, opetusaineisto, tempo, savel, arpoja):
+    def __init__(self, opetusaineisto, tempo, savellaji, arpoja):
         """
         Konstruktori
 
-        args:
+        Args:
             opetusaineisto: Trie-olio, jossa on tallennettuna erilaiset sävelkulut
             tempo: Tempo-olio
+            savellaji: Savellaji-olio, joka sisältää käyttäjän määrittämän sävellajin
+            arpoja: Random-luokan olio
         """
         self.trie = opetusaineisto
         self.savelma = []
@@ -35,7 +37,7 @@ class MarkovSavelma():
         self.korkeusarpoja = Korkeusarpoja(arpoja)
         self.tempo = tempo
         self.arpoja = arpoja
-        self.savel = savel
+        self.savellaji = savellaji
 
     def luo_savellys(self, tahteja):
         """
@@ -47,7 +49,7 @@ class MarkovSavelma():
             tahteja: kuinka monta tahtia halutaan yhteensä generoida
         """
         for i in range(tahteja):
-            #Lisätään tahdin alku silmukan ulkopuolella, niin saadaan harmoniaääni tahdin alkuun
+            #Lisätään tahdin ensimmäinen ääni silmukan ulkopuolella, niin saadaan harmoniaääni tahdin alkuun
             seuraava = self._seuraava_solmu()
             tahdissa_jaljella = self._lisaa_savelmaan(
                 seuraava, 16)
@@ -62,12 +64,15 @@ class MarkovSavelma():
 
             print(f"Tahti {i + 1} kirjoitettu\n")
 
+        self._lisaa_loppusointu()
+
     def _seuraava_solmu(self):
         """
         Hakee triestä seuraavan solmun, joka vastaa mahdollismman suurta
         astetta kirjoitetun sävelmän lopusta nähden.
         """
-        kaytettava_savelma = self.savelma[-self.trie.maksimisyvyys:]
+
+        kaytettava_savelma = self.savelma[-self.trie.maksimisyvyys + 1:]
         while True:
             self._tulosta_etsittava_savelma(kaytettava_savelma)
             seuraava = self.trie.loyda_seuraava_solmu(
@@ -118,6 +123,31 @@ class MarkovSavelma():
 
         print(f"Lisätään harmoniaan ääni: {uusi}\n")
         self.harmonia.append(uusi)
+
+    def _lisaa_loppusointu(self):
+        """
+        Lisää sävellajin perusteella viimeiseksi ääneksi pitkän soinnun.
+        Näin sävelmä kuulosta enemmän loppuneelta
+        Lisätään korkean viimeisen äänen perään oktaavia matalampi ääni.
+        Matalan äänen perään lisätään 4-oktaavilta
+        """
+        edellinen_korkeus = self.harmonia[-1].korkeus
+        if edellinen_korkeus > 5:
+            korkeuskerroin = edellinen_korkeus - 1
+        else:
+            korkeuskerroin = 5
+
+        juurinuotti = self.savellaji.savel_indeksi + (12 * korkeuskerroin)
+
+        if self.savellaji.onko_molli():
+            terssi = juurinuotti + 3
+        else:
+            terssi = juurinuotti + 4
+
+        pituus = self.tempo.get_aanen_pituus(0)
+        self.savelma.append(Savel(juurinuotti, pituus))
+        self.harmonia.append(Savel(terssi, pituus))
+        print("Lisätty loppusointu\n")
 
     def _tulosta_etsittava_savelma(self, savelma):  # pylint: disable=no-self-use
         """

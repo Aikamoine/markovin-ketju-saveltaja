@@ -5,6 +5,7 @@ from random import Random
 from musiikkiluokat.midikirjoittaja import Midikirjoittaja
 from musiikkiluokat.midilukija import Midilukija
 from musiikkiluokat.tempo import Tempo
+from musiikkiluokat.savellaji import Savellaji
 from trie.trie import Trie
 from markovin_ketjut.markov_savelma import MarkovSavelma
 from ui import UI
@@ -24,8 +25,10 @@ def main():
     savel = ui.kysy_savel()
     print()
 
+    savellaji = Savellaji(molli, savel)
+
     lukija = Midilukija()
-    lukija.tallenna_polku_trieen("src//musiikkidata//", trie, molli, savel)
+    lukija.tallenna_polku_trieen("src//musiikkidata//", trie, savellaji)
 
     trie.tallenna()
     print()
@@ -34,7 +37,7 @@ def main():
     print()
 
     arpoja = Random()
-    markov = MarkovSavelma(trie, tempo, savel, arpoja)
+    markov = MarkovSavelma(trie, tempo, savellaji, arpoja)
 
     tahteja = ui.kysy_tahdit()
     print()

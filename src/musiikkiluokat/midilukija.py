@@ -97,7 +97,7 @@ class Midilukija:
         for viesti in raita:
             if not viesti.is_meta:
                 if viesti.type == "note_on":
-                    aani = viesti.note - AANET[raidan_savel] + AANET[savellaji]
+                    aani = viesti.note - savellaji.aanelle_indeksi(raidan_savel) + savellaji.savel_indeksi
                     aanet.append(aani)
                     self.luettuja_savelia += 1
         return aanet
@@ -114,15 +114,14 @@ class Midilukija:
                 return viesti.key
         return "Ei säveltä"
 
-    def tallenna_polku_trieen(self, polku, trie, molli, savel):
+    def tallenna_polku_trieen(self, polku, trie, savellaji):
         """
         Tallentaa kaikkien polussa olevien midi-tiedostojen soitetut sävelet trie-tietorakenteeseen
 
         args:
             polku: suhteellinen polku kansioon, jonka tiedostot luetaan
             trie: Trie-olio, johon tiedot tallennetaan
-            molli_duuri: boolean, joka kertoo tehdäänkö sävelmä mollissa, False = duuri
-            savel: sävelmän sävellaji
+            savellaji: sävelmän sävellaji
         """
         for tiedosto in os.listdir(polku):
             if tiedosto.endswith(".mid"):
@@ -134,11 +133,11 @@ class Midilukija:
                     if raidan_savellaji == "Ei säveltä":
                         continue
 
-                    if (raidan_savellaji[-1] == "m") == molli:
+                    if (raidan_savellaji[-1] == "m") == savellaji.onko_molli():
                         # Raidan molli-duuri -status on tarkastettu, enää kiinnostaa sävel
                         raidan_savellaji = raidan_savellaji.split("m")[0]
                         aanet = self.palauta_raidan_aanet(
-                            raita, raidan_savellaji, savel)
+                            raita, raidan_savellaji, savellaji)
                         trie.lisaa_aanet_trieen(aanet)
 
         print(f"Luettu {self.luettuja_tiedostoja} tiedostoa")

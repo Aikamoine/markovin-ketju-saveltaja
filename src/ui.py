@@ -9,6 +9,7 @@ class UI:
     """
 
     def tervetuloa(self):
+        print()
         print("Tällä sovelluksella pääset luomaan mahtavia musikaalisia elämyksiä.")
         print("Aluksi sovellus kysyy sinulta parametreja kappaleen luontiin.\n")
         print("Jokaisen syötteen kohdalla voit lopettaa kirjoittamalla 'exit'\n")
