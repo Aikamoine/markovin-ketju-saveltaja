@@ -8,7 +8,7 @@ from musiikkiluokat.aani import Aani
 class Savel():
     """
     Sävelen tiedot sisällään pitävä olio
-        midi: midi-standardin mukainen äänen yksikkö, kokonaisluku 0 - 127
+        midi_aani: midi-standardin mukainen äänen yksikkö, kokonaisluku 0 - 127
         aani: sävelen nimi, Aani-olio
         korkeus: sävelen oktaavi, kokonaisluku välillä 0 - 10
         pituus: sävelen kesto, kokonaisluku sekunnin tuhannesosina

@@ -5,27 +5,6 @@ Midilukija-luokka
 import os
 from mido import MidiFile
 
-AANET = {
-    "C": 0,
-    "C#": 1,
-    "Db": 1,
-    "D": 2,
-    "D#": 3,
-    "Eb": 3,
-    "E": 4,
-    "F": 5,
-    "F#": 6,
-    "Gb": 6,
-    "G": 7,
-    "G#": 8,
-    "Ab": 8,
-    "A": 9,
-    "A#": 10,
-    "Bb": 10,
-    "B": 11
-}
-
-
 class Midilukija:
     """
     Olio, joka osaa lukea Midi-tiedostosta soitindataa
@@ -97,7 +76,9 @@ class Midilukija:
         for viesti in raita:
             if not viesti.is_meta:
                 if viesti.type == "note_on":
-                    aani = viesti.note - savellaji.aanelle_indeksi(raidan_savel) + savellaji.savel_indeksi
+                    aani = viesti.note
+                    aani -= savellaji.aanelle_indeksi(raidan_savel)
+                    aani += savellaji.savel_indeksi
                     aanet.append(aani)
                     self.luettuja_savelia += 1
         return aanet

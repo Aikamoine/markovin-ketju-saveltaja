@@ -11,14 +11,12 @@ class Aani:
     Ääni kuvastaa tyypillisessä länsimaisessa musiikkijärjestelmässä mikä 12 puolisävelaskeleesta
     on kyseessä. Midi-standardissa C on 0 ja mikä tahansa kahdellatoista jaollinen
 
-    aani_luku: kokonaisluku väliltä 0 - 12 
+    aani_luku: kokonaisluku väliltä 0 - 12
     """
 
     def __init__(self, midi_aani):
         """
-        Konstruktori
-
-        args:
+        Args:
             midi_aani: midi-standardin mukainen äänen yksikkö, kokonaisluku 0 - 127
         """
         self.aani_luku = midi_aani % 12
@@ -27,7 +25,7 @@ class Aani:
         """
         Yhtäläisyysvertailu. Vain sävelen nimeä verrataan, ei korkeutta
 
-        args:
+        Args:
             savel: Savel-olio
         """
         if isinstance(aani, Aani):

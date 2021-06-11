@@ -22,8 +22,6 @@ class MarkovSavelma():
 
     def __init__(self, opetusaineisto, tempo, savellaji, arpoja):
         """
-        Konstruktori
-
         Args:
             opetusaineisto: Trie-olio, jossa on tallennettuna erilaiset sävelkulut
             tempo: Tempo-olio
@@ -45,11 +43,12 @@ class MarkovSavelma():
         korkean asteen yhtenevyys. Jos sellaista ei löydy, tiputetaan haettavasta sävelmästä yksi
         ääni kerrallaan pois
 
-        args:
+        Args:
             tahteja: kuinka monta tahtia halutaan yhteensä generoida
         """
         for i in range(tahteja):
-            #Lisätään tahdin ensimmäinen ääni silmukan ulkopuolella, niin saadaan harmoniaääni tahdin alkuun
+            #Lisätään tahdin ensimmäinen ääni silmukan ulkopuolella,
+            #näin saadaan harmoniaääni tahdin alkuun
             seuraava = self._seuraava_solmu()
             tahdissa_jaljella = self._lisaa_savelmaan(
                 seuraava, 16)
@@ -86,7 +85,8 @@ class MarkovSavelma():
 
     def _lisaa_savelmaan(self, seuraava, tahdissa_jaljella):
         """Arpoo parametrina saadulle äänelle korkeuden ja pituuden, lisää sen sitten sävelmään.
-           Palauttaa tahdissa lisäyksen vapaana olevien kuudestoistaosien määrän
+           Palauttaa tahdissa lisäyksen jälkeen vapaana olevien kuudestoistaosien määrän
+
         Args:
             seuraava: Aani, joka tullaan lisäämään
             tahdissa_jaljella: Kuinka monta kuudestoistaosaa nykyisessä tahdissa on vielä jäljellä.
@@ -102,7 +102,6 @@ class MarkovSavelma():
         uusi_savel = Savel(uusi_aani.aani_luku +
                            aanenkorkeus, aanenpituus)
         self.savelma.append(uusi_savel)
-        #print(str(self))
         print()
 
         return tahdissa_jaljella - (16 / (2**arvottu_pituus))
@@ -153,7 +152,7 @@ class MarkovSavelma():
         """
         Tulostaa komentoriville seuraavaksi triestä etsittävän sävelmän
 
-        args:
+        Args:
             savelma: osataulukko self.savelma -oliomuuttujasta
         """
         printtaus = ""
@@ -166,7 +165,7 @@ class MarkovSavelma():
         """
         Laskee vaihtoehtojen jakauman ja sen perusteella arpoo yhden solmun
 
-        args:
+        Args:
             vaihtoehdot: taulukko Solmuja
         """
         yhteensa = 0
@@ -202,9 +201,8 @@ class MarkovSavelma():
         """
         Arpoo sävelen pituuden viimeisimmän sävelmään talletetun sävelen perusteella.
         Palauttaa äänen pituutta kuvaavan kokonaisluvun, 0 on kokonuotti.
-        ja toinen arvo on kuinka monta kuudestoistaosaa ääni vie tahdista
 
-        args:
+        Args:
             max_pituus: kuinka monta kuudestoistaosaa pituus voi enintään olla
         """
         pituus = 0

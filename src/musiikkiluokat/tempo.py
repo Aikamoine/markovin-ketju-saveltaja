@@ -8,15 +8,14 @@ class Tempo:
     Midi-tiedoston edistämiseen käytetään tuhannesosasekunteja kokonaislukuina
     Tämä luokka muodostaa musiikissa käytetyn iskua per minuutti / temmon
 
-    bps: iskua sekunnissa
-    nuottien pituudet: nuotin pituus sekunnin tuhannesosina
+    pituudet: nuottien pituudet sekunnin tuhannesosina
     """
 
     def __init__(self, bpm=120):
         """
         Konstruktori.
 
-        args: bpm = iskua minuutissa, eli kappaleen tempo
+        Args: bpm = iskua minuutissa, eli kappaleen tempo
         """
         bps = bpm / 60
         self.pituudet = [int(1000 / (bps / 4)),
@@ -30,8 +29,8 @@ class Tempo:
         """
         Palauttaa nuotin pituuden sekunnin tuhannesosina
 
-        args:
-            nuotti: äänen pituuden indeksi, 0 on täysnuotti, 1 puolinuotti, jne
+        Args:
+            nuotti: äänen pituuden indeksi, 0 on täysnuotti, 1 puolinuotti, jne.
         """
         print(f"Määritettiin äänen pituudeksi: {self.pituudet[nuotti]}")
         return self.pituudet[nuotti]

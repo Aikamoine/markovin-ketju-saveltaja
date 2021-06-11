@@ -24,9 +24,15 @@ AANET = {
 
 class Savellaji:
     """
-    Kappaleen sävellajia kuvaava olio
+    Kappaleen sävellajia kuvaava olio. Kokonaislukujen arvot tulevat Midi-standardista, jossa
+    C on aina oktaavin matalin ääni.
     """
     def __init__(self, molli, savel):
+        """
+        Args:
+            molli: boolean, onko sävellaji mollissa
+            savel: teksti, mikä on kappaleen sävellaji
+        """
         if molli:
             self.laji = "m"
         else:
@@ -35,7 +41,17 @@ class Savellaji:
         self.savel_indeksi = AANET[savel]
 
     def onko_molli(self):
+        """
+        Palauttaa boolean arvon siitä, onko sävelmä mollissa.
+        False tarkoittaa, että sävelmä on duurissa
+        """
         return self.laji == "m"
 
-    def aanelle_indeksi(self, aani):
+    def aanelle_indeksi(self, aani):  # pylint: disable=no-self-use
+        """
+        Palauttaa tekstimuotoiselle sävelen kuvaukselle, esim C tai G# sen indeksin
+        Indeksi tulee Midi-standardista, jossa C on aina oktaavin ensimmäinen sävel - eli 0
+        Args:
+            aani: sävelen nimi tekstinä, esim C, G# tai Bb
+        """
         return AANET[aani]

@@ -24,8 +24,6 @@ class Midikirjoittaja():
     def kirjoita_tiedosto(self):
         """
         Tallentaa Midi-tiedoston.
-
-        Todo: Tallennussijainti jotenkin käyttäjän päätettäväksi
         """
         aikaleima = self._luo_aikaleima()
         tiedostonimi = f'src/savellykset/savelma{aikaleima}.mid'
@@ -43,8 +41,8 @@ class Midikirjoittaja():
         """
         Lisää Midi-tiedostoon uuden sointiraidan
 
-        args:
-            soitin: Midi-standardin mukainen soittimen tunnus, kokonaisluku
+        Args:
+            soitin: Midi-standardin mukainen soittimen tunnus, kokonaisluku, 0 on akustinen piano
             nimi: uuden raidan nimi
         """
         raita = MidiTrack()
@@ -56,35 +54,34 @@ class Midikirjoittaja():
         """
         Lisää äänen nimettyyn raitaan
 
-        args:
+        Args:
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
             savel: Sävel-olio, jonka mukainen ääni lisätään
             voimakkuus: kuinka kovaa ääni soitetaan. Midin oletusvoimakkuus on 64
         """
         raita = self.raidat[nimi]
         raita.append(Message('note_on', note=savel.midi,
-                     velocity=voimakkuus, time=0))
-        # self.mid.print_tracks()
+                             velocity=voimakkuus, time=0))
 
     def poista_raidasta(self, nimi, savel, aika):
         """
         Poistaa äänen raidasta. Raita edistyy annetun ajan verran.
 
-        args:
+        Args:
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
             savel: Sävel-olio, jonka mukainen ääni poistetaan
-            aika: aika, jonka kohdalla poisto tapahtuu. Kokonaisluku mikrosekunteina
+            aika: aika, jonka kohdalla poisto tapahtuu. Kokonaisluku sekunnin tuhannesosina
         """
         raita = self.raidat[nimi]
         raita.append(Message('note_off', note=savel.midi,
-                     velocity=127, time=aika))
+                             velocity=127, time=aika))
 
     def edista_raitaa(self, nimi, aika):
         """
         Poistaa raidasta kaikista matalimman äänen ja edistää raitaa ajan verran
         Oletus on, että koko skaalan matalinta ääntä ei käytetä
 
-        args:
+        Args:
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
             aika: aika, jonka kohdalla poisto tapahtuu. Kokonaisluku mikrosekunteina
         """
@@ -95,7 +92,8 @@ class Midikirjoittaja():
         """
         Luo uuden raidan ja kirjoittaa kaikki annetut äänet sinne.
 
-        args:
+        Args:
+            soitin: Midi-standardin mukainen soittimen tunnus, kokonaisluku, 0 on akustinen piano
             savelet: taulukko Säveliä
             nimi: raita, johon lisätään - raidan tekstimuotoinen nimi
         """

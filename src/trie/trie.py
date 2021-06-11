@@ -13,9 +13,12 @@ class Trie():
 
     def __init__(self, maksimisyvyys):
         """
-        Konstruktori.
-        Alustaa juurisolmu-muuttujan Solmuksi, jolla ei ole säveltä
+        Konstruktori. Alustaa juurisolmu-muuttujan Solmuksi, jolla ei ole säveltä
+
+        Args:
+            maksimisyvyys: kokonaisluku. Kuinka monta tasoa Triehen kirjoitetaan enimmillään.
         """
+
         self.juurisolmu = Solmu(None)
         self.maksimisyvyys = maksimisyvyys
 
@@ -23,7 +26,7 @@ class Trie():
         """
         Lisää Trieen kokonaisen sävelmän
 
-        args:
+        Args:
             savelma: taulukko Aani-olioita
         """
         lahtosolmu = self.juurisolmu
@@ -47,7 +50,7 @@ class Trie():
         sen viimeiseen solmuun saakka. Palauttaa siis viimeisen solmun,
         joka kuuluu annettuun sävelmään.
 
-        args:
+        Args:
             savelma: taulukko Aani-olioita
         """
         lahtosolmu = self.juurisolmu
@@ -66,18 +69,17 @@ class Trie():
 
     def tallenna(self):
         """
-        Tallentaa Trien tiedostoon, että jokainen solmu on sisennetty vanhempaansa nähden
+        Tallentaa Trien tiedostoon, siten että jokainen solmu on sisennetty vanhempaansa nähden
         """
-        #tiedosto = open("src//trie//trie.txt", "w")
         with open("src//trie//trie.txt", "w") as tiedosto:
             for solmu in self.juurisolmu.lapset:
                 solmu.tallenna("", tiedosto)
 
     def lisaa_aanet_trieen(self, aanet):
         """
-        Lisää taulukon kaikki äänet Trieen.
+        Lisää taulukon kaikki äänet Trieen. Siten, että annettu maksimisyvyys säilyy
 
-        args:
+        Args:
             aanet: taulukko kokonaislukuja, Midi-standarin äänenkorkeuksia
         """
         lisattavat = []
@@ -92,7 +94,7 @@ class Trie():
             self.lisaa_savelma(lisattavat)
 
 
-class Solmu():
+class Solmu():  # pylint: disable=too-few-public-methods
     """
     Solmu-olio. Näistä koostuu Trie-puu
 
@@ -115,6 +117,10 @@ class Solmu():
     def tallenna(self, sisennys, tiedosto):
         """
         Tallentaa Solmun tiedostoon siten, että jokainen solmu on sisennetty vanhempaansa nähden
+
+        Args:
+            sisennys: tekstimuodossa kirjoitettavan sisennyksen merkit
+            tiedosto: avattu tiedosto, johon solmun tiedot kirjoitetaan
         """
         tiedosto.write(f"{sisennys}{str(self.aani)}, {self.maara} kpl\n")
         for solmu in self.lapset:

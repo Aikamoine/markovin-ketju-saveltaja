@@ -4,12 +4,14 @@ from trie.trie import Trie
 from musiikkiluokat.savel import Aani
 from musiikkiluokat.tempo import Tempo
 from musiikkiluokat.savel import Savel
+from musiikkiluokat.savellaji import Savellaji
 from tests.fakerandom import FakeRandom
 
 class MarkoSavelmaTest(unittest.TestCase):
     def setUp(self):
         self.arpoja = FakeRandom
-        self.markov = MarkovSavelma(self._luo_trie(), Tempo(), self.arpoja)
+        self.savellaji = Savellaji(False, "C")
+        self.markov = MarkovSavelma(self._luo_trie(), Tempo(), self.savellaji,  self.arpoja)
 
     def _luo_trie(self):
         trie = Trie(4)

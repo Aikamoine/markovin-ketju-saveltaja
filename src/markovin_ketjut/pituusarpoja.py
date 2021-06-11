@@ -3,25 +3,28 @@ Pituusarpoja-luokka
 """
 
 
-class Pituusarpoja:
+class Pituusarpoja:  # pylint: disable=too-few-public-methods
     """
     Olio, joka (ensimmäisen asteen) Markovin ketjua käyttäen arpoo sävelen pituuden
+
+    arpoja: Arpoja-olio (Random-kirjastosta)
+    tilasiirtymat: taulukko, jonka perusteella siirrytään eri tilojen välillä
+                           x-akseli kuvaa tietystä tilasta siirtymisen todennäköisyyksiä
+    selitteet: tilasiirtymien indeksien selitteet
     """
 
     def __init__(self, arpoja):
         """
-        Konstruktori.
-            tilasiirtymat: taulukko, jonka perusteella siirrytään eri tilojen välillä
-                           x-akseli kuvaa tietystä tilasta siirtymisen todennäköisyyksiä
-            selitteet: tilasiirtymien indeksien selitteet
+        Args:
+            arpoja: Arpoja-olio (Random-kirjastosta)
         """
         self.arpoja = arpoja
         self.tilasiirtymat = [
             [30, 20, 20, 15, 15],  # kokonuotti
             [10, 40, 25, 15, 10],  # puolinuotti
-            [10, 20, 40, 20, 10],  # neljäsosanuotti
-            [15, 15, 15, 40, 15],  # kahdeksasosanuotti
-            [5, 5, 20, 30, 40],  # kuudestoistaosanuotti
+            [0, 0, 20, 80, 0],  # neljäsosanuotti
+            [0, 0, 10, 80, 10],  # kahdeksasosanuotti
+            [0, 0, 0, 80, 20],  # kuudestoistaosanuotti
         ]
 
         self.selitteet = {
@@ -35,9 +38,11 @@ class Pituusarpoja:
     def arvo_pituus(self, edellinen=2, maksimi=16):
         """
         Etsii seuraavan tilan. Tyhjälle tilalle etsitään arvo neljäsosanuotin arvojen perusteella
+        Varmistaa, ettei arvota tahdin ylittäviä pituuksia
 
         Args:
             edellinen: edellistä tilaa, eli nuottia, kuvaava kokonaisluku
+            maksimi: yhdessä tahdissa jäljellä olevien kuudestoistaosien määrä
         """
         arvottu = self.arpoja.randint(1, 100)
         mahdolliset_tilat = self.tilasiirtymat[edellinen]

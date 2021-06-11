@@ -27,20 +27,23 @@ Muita itse implenetoitavia luokkia ja tietorakenteita:
 
 ### Malliaineisto
 
-Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä. Ohjelmakoodiin on ladattuna Bachin Innovationit ja Sinfoniat.
+Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä. Ohjelmakoodiin on ladattuna Bachin Inventionit ja Sinfoniat.
 
 ### Jatkokehitysideoita
 
-Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia.
+Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia. Tämä ominaisuus toteutettu viikon 5 aikana.
 
 Määrittelyn ulkopuolelle jätetään myös ohjelman tuottaman musiikin dynamiikan lisääminen. Mikäli aikaa jää, niin keskitytään tekemään mielenkiintoisempia aikarakenteita ja tahtikuvioita.
 
+Harmonian mahdollisuuksia olisi mielenkiintoista tutkia enemmän. Voisiko sitä lukea malliaineistosta? Tämä vaatisi myös äänten pituuksien lukemista.
+
 ## Lähteet
 
-Toistaiseksi käytössä olleita lähteitä
+Käytössä olleita lähteitä
 - [Markovin ketju, Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
 - [Trie-artikkeli ja implementaatio, Gild Academy](https://medium.com/@info.gildacademy/a-simpler-way-to-implement-trie-data-structure-in-python-efa6a958a4f2)
 - [Trie-artikkeli ja implementaatio, Shubhadeep Roychowdhury](https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1)
 - [Trie-tutoriaali, GeeksforGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/)
 - [Midi-standradin kuvauksia](http://www.music.mcgill.ca/~ich/classes/mumt306/StandardMIDIfileformat.html)
 - [Mido-kirjaston dokumentaatio](https://mido.readthedocs.io/en/latest/index.html)
+- [Bach Inventions and Sinfonias](https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach))

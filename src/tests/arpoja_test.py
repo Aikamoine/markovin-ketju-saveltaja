@@ -60,21 +60,21 @@ class PituusArpojaTest(unittest.TestCase):
         arvottu = self.hae_arvottu(100, "kokonuotti", 16)
         self.assertEqual(arvottu, self.selitteet["16osa"])
 
-    def test_arvo_1_edellinen_4osa_tahti_puolillaan_palauttaa_puolinuotti(self):
+    def test_arvo_1_edellinen_4osa_tahti_puolillaan_palauttaa_4osa(self):
         arvottu = self.hae_arvottu(1, "4osa", 8)
-        self.assertEqual(arvottu, self.selitteet["puolinuotti"])
-
-    def test_arvo_100_edellinen_4osa_tahti_puolillaan_palauttaa_16osa(self):
-        arvottu = self.hae_arvottu(100, "4osa", 8)
-        self.assertEqual(arvottu, self.selitteet["16osa"])
-
-    def test_arvo_31_edellinen_4osa_tahti_puolillaan_palauttaa_4osa(self):
-        arvottu = self.hae_arvottu(31, "4osa", 8)
         self.assertEqual(arvottu, self.selitteet["4osa"])
 
-    def test_arvo_30_edellinen_4osa_tahti_puolillaan_palauttaa_puolinuotti(self):
+    def test_arvo_100_edellinen_4osa_tahti_puolillaan_palauttaa_8osa(self):
+        arvottu = self.hae_arvottu(100, "4osa", 8)
+        self.assertEqual(arvottu, self.selitteet["8osa"])
+
+    def test_arvo_31_edellinen_4osa_tahti_puolillaan_palauttaa_8osa(self):
+        arvottu = self.hae_arvottu(31, "4osa", 8)
+        self.assertEqual(arvottu, self.selitteet["8osa"])
+
+    def test_arvo_30_edellinen_4osa_tahti_puolillaan_palauttaa_8osa(self):
         arvottu = self.hae_arvottu(30, "4osa", 8)
-        self.assertEqual(arvottu, self.selitteet["puolinuotti"])
+        self.assertEqual(arvottu, self.selitteet["8osa"])
 
     def test_arvo_10_edellinen_4osa_tahdissa_1_palauttaa_16osa(self):
         arvottu = self.hae_arvottu(10, "4osa", 1)
