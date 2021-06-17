@@ -27,7 +27,7 @@ Kaikkien ohjelman toimintojen pitäisi toimia O(n), ainakaan mikään kohta ei o
 
 ### Trie
 
-Dict-rakennetta käyttävän Trien lisäykset ja haut toimivat O(n) ajassa, kun n on trielle asetettu maksimisyvyys ([Trie, Wikipedia])(https://en.wikipedia.org/wiki/Trie#Algorithms). Tämän ohjelman nykyisellä toteutuksella jokaisen solmun lapset iteroidaan läpi ja katsotaan löytyykö etsittävää ääntä edustava solmu sieltä. Tämä saattaisi ensisilmäyksellä aiheuttaa korkeampaa aikavaativuutta.
+Dict-rakennetta käyttävän Trien lisäykset ja haut toimivat O(n) ajassa, kun n on trielle asetettu maksimisyvyys (Wikipedia). Tämän ohjelman nykyisellä toteutuksella jokaisen solmun lapset iteroidaan läpi ja katsotaan löytyykö etsittävää ääntä edustava solmu sieltä. Tämä saattaisi ensisilmäyksellä aiheuttaa korkeampaa aikavaativuutta.
 
 On kuitenkin hyvä huomata, että lasten suurin mahdollinen määrä on tällä toteutuksella 12, joten iteroinnin aiheuttama lisätyö on erittäin vähäinen. Mielekkäiden lopputulosten kannalta trien maksimisyvyyden ei kannata olla kovin suuri (muuten vain kopioidaan lähdekappaleita). Tällä toteutuksella triestä hakemisen ja sinne lisäämisen pahimman tapauksen aikavaativuus on tarkemmin ilmaistuna O(12n) = O(n).
 

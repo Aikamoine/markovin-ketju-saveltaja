@@ -23,7 +23,7 @@ Ohjelma tulostaa komentoriville vaiheita suorituksesta:
 - sävelmän muodostuksen vaiheet
 - midi-tiedoston kirjoituksen vaiheet
 - lisäksi ohjelma tallentaa Trie-puun sisällön omaan [tiedostoonsa](https://github.com/Aikamoine/markovin-ketju-saveltaja/tree/main/src/trie/trie.txt)
-   - Tätä tiedostoa ei ole repositoriassa, vaan se muodostuu vasta ensimmäisen ohjelman suorituksen jälkeen
+   - Tätä tiedostoa ei ole repositoriossa, vaan se muodostuu vasta ensimmäisen ohjelman suorituksen jälkeen
 
 Sävelmä muodostuu kansioon [src/savellykset](https://github.com/Aikamoine/markovin-ketju-saveltaja/tree/main/src/savellykset)
 
@@ -69,7 +69,7 @@ Komentoriviä käyttäessä on hyvä huomata, että käyttöliittymä kysyy syö
 
 Kun ohjelma on pyörähtänyt, ilmoittaa se komentorivillä mihin ja millä nimellä uusi kappale on tehty. Tiedoston polku ilmoitetaan suhteessa ohjelman juureen, mistä ohjelmakin ajetaan.
 
-Huom! Midi-soittimissa on huomattavia eroja ja ne todella vaikuttavat äänen laatuun - enemmän kuin kuulokkeet. Fuksiläppäriltä pitäisi löyty TiMidity, joka on suhteellisen hyvä.
+Huom! Midi-soittimissa on huomattavia eroja ja ne todella vaikuttavat äänen laatuun - enemmän kuin kuulokkeet. Fuksiläppäriltä pitäisi löytyä TiMidity, joka on suhteellisen hyvä.
 
 ## Manuaalisemmat toiminnot
 
