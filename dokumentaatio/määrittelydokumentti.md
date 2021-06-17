@@ -10,9 +10,9 @@
 
 Tarkoituksena on toteuttaa ohjelma, joka Markovin ketjuja hyödyntäen osaa "säveltää" malliaineiston pohjalta. Malliaineiston tiedot tallennetaan trie-tietorakenteeseen. Kun malliaineisto on muodostettu, generoidaan sen pohjalta satunnainen melodia.
 
-Jos ohjelmalle pitää määritellä jokin käyttötarkoitus, niin se olisi toimia ihmismuusikon inspiraation lähteenä. Näin ollen ensisijainen prioriteetti ei ole, että tuotetut tiedostot olisivat valmiita kappaleita, vaan että ne olisivat uniikkeja, melodisia. Tärkeämpää on äänten ja sointujen välinen vuorovaikutus kuin niiden soinnin pituuden ja voimmakkuuden vaihtelu.
+Jos ohjelmalle pitää määritellä jokin käyttötarkoitus, niin se olisi toimia ihmismuusikon inspiraation lähteenä. Näin ollen ensisijainen prioriteetti ei ole, että tuotetut tiedostot olisivat valmiita kappaleita, vaan että ne olisivat uniikkeja, melodisia. 
 
-Määrittelyä täsmennetään, kunhan implementaatio edistyy. Tässä ollaan itselle uuden äärellä, joten kaikki täsmällisempi määrittely olisi puhdasta arvausta.
+Malliaineistosta otetaan talteen vain toisiaan seuraavat äänet. Niiden korkeuksia tai kestoja ei tallenneta, vaan ne tuotetaan toisistaan riippumatta. Näin saadaan aikaan sekä uniikimpia että kaoottisempia sävelmiä.
 
 ### Algoritmit ja tietorakenteet
 
@@ -22,20 +22,23 @@ Trie on puolestaan hyvä tietorakenne sointukulkujen tallentamiseen, koska käyt
 
 Muita itse implenetoitavia luokkia ja tietorakenteita:
 - midi-tiedostojen muodostamiseen käytettävä luokka
-- sävelten, sointujen ja skaalojen käsittelyä helpottava luokka
-- luokka malliaineiston muodostamiseen 
+- musiikin peruselementtien, kuten sävelten, sointujen ja skaalojen käsittelyä helpottavia luokkia
 
 ### Malliaineisto
 
-Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä. Ohjelmakoodiin on ladattuna Bachin Inventionit ja Sinfoniat.
+Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://www.mutopiaproject.org/cgibin/make-table.cgi?Composer=BachJS). Aineistot ovat tekijänoikeuden ulkopuolella, joten ne ovat vapaasti käytettävissä. Ohjelman kansioon on ladattuna Bachin Inventionit ja Sinfoniat.
 
 ### Jatkokehitysideoita
 
-Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia. Tämä ominaisuus toteutettu viikon 5 aikana.
+Tässä on pyritty listaamaan ominaisuuksia, mitä ohjelmassa olisi hyvä kehittää. [Toteutusdokumentissa](dokumentaatio/toteutusdokumentti.md) on listattu hieman lisää teknisempiä kehitysideoita.
 
-Määrittelyn ulkopuolelle jätetään myös ohjelman tuottaman musiikin dynamiikan lisääminen. Mikäli aikaa jää, niin keskitytään tekemään mielenkiintoisempia aikarakenteita ja tahtikuvioita.
+Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia. Tämä ominaisuus toteutettu viikon 5 aikana siten, että jokaisen tahdin alkuun lisätään koko tahdin pituinen ääni harmoniassa tahdin ensimmäisen äänen suhteen.
+
+Musiikista voisi tehdä luonnollisemman kuuloista muutamalla äänten voimakkuutta, samaan tapaan kuin ne oikeassa soitossa muuttuvat. Myös vaihtoehtoiset tahtilajit olisi hyvä lisäys ohjelmaan.
 
 Harmonian mahdollisuuksia olisi mielenkiintoista tutkia enemmän. Voisiko sitä lukea malliaineistosta? Tämä vaatisi myös äänten pituuksien lukemista.
+
+Etenkin äänten pituutta arpovan luokan kanssa olisi kiinnostavaa toteuttaa toisen asteen Markovin ketju, jolloin otettaisiin kaksi edellistä ääntä huomioon. Tästä saisi varmasti rakennettua tyypillisemmältä kuulostavia musikaalisia motifeja.
 
 ## Lähteet
 

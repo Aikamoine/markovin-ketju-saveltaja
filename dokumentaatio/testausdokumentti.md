@@ -16,6 +16,14 @@ Testien haaraumakattavuudesta saat luotua raportin komennolla (tämä myös ajaa
 poetry run invoke kattavuusraportti
 ```
 
+## Testikattavuus
+
+Testikattavuus on pääpiirteittäin erittäin hyvällä tolalla. Oikeastaan ainoa vajavaisesti testattu luokka on [MarkovSavelma](src/markovin_ketjut/markov_savelma.py). 
+
+Käytännössä kaikki muut kattavuuspuutteet ovat tyylivalintoja; metodit palauttavat jonkin arvon silmukasta, joka on kirjoitettu siten, että arvo palautuu aina. Kuitenkin tällaisiin metodeihin on loppuun laitettu palautusarvo, jotta pylint ei kiukuttele puuttuvista palautuksista.
+
+MarkovSavelma-luokan testauksen puutteisiin on muutama syy. Suurin vaikuttava tekijä on ajan puute - joitakin metodeja on siis vain päätetty jättää testaamatta. Tämän lisäksi luokan metodit käyttävät melko paljon muita luokkia, jotka on jo testattu. Viimeisenä syynä testauksen puutteeseen täytyy tunnustaa, että koodin rakenne ei ole parasta mahdollista testien tekemiseen - työaika puolestaan ei ole riittänyt refaktorointiin tai haastaviin testitapauksiin.
+
 ## Yksikkötestauksen ulkopuolelle jätettyjä kokonaisuuksia
 
 omit = src/tests/**, src/savellykset/**, src/main.py, src/ui.py, src/midiluokat/**
@@ -28,8 +36,7 @@ Tämän lisäksi miditiedostoja manipuloivat luokat Midilukija ja Midikirjoittaj
 
 Ohjelman suorituskyvyn testaaminen on ollut lähes täysin manuaalista. 
 
-Käyttöliittymällä on mahdollista ajaa yksi suorituskykytesti, jossa Trieen luetaan malliaineisto useaan kertaan siten, että tiedostoja tulee yhteensä luettua 510 ja niistä poimitaan noin 150 000 säveltä. Tämä testi suorittaa omalla koneellani noin neljässä sekunnissa, mikä on suuren tiedostojen lukemisen määrän takia mielestäni oikein kelvollinen aika.
+Käyttöliittymällä on mahdollista ajaa yksi suorituskykytesti, jossa Trieen luetaan malliaineisto useaan kertaan siten, että tiedostoja tulee yhteensä luettua 510 ja niistä poimitaan noin 150 000 säveltä. Tämä testi suorittaa omalla koneellani noin neljässä sekunnissa, mikä on suuren tiedostojen levyltä lukemisen määrän takia mielestäni oikein kelvollinen aika.
 
-Muu suorituskykytestaus on käytännössä tarkoittanut luotujen sävelmien kuuntelua. Näistä testeistä on jonkin verran jätetty aineistoa polkuun (dokumentaatio/Esimerkkisävelmiä/). Tässä polussa sävelmiä on luokiteltu sen mukaan, kuulostavatko ne omaan korvaan hyviltä / kiinnostavilta, vai tylsiltä tai liian erikoisilta.
+Muusta suorituskykytestauksesta on kerrottu tarkemmin [toteutusdokumentissa](dokumentaatio/toteutusdokumentti.md).
 
-Kuunnellessa ohjelmalla ei ole saatu aikaan käytännössä yhtäkään epävireiseltä kuulostavaa sävelmää. Monet sävelmät ovat kuulostaneet ikäviltä, mutta tämä on käytännössä aina johtunut äänenkorkeuden ja -pituuden arvonnasta. Ne ominaisuudet ovat enemmän ohjelmoijan itse tuottamia, joten malliaineistoa ei siitä voi syyttää.

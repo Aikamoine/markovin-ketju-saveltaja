@@ -9,9 +9,9 @@ from tests.fakerandom import FakeRandom
 
 class MarkoSavelmaTest(unittest.TestCase):
     def setUp(self):
-        self.arpoja = FakeRandom
+        self.arpoja = FakeRandom()
         self.savellaji = Savellaji(False, "C")
-        self.markov = MarkovSavelma(self._luo_trie(), Tempo(), self.savellaji,  self.arpoja)
+        self.markov = MarkovSavelma(self._luo_trie(), Tempo(), self.savellaji, self.arpoja)
 
     def _luo_trie(self):
         trie = Trie(4)
@@ -52,3 +52,23 @@ class MarkoSavelmaTest(unittest.TestCase):
         self.markov.savelma.append(Savel(62, 2000))
         solmu = self.markov._seuraava_solmu()
         self.assertEqual(solmu.aani, Aani(62))
+
+    def test_arvo_korkeus_palauttaa_48_kun_arpoja_on_1_ja_savelma_tyhja(self):
+        self.arpoja.palautus = 1
+        self.assertEqual(self.markov._arvo_korkeus(), 48)
+
+    def test_arvo_korkeus_palauttaa_60_kun_arpoja_on_1_ja_edellinen_korkeus_on_oktaavilla_5(self):
+        self.arpoja.palautus = 1
+        savel = Savel(74, 2000)
+        self.markov.savelma.append(savel)
+        self.assertEqual(self.markov._arvo_korkeus(), 60)
+
+    def test_arvo_pituus_palauttaa_2_kun_arpoja_on_1_ja_savelma_tyhja(self):
+        self.arpoja.palautus = 1
+        self.assertEqual(self.markov._arvo_pituus(16), 2)
+
+    def test_arvo_pituus_palauttaa_3_kun_arpoja_on_1_ja_edellinen_pituus_kuudestoistaosa(self):
+        self.arpoja.palautus = 1
+        savel = Savel(74, 125)
+        self.markov.savelma.append(savel)
+        self.assertEqual(self.markov._arvo_pituus(16), 3)
