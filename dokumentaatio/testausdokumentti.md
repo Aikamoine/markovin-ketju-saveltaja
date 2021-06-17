@@ -18,7 +18,7 @@ poetry run invoke kattavuusraportti
 
 ## Testikattavuus
 
-Testikattavuus on pääpiirteittäin erittäin hyvällä tolalla. Oikeastaan ainoa vajavaisesti testattu luokka on [MarkovSavelma](src/markovin_ketjut/markov_savelma.py). 
+Testikattavuus on pääpiirteittäin erittäin hyvällä tolalla. Oikeastaan ainoa vajavaisesti testattu luokka on [MarkovSavelma](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/main/src/markovin_ketjut/markov_savelma.py). 
 
 Käytännössä kaikki muut kattavuuspuutteet ovat tyylivalintoja; metodit palauttavat jonkin arvon silmukasta, joka on kirjoitettu siten, että arvo palautuu aina. Kuitenkin tällaisiin metodeihin on loppuun laitettu palautusarvo, jotta pylint ei kiukuttele puuttuvista palautuksista.
 
@@ -26,7 +26,8 @@ MarkovSavelma-luokan testauksen puutteisiin on muutama syy. Suurin vaikuttava te
 
 ## Yksikkötestauksen ulkopuolelle jätettyjä kokonaisuuksia
 
-omit = src/tests/**, src/savellykset/**, src/main.py, src/ui.py, src/midiluokat/**
+Testikattavuusraportissa kattavauuden ulkopuolelle jättävä komento:
+- omit = src/tests/**, src/savellykset/**, src/main.py, src/ui.py, src/midiluokat/**
 
 Muutamia kokonaisuuksia on päätetty jättää testaamatta. Näistä luonnollisia pois jätettäviä main ja ui -tiedostot. Main-tiedosto on jätetty pois, koska siinä ei ole sinänsä mitään haauramia, joiden testaaminen olisi tarpeen - lisäksi kaikki sen käyttämät toiminnallisuudet testataan muiden testien ohessa. Käyttäjän kanssa kommunikoiva UI-luokka on jätetty yksikkötestien ulkopuolelle, koska se ei tee kovin monimutkaisia toimintoja. Lisäksi sen käyttäjätestaaminen tapahtuu jokaisen ohjelman ajon yhteydessä.
 
@@ -38,5 +39,5 @@ Ohjelman suorituskyvyn testaaminen on ollut lähes täysin manuaalista.
 
 Käyttöliittymällä on mahdollista ajaa yksi suorituskykytesti, jossa Trieen luetaan malliaineisto useaan kertaan siten, että tiedostoja tulee yhteensä luettua 510 ja niistä poimitaan noin 150 000 säveltä. Tämä testi suorittaa omalla koneellani noin neljässä sekunnissa, mikä on suuren tiedostojen levyltä lukemisen määrän takia mielestäni oikein kelvollinen aika.
 
-Muusta suorituskykytestauksesta on kerrottu tarkemmin [toteutusdokumentissa](dokumentaatio/toteutusdokumentti.md).
+Muusta suorituskykytestauksesta on kerrottu tarkemmin [toteutusdokumentissa](toteutusdokumentti.md).
 

@@ -19,9 +19,13 @@ Voit käynnistää ohjelman komennolla:
 ```bash
 poetry run invoke main
 ```
-Ohjelma tulostaa komentoriville vaiheita suorituksesta; Trie-puun rakenteen, luodun sävelmän vaiheittain, sekä midi-tiedoston kirjoituksen.
+Ohjelma tulostaa komentoriville vaiheita suorituksesta:
+- sävelmän muodostuksen vaiheet
+- midi-tiedoston kirjoituksen vaiheet
+- lisäksi ohjelma tallentaa Trie-puun sisällön omaan [tiedostoonsa](https://github.com/Aikamoine/markovin-ketju-saveltaja/tree/main/src/trie/trie.txt)
+   - Tätä tiedostoa ei ole repositoriassa, vaan se muodostuu vasta ensimmäisen ohjelman suorituksen jälkeen
 
-Sävelmä muodostuu kansioon (./src/savellykset):
+Sävelmä muodostuu kansioon [src/savellykset](https://github.com/Aikamoine/markovin-ketju-saveltaja/tree/main/src/savellykset)
 
 
 Testit suoritetaan komennolla:
@@ -58,6 +62,7 @@ Ohjelmaa käytetään komentoriviltä. Käynnistyksen yhteydessä kysytään kä
 - Sävelmän pituus: Kuinka monta tahtia sävelmään tuodaan. Kannattaa tehdä sopivan pitkä, että on jotain kuunneltavaa. Temmosta riippuen kiva pituus on 6 - 16.
    - Maksimipituus on 30 tahtia. Tämä alkaa olla jo aika pitkä siinä mielessä, että sävelmä ei "mene mihinkään". Tietysti pitkässä sävelmässä voi olla enemmän hienoja kohtia.
 
+### Käyttäjän kirjoitusvirheistä ohjelman suorituksen aikana
 Komentoriviä käyttäessä on hyvä huomata, että käyttöliittymä kysyy syötteitä, kunnes se saa kelvollisen syötteen. Ohjelman pyöritykseen käytettävän Invoken takia syötteiden peruuttaminen ei onnistu, vaan ne tekevät näkymättömiä merkkejä syötteen perään. Eli jos kirjoitat jotain väärin, et pysty poistamaan väärää syötettä siltä riviltä, mutta voit kirjoittaa perään jotakin varmasti väärää ja painaa enter, niin pääse kokeilemaan uutta syötettä.
 
 ## Valmis kappale
@@ -76,4 +81,4 @@ Huom! Jos nappaat jostakin tekijänoikeuden alaista lähdemateriaalia (ja luot s
 
 ### Todennäköisyyksien muuttaminen
 
-Ohjelman koodissa luokat [Korkeusarpoja](src/markovin_ketjut/korkeusarpoja.py) ja [Pituusarpoja](src/markovin_ketjut/pituusarpoja.py) sisältävät taulukot, joiden perusteella arvotaan sävelten pituuksia ja korkeuksia. Näitä taulukoita voi halutessaan muuttaa, jos haluaa yrittää luoda erityyppisiä sävelmiä. Varmista kuitenkin, että jokaisen rivin yhteissumma on 100, muuten arvonta ei ole tasapuolinen.
+Ohjelman koodissa luokat [Korkeusarpoja](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/main/src/markovin_ketjut/korkeusarpoja.py) ja [Pituusarpoja](https://github.com/Aikamoine/markovin-ketju-saveltaja/blob/main/src/markovin_ketjut/pituusarpoja.py) sisältävät taulukot, joiden perusteella arvotaan sävelten pituuksia ja korkeuksia. Näitä taulukoita voi halutessaan muuttaa, jos haluaa yrittää luoda erityyppisiä sävelmiä. Varmista kuitenkin, että jokaisen rivin yhteissumma on 100, muuten arvonta ei ole tasapuolinen.

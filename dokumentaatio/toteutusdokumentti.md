@@ -27,7 +27,7 @@ Kaikkien ohjelman toimintojen pitäisi toimia O(n), ainakaan mikään kohta ei o
 
 ### Trie
 
-Dict-rakennetta käyttävän Trien lisäykset ja haut toimivat O(n) ajassa, kun n on trielle asetettu maksimisyvyys [Trie, Wikipedia](https://en.wikipedia.org/wiki/Trie#Algorithms). Tämän ohjelman nykyisellä toteutuksella jokaisen solmun lapset iteroidaan läpi ja katsotaan löytyykö etsittävää ääntä edustava solmu sieltä. Tämä saattaisi ensisilmäyksellä aiheuttaa korkeampaa aikavaativuutta.
+Dict-rakennetta käyttävän Trien lisäykset ja haut toimivat O(n) ajassa, kun n on trielle asetettu maksimisyvyys ([Trie, Wikipedia])(https://en.wikipedia.org/wiki/Trie#Algorithms). Tämän ohjelman nykyisellä toteutuksella jokaisen solmun lapset iteroidaan läpi ja katsotaan löytyykö etsittävää ääntä edustava solmu sieltä. Tämä saattaisi ensisilmäyksellä aiheuttaa korkeampaa aikavaativuutta.
 
 On kuitenkin hyvä huomata, että lasten suurin mahdollinen määrä on tällä toteutuksella 12, joten iteroinnin aiheuttama lisätyö on erittäin vähäinen. Mielekkäiden lopputulosten kannalta trien maksimisyvyyden ei kannata olla kovin suuri (muuten vain kopioidaan lähdekappaleita). Tällä toteutuksella triestä hakemisen ja sinne lisäämisen pahimman tapauksen aikavaativuus on tarkemmin ilmaistuna O(12n) = O(n).
 
@@ -43,7 +43,7 @@ Tästä seuraa se, että todella pitkien kappaleiden tekeminen ei skaalaudu erit
 
 ## Suorituskyky
 
-Suorituskykytestaus on käytännössä tarkoittanut luotujen sävelmien kuuntelua. Näistä testeistä on jonkin verran jätetty [aineistoa](dokumentaatio/Esimerkkisävelmiä/). Sävelmiä on luokiteltu sen mukaan, kuulostavatko ne omaan korvaan hyviltä / kiinnostavilta, vai tylsiltä tai liian erikoisilta.
+Suorituskykytestaus on käytännössä tarkoittanut luotujen sävelmien kuuntelua. Näistä testeistä on jonkin verran jätetty [aineistoa](Esimerkkisävelmiä/). Sävelmiä on luokiteltu sen mukaan, kuulostavatko ne omaan korvaan hyviltä / kiinnostavilta, vai tylsiltä tai liian erikoisilta.
 
 Kuunnellessa ohjelmalla ei ole saatu aikaan käytännössä yhtäkään epävireiseltä kuulostavaa sävelmää. Monet sävelmät ovat kuulostaneet ikäviltä, mutta tämä on käytännössä aina johtunut äänenkorkeuden ja -pituuden arvonnasta. Ne ominaisuudet ovat enemmän ohjelmoijan itse tuottamia, joten malliaineistoa ei siitä voi syyttää.
 
@@ -55,7 +55,7 @@ Kaiken kaikkiaan sanoisin, että Trien ja Markovin ketjun yhdistelmää käyttä
 
 ## Jatkokehitysideoita
 
-Tässä on pyritty listaamaan teknisiä kehitysideoita, mitä ohjelmassa olisi hyvä kehittää. [Määrittelydokumentissa](dokumentaatio/määrittelydokumentti.md) on listattu lisäominaisuuksiin keskittyviä kehitysideoita.
+Tässä on pyritty listaamaan teknisiä kehitysideoita, mitä ohjelmassa olisi hyvä kehittää. [Määrittelydokumentissa](määrittelydokumentti.md) on listattu lisäominaisuuksiin keskittyviä kehitysideoita.
 
 Trien toteutusta voisi tehostaa sillä, että jokaisessa solmussa olisi valmiiksi taulukko, johon talletetaan indeksiä vastaava sävel. Tällöin vältyttäisiin iteroinnilta ja operaatiot olisivat entistäkin nopeampia. Trie ei kuitenkaan tämän ohjelman toiminnassa ole minkäänlainen pullonkaula, ja siinä navigointi tapahtuu reaalimailmassa tehokkaasti.
 

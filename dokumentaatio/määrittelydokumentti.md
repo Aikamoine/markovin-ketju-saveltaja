@@ -30,7 +30,7 @@ Käytetään malliaineistona Johann Sebastian Bachin [nuottiaineistoja](https://
 
 ### Jatkokehitysideoita
 
-Tässä on pyritty listaamaan ominaisuuksia, mitä ohjelmassa olisi hyvä kehittää. [Toteutusdokumentissa](dokumentaatio/toteutusdokumentti.md) on listattu hieman lisää teknisempiä kehitysideoita.
+Tässä on pyritty listaamaan ominaisuuksia, mitä ohjelmassa olisi hyvä kehittää. [Toteutusdokumentissa](toteutusdokumentti.md) on listattu hieman lisää teknisempiä kehitysideoita.
 
 Alustavasti määrittelyn ulkopuolelle jätetään moniraitaisten sävellysten luominen. Ensimmäinen perustoiminnallisuuden ulkopuolinen tavoite on tehdä ohjelma, joka osaa luomiensa sävellysten päälle generoida sointuja ja näin tehdä musikaalisempia teoksia. Tämä ominaisuus toteutettu viikon 5 aikana siten, että jokaisen tahdin alkuun lisätään koko tahdin pituinen ääni harmoniassa tahdin ensimmäisen äänen suhteen.
 
